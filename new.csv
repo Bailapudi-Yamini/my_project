@@ -1,0 +1,2200 @@
+,District_Name,Soil_color,Nitrogen,Phosphorus,Potassium,pH,Rainfall,Temperature,Crop,Fertilizer
+0,Kolhapur,Black,75,50,100,6.5,1000,20,Sugarcane,Urea
+1,Kolhapur,Black,80,50,100,6.5,1000,20,Sugarcane,Urea
+2,Kolhapur,Black,85,50,100,6.5,1000,20,Sugarcane,Urea
+4,Kolhapur,Black,95,50,100,6.5,1000,20,Sugarcane,Urea
+7,Kolhapur,Black,80,55,105,7.0,1100,25,Sugarcane,Urea
+8,Kolhapur,Black,85,55,105,7.0,1100,25,Sugarcane,Urea
+9,Kolhapur,Black,90,55,105,7.0,1100,25,Sugarcane,Urea
+10,Kolhapur,Black,95,55,105,7.0,1100,25,Sugarcane,Urea
+12,Kolhapur,Black,75,60,110,7.5,1200,30,Sugarcane,Urea
+13,Kolhapur,Black,80,60,110,7.5,1200,30,Sugarcane,Urea
+14,Kolhapur,Black,85,60,110,7.5,1200,30,Sugarcane,Urea
+16,Kolhapur,Black,95,60,110,7.5,1200,30,Sugarcane,Urea
+18,Kolhapur,Black,75,50,115,6.5,1300,35,Sugarcane,Urea
+20,Kolhapur,Black,85,50,115,6.5,1300,35,Sugarcane,Urea
+21,Kolhapur,Black,90,50,115,6.5,1300,35,Sugarcane,Urea
+22,Kolhapur,Black,95,50,115,6.5,1300,35,Sugarcane,Urea
+25,Kolhapur,Black,80,55,100,7.0,1400,20,Sugarcane,DAP
+28,Kolhapur,Black,95,55,100,7.0,1400,20,Sugarcane,DAP
+32,Kolhapur,Black,85,60,105,7.5,1500,25,Sugarcane,DAP
+35,Kolhapur,Black,100,60,105,7.5,1500,25,Sugarcane,DAP
+37,Kolhapur,Black,80,50,110,6.5,1000,30,Sugarcane,DAP
+38,Kolhapur,Black,85,50,110,6.5,1000,30,Sugarcane,DAP
+39,Kolhapur,Black,90,50,110,6.5,1000,30,Sugarcane,DAP
+40,Kolhapur,Black,95,50,110,6.5,1000,30,Sugarcane,DAP
+41,Kolhapur,Black,100,50,110,6.5,1000,30,Sugarcane,DAP
+43,Kolhapur,Black,80,55,115,7.0,1100,35,Sugarcane,DAP
+45,Kolhapur,Black,90,55,115,7.0,1100,35,Sugarcane,DAP
+46,Kolhapur,Black,95,55,115,7.0,1100,35,Sugarcane,DAP
+48,Kolhapur,Black,75,60,100,7.5,1200,20,Sugarcane,MOP
+50,Kolhapur,Black,85,60,100,7.5,1200,20,Sugarcane,MOP
+55,Kolhapur,Black,80,50,105,6.5,1300,25,Sugarcane,MOP
+60,Kolhapur,Black,75,55,110,7.0,1400,30,Sugarcane,MOP
+62,Kolhapur,Black,85,55,110,7.0,1400,30,Sugarcane,MOP
+63,Kolhapur,Black,90,55,110,7.0,1400,30,Sugarcane,MOP
+64,Kolhapur,Black,95,55,110,7.0,1400,30,Sugarcane,MOP
+65,Kolhapur,Black,100,55,110,7.0,1400,30,Sugarcane,MOP
+67,Kolhapur,Black,80,60,115,7.5,1500,35,Sugarcane,MOP
+68,Kolhapur,Black,85,60,115,7.5,1500,35,Sugarcane,MOP
+70,Kolhapur,Black,95,60,115,7.5,1500,35,Sugarcane,MOP
+71,Kolhapur,Black,100,60,115,7.5,1500,35,Sugarcane,MOP
+73,Kolhapur,Black,25,25,25,6.5,600,25,Jowar,10:26:26 NPK
+75,Kolhapur,Black,35,25,25,6.5,600,25,Jowar,10:26:26 NPK
+76,Kolhapur,Black,40,25,25,6.5,600,25,Jowar,10:26:26 NPK
+79,Kolhapur,Black,30,30,30,7.0,700,30,Jowar,10:26:26 NPK
+80,Kolhapur,Black,35,30,30,7.0,700,30,Jowar,10:26:26 NPK
+81,Kolhapur,Black,40,30,30,7.0,700,30,Jowar,10:26:26 NPK
+82,Kolhapur,Black,20,35,35,7.5,800,25,Jowar,10:26:26 NPK
+83,Kolhapur,Black,25,35,35,7.5,800,25,Jowar,10:26:26 NPK
+85,Kolhapur,Black,35,35,35,7.5,800,25,Jowar,10:26:26 NPK
+87,Kolhapur,Black,20,25,40,6.5,600,30,Jowar,10:26:26 NPK
+88,Kolhapur,Black,25,25,40,6.5,600,30,Jowar,10:26:26 NPK
+91,Kolhapur,Black,40,25,40,6.5,600,30,Jowar,10:26:26 NPK
+96,Kolhapur,Black,40,30,25,7.0,700,25,Jowar,Urea
+97,Kolhapur,Black,20,35,30,7.5,800,30,Jowar,Urea
+102,Kolhapur,Black,20,25,35,6.5,600,25,Jowar,Urea
+103,Kolhapur,Black,25,25,35,6.5,600,25,Jowar,Urea
+104,Kolhapur,Black,30,25,35,6.5,600,25,Jowar,Urea
+106,Kolhapur,Black,40,25,35,6.5,600,25,Jowar,Urea
+108,Kolhapur,Black,25,30,40,7.0,700,30,Jowar,Urea
+109,Kolhapur,Black,30,30,40,7.0,700,30,Jowar,Urea
+110,Kolhapur,Black,35,30,40,7.0,700,30,Jowar,Urea
+116,Kolhapur,Black,40,35,25,7.5,800,25,Jowar,SSP
+118,Kolhapur,Black,25,25,30,6.5,600,30,Jowar,SSP
+120,Kolhapur,Black,35,25,30,6.5,600,30,Jowar,SSP
+123,Kolhapur,Black,25,30,35,7.0,700,25,Jowar,SSP
+124,Kolhapur,Black,30,30,35,7.0,700,25,Jowar,SSP
+126,Kolhapur,Black,40,30,35,7.0,700,25,Jowar,SSP
+127,Kolhapur,Black,20,35,40,7.5,800,30,Jowar,SSP
+128,Kolhapur,Black,25,35,40,7.5,800,30,Jowar,SSP
+130,Kolhapur,Black,35,35,40,7.5,800,30,Jowar,SSP
+131,Kolhapur,Black,40,35,40,7.5,800,30,Jowar,SSP
+134,Kolhapur,Black,50,20,20,6.0,600,25,Jowar,10:26:26 NPK
+136,Kolhapur,Black,45,25,25,6.5,700,30,Jowar,10:26:26 NPK
+137,Kolhapur,Black,50,25,25,6.5,700,30,Jowar,10:26:26 NPK
+138,Kolhapur,Black,40,20,25,7.0,800,25,Jowar,10:26:26 NPK
+141,Kolhapur,Black,40,25,20,7.5,600,30,Jowar,10:26:26 NPK
+142,Kolhapur,Black,45,25,20,7.5,600,30,Jowar,10:26:26 NPK
+143,Kolhapur,Black,50,25,20,7.5,600,30,Jowar,10:26:26 NPK
+144,Kolhapur,Red ,100,40,50,6.0,800,25,Cotton,DAP
+146,Kolhapur,Red ,110,40,50,6.0,800,25,Cotton,DAP
+148,Kolhapur,Red ,120,40,50,6.0,800,25,Cotton,DAP
+150,Kolhapur,Red ,130,40,50,6.0,800,25,Cotton,DAP
+151,Kolhapur,Red ,135,40,50,6.0,800,25,Cotton,DAP
+154,Kolhapur,Red ,150,40,50,6.0,800,25,Cotton,DAP
+156,Kolhapur,Red ,105,45,55,6.5,900,30,Cotton,DAP
+159,Kolhapur,Red ,120,45,55,6.5,900,30,Cotton,DAP
+161,Kolhapur,Red ,130,45,55,6.5,900,30,Cotton,DAP
+171,Kolhapur,Red ,125,50,60,7.0,1000,35,Cotton,DAP
+176,Kolhapur,Red ,150,50,60,7.0,1000,35,Cotton,DAP
+180,Kolhapur,Red ,115,55,65,7.5,800,25,Cotton,DAP
+181,Kolhapur,Red ,120,55,65,7.5,800,25,Cotton,DAP
+184,Kolhapur,Red ,135,55,65,7.5,800,25,Cotton,DAP
+186,Kolhapur,Red ,145,55,65,7.5,800,25,Cotton,DAP
+187,Kolhapur,Red ,150,55,65,7.5,800,25,Cotton,DAP
+189,Kolhapur,Red ,105,60,70,6.0,900,30,Cotton,DAP
+191,Kolhapur,Red ,115,60,70,6.0,900,30,Cotton,DAP
+195,Kolhapur,Red ,135,60,70,6.0,900,30,Cotton,DAP
+196,Kolhapur,Red ,140,60,70,6.0,900,30,Cotton,DAP
+198,Kolhapur,Red ,150,60,70,6.0,900,30,Cotton,DAP
+200,Kolhapur,Red ,105,40,75,6.5,1000,35,Cotton,DAP
+203,Kolhapur,Red ,120,40,75,6.5,1000,35,Cotton,DAP
+204,Kolhapur,Red ,125,40,75,6.5,1000,35,Cotton,DAP
+205,Kolhapur,Red ,130,40,75,6.5,1000,35,Cotton,DAP
+206,Kolhapur,Red ,135,40,75,6.5,1000,35,Cotton,DAP
+209,Kolhapur,Red ,150,40,75,6.5,1000,35,Cotton,DAP
+214,Kolhapur,Red ,120,45,50,6.0,800,25,Cotton,Magnesium Sulphate
+216,Kolhapur,Red ,130,45,50,6.0,800,25,Cotton,Magnesium Sulphate
+219,Kolhapur,Red ,145,45,50,6.0,800,25,Cotton,Magnesium Sulphate
+222,Kolhapur,Red ,105,50,55,6.5,900,30,Cotton,Magnesium Sulphate
+223,Kolhapur,Red ,110,50,55,6.5,900,30,Cotton,Magnesium Sulphate
+224,Kolhapur,Red ,115,50,55,6.5,900,30,Cotton,Magnesium Sulphate
+226,Kolhapur,Red ,125,50,55,6.5,900,30,Cotton,Magnesium Sulphate
+229,Kolhapur,Red ,140,50,55,6.5,900,30,Cotton,Magnesium Sulphate
+230,Kolhapur,Red ,145,50,55,6.5,900,30,Cotton,Magnesium Sulphate
+232,Kolhapur,Red ,100,55,60,7.0,1000,35,Cotton,Magnesium Sulphate
+233,Kolhapur,Red ,105,55,60,7.0,1000,35,Cotton,Magnesium Sulphate
+234,Kolhapur,Red ,110,55,60,7.0,1000,35,Cotton,Magnesium Sulphate
+237,Kolhapur,Red ,125,55,60,7.0,1000,35,Cotton,Magnesium Sulphate
+241,Kolhapur,Red ,145,55,60,7.0,1000,35,Cotton,Magnesium Sulphate
+243,Kolhapur,Red ,100,60,65,7.5,800,25,Cotton,Magnesium Sulphate
+244,Kolhapur,Red ,105,60,65,7.5,800,25,Cotton,Magnesium Sulphate
+245,Kolhapur,Red ,110,60,65,7.5,800,25,Cotton,Magnesium Sulphate
+246,Kolhapur,Red ,115,60,65,7.5,800,25,Cotton,Magnesium Sulphate
+248,Kolhapur,Red ,125,60,65,7.5,800,25,Cotton,Magnesium Sulphate
+249,Kolhapur,Red ,130,60,65,7.5,800,25,Cotton,Magnesium Sulphate
+253,Kolhapur,Red ,150,60,65,7.5,800,25,Cotton,Magnesium Sulphate
+255,Kolhapur,Red ,105,40,70,6.0,900,30,Cotton,Magnesium Sulphate
+256,Kolhapur,Red ,110,40,70,6.0,900,30,Cotton,Magnesium Sulphate
+258,Kolhapur,Red ,120,40,70,6.0,900,30,Cotton,Magnesium Sulphate
+260,Kolhapur,Red ,130,40,70,6.0,900,30,Cotton,Magnesium Sulphate
+261,Kolhapur,Red ,135,40,70,6.0,900,30,Cotton,Magnesium Sulphate
+263,Kolhapur,Red ,145,40,70,6.0,900,30,Cotton,Magnesium Sulphate
+265,Kolhapur,Red ,100,45,75,6.5,1000,35,Cotton,Magnesium Sulphate
+268,Kolhapur,Red ,115,45,75,6.5,1000,35,Cotton,Magnesium Sulphate
+270,Kolhapur,Red ,125,45,75,6.5,1000,35,Cotton,Magnesium Sulphate
+272,Kolhapur,Red ,135,45,75,6.5,1000,35,Cotton,Magnesium Sulphate
+275,Kolhapur,Red ,150,45,75,6.5,1000,35,Cotton,Magnesium Sulphate
+276,Kolhapur,Red ,100,50,50,7.0,800,25,Cotton,13:32:26 NPK
+280,Kolhapur,Red ,120,50,50,7.0,800,25,Cotton,13:32:26 NPK
+282,Kolhapur,Red ,130,50,50,7.0,800,25,Cotton,13:32:26 NPK
+283,Kolhapur,Red ,135,50,50,7.0,800,25,Cotton,13:32:26 NPK
+284,Kolhapur,Red ,140,50,50,7.0,800,25,Cotton,13:32:26 NPK
+288,Kolhapur,Red ,105,55,55,7.5,900,30,Cotton,13:32:26 NPK
+289,Kolhapur,Red ,110,55,55,7.5,900,30,Cotton,13:32:26 NPK
+293,Kolhapur,Red ,130,55,55,7.5,900,30,Cotton,13:32:26 NPK
+294,Kolhapur,Red ,135,55,55,7.5,900,30,Cotton,13:32:26 NPK
+296,Kolhapur,Red ,145,55,55,7.5,900,30,Cotton,13:32:26 NPK
+299,Kolhapur,Red ,105,60,60,6.0,1000,35,Cotton,13:32:26 NPK
+301,Kolhapur,Red ,115,60,60,6.0,1000,35,Cotton,13:32:26 NPK
+302,Kolhapur,Red ,120,60,60,6.0,1000,35,Cotton,13:32:26 NPK
+303,Kolhapur,Red ,125,60,60,6.0,1000,35,Cotton,13:32:26 NPK
+304,Kolhapur,Red ,130,60,60,6.0,1000,35,Cotton,13:32:26 NPK
+307,Kolhapur,Red ,145,60,60,6.0,1000,35,Cotton,13:32:26 NPK
+311,Kolhapur,Red ,110,40,65,6.5,800,25,Cotton,13:32:26 NPK
+313,Kolhapur,Red ,120,40,65,6.5,800,25,Cotton,13:32:26 NPK
+314,Kolhapur,Red ,125,40,65,6.5,800,25,Cotton,13:32:26 NPK
+315,Kolhapur,Red ,130,40,65,6.5,800,25,Cotton,13:32:26 NPK
+316,Kolhapur,Red ,135,40,65,6.5,800,25,Cotton,13:32:26 NPK
+319,Kolhapur,Red ,150,40,65,6.5,800,25,Cotton,13:32:26 NPK
+321,Kolhapur,Red ,105,45,70,7.0,900,30,Cotton,13:32:26 NPK
+322,Kolhapur,Red ,110,45,70,7.0,900,30,Cotton,13:32:26 NPK
+324,Kolhapur,Red ,120,45,70,7.0,900,30,Cotton,13:32:26 NPK
+325,Kolhapur,Red ,125,45,70,7.0,900,30,Cotton,13:32:26 NPK
+327,Kolhapur,Red ,135,45,70,7.0,900,30,Cotton,13:32:26 NPK
+328,Kolhapur,Red ,140,45,70,7.0,900,30,Cotton,13:32:26 NPK
+329,Kolhapur,Red ,145,45,70,7.0,900,30,Cotton,13:32:26 NPK
+331,Kolhapur,Red ,100,50,75,7.5,1000,35,Cotton,13:32:26 NPK
+332,Kolhapur,Red ,105,50,75,7.5,1000,35,Cotton,13:32:26 NPK
+333,Kolhapur,Red ,110,50,75,7.5,1000,35,Cotton,13:32:26 NPK
+334,Kolhapur,Red ,115,50,75,7.5,1000,35,Cotton,13:32:26 NPK
+338,Kolhapur,Red ,135,50,75,7.5,1000,35,Cotton,13:32:26 NPK
+341,Kolhapur,Red ,150,50,75,7.5,1000,35,Cotton,13:32:26 NPK
+342,Kolhapur,Red ,100,55,50,6.0,800,25,Cotton,DAP
+344,Kolhapur,Red ,110,55,50,6.0,800,25,Cotton,DAP
+345,Kolhapur,Red ,115,55,50,6.0,800,25,Cotton,DAP
+346,Kolhapur,Red ,120,55,50,6.0,800,25,Cotton,DAP
+347,Kolhapur,Red ,125,55,50,6.0,800,25,Cotton,DAP
+349,Kolhapur,Red ,135,55,50,6.0,800,25,Cotton,DAP
+353,Kolhapur,Red ,100,60,55,6.5,900,30,Cotton,DAP
+354,Kolhapur,Red ,105,60,55,6.5,900,30,Cotton,DAP
+355,Kolhapur,Red ,110,60,55,6.5,900,30,Cotton,DAP
+356,Kolhapur,Red ,115,60,55,6.5,900,30,Cotton,DAP
+358,Kolhapur,Red ,125,60,55,6.5,900,30,Cotton,DAP
+359,Kolhapur,Red ,130,60,55,6.5,900,30,Cotton,DAP
+360,Kolhapur,Red ,135,60,55,6.5,900,30,Cotton,DAP
+361,Kolhapur,Red ,140,60,55,6.5,900,30,Cotton,DAP
+363,Kolhapur,Red ,150,60,55,6.5,900,30,Cotton,DAP
+368,Kolhapur,Red ,120,40,60,7.0,1000,35,Cotton,DAP
+369,Kolhapur,Red ,125,40,60,7.0,1000,35,Cotton,DAP
+371,Kolhapur,Red ,135,40,60,7.0,1000,35,Cotton,DAP
+372,Kolhapur,Red ,140,40,60,7.0,1000,35,Cotton,DAP
+374,Kolhapur,Red ,150,40,60,7.0,1000,35,Cotton,DAP
+376,Kolhapur,Red ,105,45,65,7.5,800,25,Cotton,DAP
+381,Kolhapur,Red ,130,45,65,7.5,800,25,Cotton,DAP
+385,Kolhapur,Red ,150,45,65,7.5,800,25,Cotton,DAP
+387,Kolhapur,Red ,105,50,70,6.0,900,30,Cotton,DAP
+388,Kolhapur,Red ,110,50,70,6.0,900,30,Cotton,DAP
+389,Kolhapur,Red ,115,50,70,6.0,900,30,Cotton,DAP
+390,Kolhapur,Red ,120,50,70,6.0,900,30,Cotton,DAP
+391,Kolhapur,Red ,125,50,70,6.0,900,30,Cotton,DAP
+394,Kolhapur,Red ,140,50,70,6.0,900,30,Cotton,DAP
+395,Kolhapur,Red ,145,50,70,6.0,900,30,Cotton,DAP
+401,Kolhapur,Red ,120,55,75,6.5,1000,35,Cotton,DAP
+402,Kolhapur,Red ,125,55,75,6.5,1000,35,Cotton,DAP
+403,Kolhapur,Red ,130,55,75,6.5,1000,35,Cotton,DAP
+408,Kolhapur,Red ,100,60,50,7.0,800,25,Cotton,Magnesium Sulphate
+411,Kolhapur,Red ,115,60,50,7.0,800,25,Cotton,Magnesium Sulphate
+412,Kolhapur,Red ,120,60,50,7.0,800,25,Cotton,Magnesium Sulphate
+415,Kolhapur,Red ,135,60,50,7.0,800,25,Cotton,Magnesium Sulphate
+426,Kolhapur,Red ,135,40,55,7.5,900,30,Cotton,Magnesium Sulphate
+427,Kolhapur,Red ,140,40,55,7.5,900,30,Cotton,Magnesium Sulphate
+430,Kolhapur,Red ,100,45,60,6.0,1000,35,Cotton,Magnesium Sulphate
+432,Kolhapur,Red ,110,45,60,6.0,1000,35,Cotton,Magnesium Sulphate
+433,Kolhapur,Red ,115,45,60,6.0,1000,35,Cotton,Magnesium Sulphate
+437,Kolhapur,Red ,135,45,60,6.0,1000,35,Cotton,Magnesium Sulphate
+442,Kolhapur,Red ,105,50,65,6.5,800,25,Cotton,Magnesium Sulphate
+443,Kolhapur,Red ,110,50,65,6.5,800,25,Cotton,Magnesium Sulphate
+449,Kolhapur,Red ,140,50,65,6.5,800,25,Cotton,Magnesium Sulphate
+450,Kolhapur,Red ,145,50,65,6.5,800,25,Cotton,Magnesium Sulphate
+451,Kolhapur,Red ,150,50,65,6.5,800,25,Cotton,Magnesium Sulphate
+452,Kolhapur,Red ,100,55,70,7.0,900,30,Cotton,Magnesium Sulphate
+454,Kolhapur,Red ,110,55,70,7.0,900,30,Cotton,Magnesium Sulphate
+456,Kolhapur,Red ,120,55,70,7.0,900,30,Cotton,Magnesium Sulphate
+457,Kolhapur,Red ,125,55,70,7.0,900,30,Cotton,Magnesium Sulphate
+458,Kolhapur,Red ,130,55,70,7.0,900,30,Cotton,Magnesium Sulphate
+459,Kolhapur,Red ,135,55,70,7.0,900,30,Cotton,Magnesium Sulphate
+460,Kolhapur,Red ,140,55,70,7.0,900,30,Cotton,Magnesium Sulphate
+461,Kolhapur,Red ,145,55,70,7.0,900,30,Cotton,Magnesium Sulphate
+464,Kolhapur,Red ,105,60,75,7.5,1000,35,Cotton,Magnesium Sulphate
+468,Kolhapur,Red ,125,60,75,7.5,1000,35,Cotton,Magnesium Sulphate
+469,Kolhapur,Red ,130,60,75,7.5,1000,35,Cotton,Magnesium Sulphate
+471,Kolhapur,Red ,140,60,75,7.5,1000,35,Cotton,Magnesium Sulphate
+472,Kolhapur,Red ,145,60,75,7.5,1000,35,Cotton,Magnesium Sulphate
+473,Kolhapur,Red ,150,60,75,7.5,1000,35,Cotton,Magnesium Sulphate
+474,Kolhapur,Red ,100,60,40,6.0,800,25,Cotton,12:32:16 NPK
+476,Kolhapur,Red ,110,60,40,6.0,800,25,Cotton,12:32:16 NPK
+477,Kolhapur,Red ,115,60,40,6.0,800,25,Cotton,12:32:16 NPK
+479,Kolhapur,Red ,100,65,45,6.5,900,30,Cotton,12:32:16 NPK
+480,Kolhapur,Red ,105,65,45,6.5,900,30,Cotton,12:32:16 NPK
+482,Kolhapur,Red ,115,65,45,6.5,900,30,Cotton,12:32:16 NPK
+483,Kolhapur,Red ,120,65,45,6.5,900,30,Cotton,12:32:16 NPK
+485,Kolhapur,Red ,105,70,50,7.0,1000,35,Cotton,12:32:16 NPK
+487,Kolhapur,Red ,115,70,50,7.0,1000,35,Cotton,12:32:16 NPK
+491,Kolhapur,Red ,110,75,55,7.5,800,25,Cotton,12:32:16 NPK
+493,Kolhapur,Red ,120,75,55,7.5,800,25,Cotton,12:32:16 NPK
+495,Kolhapur,Red ,105,80,60,6.0,900,30,Cotton,12:32:16 NPK
+496,Kolhapur,Red ,110,80,60,6.0,900,30,Cotton,12:32:16 NPK
+500,Kolhapur,Red ,105,60,65,6.5,1000,35,Cotton,12:32:16 NPK
+501,Kolhapur,Red ,110,60,65,6.5,1000,35,Cotton,12:32:16 NPK
+505,Kolhapur,Red ,105,65,40,7.0,800,25,Cotton,12:32:16 NPK
+507,Kolhapur,Red ,115,65,40,7.0,800,25,Cotton,12:32:16 NPK
+509,Kolhapur,Red ,100,70,45,7.5,900,30,Cotton,12:32:16 NPK
+510,Kolhapur,Red ,105,70,45,7.5,900,30,Cotton,12:32:16 NPK
+514,Kolhapur,Red ,100,75,50,6.0,1000,35,Cotton,12:32:16 NPK
+515,Kolhapur,Red ,105,75,50,6.0,1000,35,Cotton,12:32:16 NPK
+516,Kolhapur,Red ,110,75,50,6.0,1000,35,Cotton,12:32:16 NPK
+517,Kolhapur,Red ,115,75,50,6.0,1000,35,Cotton,12:32:16 NPK
+519,Kolhapur,Red ,100,80,55,6.5,800,25,Cotton,12:32:16 NPK
+522,Kolhapur,Red ,115,80,55,6.5,800,25,Cotton,12:32:16 NPK
+523,Kolhapur,Red ,120,80,55,6.5,800,25,Cotton,12:32:16 NPK
+525,Kolhapur,Red ,105,60,60,7.0,900,30,Cotton,12:32:16 NPK
+526,Kolhapur,Red ,110,60,60,7.0,900,30,Cotton,12:32:16 NPK
+527,Kolhapur,Red ,115,60,60,7.0,900,30,Cotton,12:32:16 NPK
+531,Kolhapur,Red ,110,65,65,7.5,1000,35,Cotton,12:32:16 NPK
+532,Kolhapur,Red ,115,65,65,7.5,1000,35,Cotton,12:32:16 NPK
+536,Kolhapur,Red ,110,70,40,6.0,800,25,Cotton,12:32:16 NPK
+541,Kolhapur,Red ,110,75,45,6.5,900,30,Cotton,DAP
+542,Kolhapur,Red ,115,75,45,6.5,900,30,Cotton,DAP
+544,Kolhapur,Red ,100,80,50,7.0,1000,35,Cotton,DAP
+545,Kolhapur,Red ,105,80,50,7.0,1000,35,Cotton,DAP
+546,Kolhapur,Red ,110,80,50,7.0,1000,35,Cotton,DAP
+548,Kolhapur,Red ,120,80,50,7.0,1000,35,Cotton,DAP
+549,Kolhapur,Red ,100,60,55,7.5,800,25,Cotton,DAP
+550,Kolhapur,Red ,105,60,55,7.5,800,25,Cotton,DAP
+553,Kolhapur,Red ,120,60,55,7.5,800,25,Cotton,DAP
+556,Kolhapur,Red ,110,65,60,6.0,900,30,Cotton,DAP
+557,Kolhapur,Red ,115,65,60,6.0,900,30,Cotton,DAP
+562,Kolhapur,Red ,115,70,65,6.5,1000,35,Cotton,DAP
+563,Kolhapur,Red ,120,70,65,6.5,1000,35,Cotton,DAP
+566,Kolhapur,Red ,110,75,40,7.0,800,25,Cotton,DAP
+567,Kolhapur,Red ,115,75,40,7.0,800,25,Cotton,DAP
+568,Kolhapur,Red ,120,75,40,7.0,800,25,Cotton,DAP
+569,Kolhapur,Red ,100,80,45,7.5,900,30,Cotton,DAP
+573,Kolhapur,Red ,120,80,45,7.5,900,30,Cotton,DAP
+575,Kolhapur,Red ,105,60,50,6.0,1000,35,Cotton,DAP
+576,Kolhapur,Red ,110,60,50,6.0,1000,35,Cotton,DAP
+577,Kolhapur,Red ,115,60,50,6.0,1000,35,Cotton,DAP
+580,Kolhapur,Red ,105,65,55,6.5,800,25,Cotton,DAP
+581,Kolhapur,Red ,110,65,55,6.5,800,25,Cotton,DAP
+585,Kolhapur,Red ,105,70,60,7.0,900,30,Cotton,DAP
+586,Kolhapur,Red ,110,70,60,7.0,900,30,Cotton,DAP
+587,Kolhapur,Red ,115,70,60,7.0,900,30,Cotton,DAP
+595,Kolhapur,Red ,105,80,40,6.0,800,25,Cotton,DAP
+599,Kolhapur,Red ,100,60,45,6.5,900,30,Cotton,DAP
+601,Kolhapur,Red ,110,60,45,6.5,900,30,Cotton,DAP
+605,Kolhapur,Red ,105,65,50,7.0,1000,35,Cotton,DAP
+606,Kolhapur,Red ,110,65,50,7.0,1000,35,Cotton,Magnesium Sulphate
+608,Kolhapur,Red ,120,65,50,7.0,1000,35,Cotton,Magnesium Sulphate
+614,Kolhapur,Red ,100,75,60,6.0,900,30,Cotton,Magnesium Sulphate
+616,Kolhapur,Red ,110,75,60,6.0,900,30,Cotton,Magnesium Sulphate
+617,Kolhapur,Red ,115,75,60,6.0,900,30,Cotton,Magnesium Sulphate
+623,Kolhapur,Red ,120,80,65,6.5,1000,35,Cotton,Magnesium Sulphate
+625,Kolhapur,Medium Brown,25,15,20,5.5,700,25,Rice,Urea
+626,Kolhapur,Medium Brown,30,15,20,5.5,700,25,Rice,Urea
+628,Kolhapur,Medium Brown,25,20,25,6.0,800,30,Rice,Urea
+629,Kolhapur,Medium Brown,30,20,25,6.0,800,30,Rice,Urea
+633,Kolhapur,Medium Brown,20,20,20,5.5,1000,30,Rice,Urea
+634,Kolhapur,Medium Brown,25,20,20,5.5,1000,30,Rice,Urea
+635,Kolhapur,Medium Brown,30,20,20,5.5,1000,30,Rice,Urea
+636,Kolhapur,Medium Brown,25,20,30,6.0,700,25,Rice,Urea
+638,Kolhapur,Medium Brown,35,20,30,6.0,700,25,Rice,Urea
+639,Kolhapur,Medium Brown,25,25,35,6.5,800,30,Rice,Urea
+642,Kolhapur,Medium Brown,25,30,40,5.5,900,25,Rice,Urea
+643,Kolhapur,Medium Brown,30,30,40,5.5,900,25,Rice,Urea
+644,Kolhapur,Medium Brown,35,30,40,5.5,900,25,Rice,50:26:26 NPK
+645,Kolhapur,Medium Brown,25,20,35,6.0,1000,30,Rice,50:26:26 NPK
+646,Kolhapur,Medium Brown,30,20,35,6.0,1000,30,Rice,50:26:26 NPK
+647,Kolhapur,Medium Brown,35,20,35,6.0,1000,30,Rice,50:26:26 NPK
+651,Kolhapur,Medium Brown,25,30,30,5.5,800,30,Rice,50:26:26 NPK
+653,Kolhapur,Medium Brown,35,30,30,5.5,800,30,Rice,50:26:26 NPK
+654,Kolhapur,Medium Brown,25,20,40,6.0,900,25,Rice,50:26:26 NPK
+656,Kolhapur,Medium Brown,35,20,40,6.0,900,25,Rice,50:26:26 NPK
+658,Kolhapur,Medium Brown,30,25,30,6.5,1000,30,Rice,50:26:26 NPK
+660,Kolhapur,Medium Brown,25,30,35,5.5,700,25,Rice,50:26:26 NPK
+662,Kolhapur,Medium Brown,35,30,35,5.5,700,25,Rice,50:26:26 NPK
+665,Kolhapur,Dark Brown,110,60,40,6.0,500,15,Wheat,19:19:19 NPK
+666,Kolhapur,Dark Brown,115,60,40,6.0,500,15,Wheat,19:19:19 NPK
+667,Kolhapur,Dark Brown,120,60,40,6.0,500,15,Wheat,19:19:19 NPK
+669,Kolhapur,Dark Brown,105,65,45,6.5,600,20,Wheat,19:19:19 NPK
+673,Kolhapur,Dark Brown,100,70,50,7.0,700,25,Wheat,19:19:19 NPK
+678,Kolhapur,Dark Brown,100,75,55,7.5,800,15,Wheat,19:19:19 NPK
+679,Kolhapur,Dark Brown,105,75,55,7.5,800,15,Wheat,19:19:19 NPK
+680,Kolhapur,Dark Brown,110,75,55,7.5,800,15,Wheat,19:19:19 NPK
+683,Kolhapur,Dark Brown,100,80,60,6.0,900,20,Wheat,19:19:19 NPK
+685,Kolhapur,Dark Brown,110,80,60,6.0,900,20,Wheat,19:19:19 NPK
+686,Kolhapur,Dark Brown,115,80,60,6.0,900,20,Wheat,19:19:19 NPK
+688,Kolhapur,Dark Brown,100,60,45,6.5,1000,25,Wheat,Urea
+689,Kolhapur,Dark Brown,105,60,45,6.5,1000,25,Wheat,Urea
+690,Kolhapur,Dark Brown,110,60,45,6.5,1000,25,Wheat,Urea
+691,Kolhapur,Dark Brown,115,60,45,6.5,1000,25,Wheat,Urea
+692,Kolhapur,Dark Brown,120,60,45,6.5,1000,25,Wheat,Urea
+695,Kolhapur,Dark Brown,110,65,50,7.0,500,15,Wheat,Urea
+698,Kolhapur,Dark Brown,100,70,55,7.5,600,20,Wheat,Urea
+699,Kolhapur,Dark Brown,105,70,55,7.5,600,20,Wheat,Urea
+700,Kolhapur,Dark Brown,110,70,55,7.5,600,20,Wheat,Urea
+701,Kolhapur,Dark Brown,115,70,55,7.5,600,20,Wheat,Urea
+705,Kolhapur,Dark Brown,110,75,60,6.0,700,25,Wheat,Urea
+706,Kolhapur,Dark Brown,115,75,60,6.0,700,25,Wheat,Urea
+707,Kolhapur,Dark Brown,120,75,60,6.0,700,25,Wheat,Urea
+709,Kolhapur,Dark Brown,105,80,40,6.5,800,15,Wheat,Urea
+711,Kolhapur,Dark Brown,115,80,40,6.5,800,15,Wheat,Urea
+712,Kolhapur,Dark Brown,120,80,40,6.5,800,15,Wheat,Urea
+713,Kolhapur,Dark Brown,100,60,50,7.0,900,20,Wheat,19:19:19 NPK
+714,Kolhapur,Dark Brown,105,60,50,7.0,900,20,Wheat,19:19:19 NPK
+716,Kolhapur,Dark Brown,115,60,50,7.0,900,20,Wheat,19:19:19 NPK
+717,Kolhapur,Dark Brown,120,60,50,7.0,900,20,Wheat,19:19:19 NPK
+718,Kolhapur,Dark Brown,100,65,55,7.5,1000,25,Wheat,19:19:19 NPK
+720,Kolhapur,Dark Brown,110,65,55,7.5,1000,25,Wheat,19:19:19 NPK
+721,Kolhapur,Dark Brown,115,65,55,7.5,1000,25,Wheat,19:19:19 NPK
+722,Kolhapur,Dark Brown,120,65,55,7.5,1000,25,Wheat,19:19:19 NPK
+723,Kolhapur,Dark Brown,100,70,60,6.0,500,15,Wheat,19:19:19 NPK
+725,Kolhapur,Dark Brown,110,70,60,6.0,500,15,Wheat,19:19:19 NPK
+727,Kolhapur,Dark Brown,120,70,60,6.0,500,15,Wheat,19:19:19 NPK
+728,Kolhapur,Dark Brown,100,75,40,6.5,600,20,Wheat,19:19:19 NPK
+736,Kolhapur,Dark Brown,115,80,45,7.0,700,25,Wheat,19:19:19 NPK
+737,Kolhapur,Dark Brown,120,80,45,7.0,700,25,Wheat,19:19:19 NPK
+738,Kolhapur,Dark Brown,100,60,55,7.5,800,15,Wheat,Urea
+740,Kolhapur,Dark Brown,110,60,55,7.5,800,15,Wheat,Urea
+742,Kolhapur,Dark Brown,120,60,55,7.5,800,15,Wheat,Urea
+744,Kolhapur,Dark Brown,105,65,60,6.0,900,20,Wheat,Urea
+745,Kolhapur,Dark Brown,110,65,60,6.0,900,20,Wheat,Urea
+747,Kolhapur,Dark Brown,120,65,60,6.0,900,20,Wheat,Urea
+750,Kolhapur,Dark Brown,110,70,40,6.5,1000,25,Wheat,Urea
+753,Kolhapur,Dark Brown,100,75,45,7.0,500,15,Wheat,Urea
+757,Kolhapur,Dark Brown,120,75,45,7.0,500,15,Wheat,Urea
+758,Kolhapur,Dark Brown,100,80,50,7.5,600,20,Wheat,Urea
+759,Kolhapur,Dark Brown,105,80,50,7.5,600,20,Wheat,Urea
+761,Kolhapur,Dark Brown,115,80,50,7.5,600,20,Wheat,Urea
+763,Kolhapur,Dark Brown,100,60,60,6.0,700,25,Wheat,19:19:19 NPK
+765,Kolhapur,Dark Brown,110,60,60,6.0,700,25,Wheat,19:19:19 NPK
+767,Kolhapur,Dark Brown,120,60,60,6.0,700,25,Wheat,19:19:19 NPK
+768,Kolhapur,Dark Brown,100,65,40,6.5,800,15,Wheat,19:19:19 NPK
+770,Kolhapur,Dark Brown,110,65,40,6.5,800,15,Wheat,19:19:19 NPK
+772,Kolhapur,Dark Brown,120,65,40,6.5,800,15,Wheat,19:19:19 NPK
+773,Kolhapur,Dark Brown,100,70,45,7.0,900,20,Wheat,19:19:19 NPK
+775,Kolhapur,Dark Brown,110,70,45,7.0,900,20,Wheat,19:19:19 NPK
+783,Kolhapur,Dark Brown,100,80,55,6.0,500,15,Wheat,19:19:19 NPK
+787,Kolhapur,Dark Brown,120,80,55,6.0,500,15,Wheat,19:19:19 NPK
+788,Kolhapur,Dark Brown,100,40,40,6.0,500,15,Wheat,Urea
+789,Kolhapur,Dark Brown,105,40,40,6.0,500,15,Wheat,Urea
+792,Kolhapur,Dark Brown,120,40,40,6.0,500,15,Wheat,Urea
+794,Kolhapur,Dark Brown,105,45,45,6.5,600,20,Wheat,Urea
+795,Kolhapur,Dark Brown,110,45,45,6.5,600,20,Wheat,Urea
+797,Kolhapur,Dark Brown,120,45,45,6.5,600,20,Wheat,Urea
+800,Kolhapur,Dark Brown,110,50,50,7.0,700,25,Wheat,Urea
+802,Kolhapur,Dark Brown,120,50,50,7.0,700,25,Wheat,Urea
+803,Kolhapur,Dark Brown,100,55,55,7.5,800,15,Wheat,Urea
+805,Kolhapur,Dark Brown,110,55,55,7.5,800,15,Wheat,Urea
+811,Kolhapur,Dark Brown,115,60,60,6.0,900,20,Wheat,Urea
+814,Kolhapur,Dark Brown,105,40,45,6.5,1000,25,Wheat,19:19:19 NPK
+818,Kolhapur,Dark Brown,100,45,50,7.0,500,15,Wheat,19:19:19 NPK
+819,Kolhapur,Dark Brown,105,45,50,7.0,500,15,Wheat,19:19:19 NPK
+820,Kolhapur,Dark Brown,110,45,50,7.0,500,15,Wheat,19:19:19 NPK
+825,Kolhapur,Dark Brown,110,50,55,7.5,600,20,Wheat,19:19:19 NPK
+826,Kolhapur,Dark Brown,115,50,55,7.5,600,20,Wheat,19:19:19 NPK
+827,Kolhapur,Dark Brown,120,50,55,7.5,600,20,Wheat,19:19:19 NPK
+831,Kolhapur,Dark Brown,115,55,60,6.0,700,25,Wheat,19:19:19 NPK
+832,Kolhapur,Dark Brown,120,55,60,6.0,700,25,Wheat,19:19:19 NPK
+833,Kolhapur,Dark Brown,100,60,40,6.5,800,15,Wheat,19:19:19 NPK
+835,Kolhapur,Dark Brown,110,60,40,6.5,800,15,Wheat,19:19:19 NPK
+837,Kolhapur,Dark Brown,120,60,40,6.5,800,15,Wheat,19:19:19 NPK
+839,Kolhapur,Dark Brown,105,40,50,7.0,900,20,Wheat,Urea
+842,Kolhapur,Dark Brown,120,40,50,7.0,900,20,Wheat,Urea
+843,Kolhapur,Dark Brown,100,45,55,7.5,1000,25,Wheat,Urea
+844,Kolhapur,Dark Brown,105,45,55,7.5,1000,25,Wheat,Urea
+848,Kolhapur,Dark Brown,100,50,60,6.0,500,15,Wheat,Urea
+849,Kolhapur,Dark Brown,105,50,60,6.0,500,15,Wheat,Urea
+850,Kolhapur,Dark Brown,110,50,60,6.0,500,15,Wheat,Urea
+851,Kolhapur,Dark Brown,115,50,60,6.0,500,15,Wheat,Urea
+853,Kolhapur,Dark Brown,100,55,40,6.5,600,20,Wheat,Urea
+854,Kolhapur,Dark Brown,105,55,40,6.5,600,20,Wheat,Urea
+855,Kolhapur,Dark Brown,110,55,40,6.5,600,20,Wheat,Urea
+857,Kolhapur,Dark Brown,120,55,40,6.5,600,20,Wheat,Urea
+858,Kolhapur,Dark Brown,100,60,45,7.0,700,25,Wheat,Urea
+863,Kolhapur,Dark Brown,100,40,55,7.5,800,15,Wheat,19:19:19 NPK
+867,Kolhapur,Dark Brown,120,40,55,7.5,800,15,Wheat,19:19:19 NPK
+868,Kolhapur,Dark Brown,100,45,60,6.0,900,20,Wheat,19:19:19 NPK
+870,Kolhapur,Dark Brown,110,45,60,6.0,900,20,Wheat,19:19:19 NPK
+871,Kolhapur,Dark Brown,115,45,60,6.0,900,20,Wheat,19:19:19 NPK
+873,Kolhapur,Dark Brown,100,50,40,6.5,1000,25,Wheat,19:19:19 NPK
+874,Kolhapur,Dark Brown,105,50,40,6.5,1000,25,Wheat,19:19:19 NPK
+875,Kolhapur,Dark Brown,110,50,40,6.5,1000,25,Wheat,19:19:19 NPK
+876,Kolhapur,Dark Brown,115,50,40,6.5,1000,25,Wheat,19:19:19 NPK
+877,Kolhapur,Dark Brown,120,50,40,6.5,1000,25,Wheat,19:19:19 NPK
+880,Kolhapur,Dark Brown,110,55,45,7.0,500,15,Wheat,19:19:19 NPK
+882,Kolhapur,Dark Brown,120,55,45,7.0,500,15,Wheat,19:19:19 NPK
+884,Kolhapur,Dark Brown,105,60,50,7.5,600,20,Wheat,19:19:19 NPK
+888,Kolhapur,Dark Brown,100,40,60,6.0,700,25,Wheat,Urea
+889,Kolhapur,Dark Brown,105,40,60,6.0,700,25,Wheat,Urea
+893,Kolhapur,Dark Brown,100,45,40,6.5,800,15,Wheat,Urea
+896,Kolhapur,Dark Brown,115,45,40,6.5,800,15,Wheat,Urea
+902,Kolhapur,Dark Brown,120,50,45,7.0,900,20,Wheat,Urea
+903,Kolhapur,Dark Brown,100,55,50,7.5,1000,25,Wheat,Urea
+906,Kolhapur,Dark Brown,115,55,50,7.5,1000,25,Wheat,Urea
+911,Kolhapur,Dark Brown,115,60,55,6.0,500,15,Wheat,Urea
+912,Kolhapur,Dark Brown,120,60,55,6.0,500,15,Wheat,Urea
+915,Kolhapur,Dark Brown,70,40,40,6.0,500,15,Wheat,19:19:19 NPK
+918,Kolhapur,Dark Brown,85,40,40,6.0,500,15,Wheat,19:19:19 NPK
+919,Kolhapur,Dark Brown,90,40,40,6.0,500,15,Wheat,19:19:19 NPK
+921,Kolhapur,Dark Brown,100,40,40,6.0,500,15,Wheat,19:19:19 NPK
+923,Kolhapur,Dark Brown,65,45,45,6.5,600,20,Wheat,19:19:19 NPK
+924,Kolhapur,Dark Brown,70,45,45,6.5,600,20,Wheat,19:19:19 NPK
+925,Kolhapur,Dark Brown,75,45,45,6.5,600,20,Wheat,19:19:19 NPK
+926,Kolhapur,Dark Brown,80,45,45,6.5,600,20,Wheat,19:19:19 NPK
+927,Kolhapur,Dark Brown,85,45,45,6.5,600,20,Wheat,19:19:19 NPK
+928,Kolhapur,Dark Brown,90,45,45,6.5,600,20,Wheat,19:19:19 NPK
+929,Kolhapur,Dark Brown,95,45,45,6.5,600,20,Wheat,19:19:19 NPK
+931,Kolhapur,Dark Brown,60,55,55,7.0,700,25,Wheat,19:19:19 NPK
+932,Kolhapur,Dark Brown,65,55,55,7.0,700,25,Wheat,19:19:19 NPK
+935,Kolhapur,Dark Brown,80,55,55,7.0,700,25,Wheat,19:19:19 NPK
+936,Kolhapur,Dark Brown,85,55,55,7.0,700,25,Wheat,19:19:19 NPK
+937,Kolhapur,Dark Brown,90,55,55,7.0,700,25,Wheat,19:19:19 NPK
+939,Kolhapur,Dark Brown,100,55,55,7.0,700,25,Wheat,Urea
+942,Kolhapur,Dark Brown,70,60,60,7.5,800,15,Wheat,Urea
+944,Kolhapur,Dark Brown,80,60,60,7.5,800,15,Wheat,Urea
+948,Kolhapur,Dark Brown,100,60,60,7.5,800,15,Wheat,Urea
+949,Kolhapur,Dark Brown,60,40,45,6.0,900,20,Wheat,Urea
+952,Kolhapur,Dark Brown,75,40,45,6.0,900,20,Wheat,Urea
+954,Kolhapur,Dark Brown,85,40,45,6.0,900,20,Wheat,Urea
+958,Kolhapur,Dark Brown,60,45,50,6.5,1000,25,Wheat,Urea
+959,Kolhapur,Dark Brown,65,45,50,6.5,1000,25,Wheat,Urea
+960,Kolhapur,Dark Brown,70,45,50,6.5,1000,25,Wheat,Urea
+961,Kolhapur,Dark Brown,75,45,50,6.5,1000,25,Wheat,Urea
+963,Kolhapur,Dark Brown,85,45,50,6.5,1000,25,Wheat,19:19:19 NPK
+966,Kolhapur,Dark Brown,100,45,50,6.5,1000,25,Wheat,19:19:19 NPK
+967,Kolhapur,Dark Brown,60,55,60,7.0,500,15,Wheat,19:19:19 NPK
+968,Kolhapur,Dark Brown,65,55,60,7.0,500,15,Wheat,19:19:19 NPK
+970,Kolhapur,Dark Brown,75,55,60,7.0,500,15,Wheat,19:19:19 NPK
+971,Kolhapur,Dark Brown,80,55,60,7.0,500,15,Wheat,19:19:19 NPK
+972,Kolhapur,Dark Brown,85,55,60,7.0,500,15,Wheat,19:19:19 NPK
+974,Kolhapur,Dark Brown,95,55,60,7.0,500,15,Wheat,19:19:19 NPK
+975,Kolhapur,Dark Brown,100,55,60,7.0,500,15,Wheat,19:19:19 NPK
+977,Kolhapur,Dark Brown,65,40,50,7.5,600,20,Wheat,19:19:19 NPK
+978,Kolhapur,Dark Brown,70,40,50,7.5,600,20,Wheat,19:19:19 NPK
+979,Kolhapur,Dark Brown,75,40,50,7.5,600,20,Wheat,19:19:19 NPK
+984,Kolhapur,Dark Brown,100,40,50,7.5,600,20,Wheat,19:19:19 NPK
+986,Kolhapur,Dark Brown,65,50,60,6.0,700,25,Wheat,19:19:19 NPK
+989,Kolhapur,Dark Brown,80,50,60,6.0,700,25,Wheat,Urea
+990,Kolhapur,Dark Brown,85,50,60,6.0,700,25,Wheat,Urea
+991,Kolhapur,Dark Brown,90,50,60,6.0,700,25,Wheat,Urea
+992,Kolhapur,Dark Brown,95,50,60,6.0,700,25,Wheat,Urea
+993,Kolhapur,Dark Brown,100,50,60,6.0,700,25,Wheat,Urea
+996,Kolhapur,Dark Brown,70,55,40,6.5,800,15,Wheat,Urea
+997,Kolhapur,Dark Brown,75,55,40,6.5,800,15,Wheat,Urea
+1002,Kolhapur,Dark Brown,100,55,40,6.5,800,15,Wheat,Urea
+1007,Kolhapur,Dark Brown,80,60,45,7.0,900,20,Wheat,Urea
+1013,Kolhapur,Dark Brown,65,40,55,7.5,1000,25,Wheat,19:19:19 NPK
+1016,Kolhapur,Dark Brown,80,40,55,7.5,1000,25,Wheat,19:19:19 NPK
+1017,Kolhapur,Dark Brown,85,40,55,7.5,1000,25,Wheat,19:19:19 NPK
+1018,Kolhapur,Dark Brown,90,40,55,7.5,1000,25,Wheat,19:19:19 NPK
+1020,Kolhapur,Dark Brown,100,40,55,7.5,1000,25,Wheat,19:19:19 NPK
+1023,Kolhapur,Dark Brown,70,45,60,6.0,500,15,Wheat,19:19:19 NPK
+1026,Kolhapur,Dark Brown,85,45,60,6.0,500,15,Wheat,19:19:19 NPK
+1030,Kolhapur,Dark Brown,60,50,40,6.5,600,20,Wheat,19:19:19 NPK
+1031,Kolhapur,Dark Brown,65,50,40,6.5,600,20,Wheat,19:19:19 NPK
+1033,Kolhapur,Dark Brown,75,50,40,6.5,600,20,Wheat,19:19:19 NPK
+1034,Kolhapur,Dark Brown,80,50,40,6.5,600,20,Wheat,19:19:19 NPK
+1036,Kolhapur,Dark Brown,90,50,40,6.5,600,20,Wheat,19:19:19 NPK
+1039,Kolhapur,Dark Brown,60,55,45,7.0,700,25,Wheat,Urea
+1040,Kolhapur,Dark Brown,65,55,45,7.0,700,25,Wheat,Urea
+1042,Kolhapur,Dark Brown,75,55,45,7.0,700,25,Wheat,Urea
+1043,Kolhapur,Dark Brown,80,55,45,7.0,700,25,Wheat,Urea
+1044,Kolhapur,Dark Brown,85,55,45,7.0,700,25,Wheat,Urea
+1048,Kolhapur,Dark Brown,60,60,50,7.5,800,15,Wheat,Urea
+1049,Kolhapur,Dark Brown,65,60,50,7.5,800,15,Wheat,Urea
+1050,Kolhapur,Dark Brown,70,60,50,7.5,800,15,Wheat,Urea
+1051,Kolhapur,Dark Brown,75,60,50,7.5,800,15,Wheat,Urea
+1052,Kolhapur,Dark Brown,80,60,50,7.5,800,15,Wheat,Urea
+1054,Kolhapur,Dark Brown,90,60,50,7.5,800,15,Wheat,Urea
+1055,Kolhapur,Dark Brown,95,60,50,7.5,800,15,Wheat,Urea
+1059,Kolhapur,Dark Brown,70,40,60,6.0,900,20,Wheat,Urea
+1062,Kolhapur,Dark Brown,85,40,60,6.0,900,20,Wheat,Urea
+1063,Kolhapur,Dark Brown,90,40,60,6.0,900,20,Wheat,19:19:19 NPK
+1065,Kolhapur,Dark Brown,100,40,60,6.0,900,20,Wheat,19:19:19 NPK
+1066,Kolhapur,Dark Brown,60,45,40,6.5,1000,25,Wheat,19:19:19 NPK
+1070,Kolhapur,Dark Brown,80,45,40,6.5,1000,25,Wheat,19:19:19 NPK
+1071,Kolhapur,Dark Brown,85,45,40,6.5,1000,25,Wheat,19:19:19 NPK
+1074,Kolhapur,Dark Brown,100,45,40,6.5,1000,25,Wheat,19:19:19 NPK
+1077,Kolhapur,Dark Brown,70,50,45,7.0,500,15,Wheat,19:19:19 NPK
+1079,Kolhapur,Dark Brown,80,50,45,7.0,500,15,Wheat,19:19:19 NPK
+1081,Kolhapur,Dark Brown,90,50,45,7.0,500,15,Wheat,19:19:19 NPK
+1082,Kolhapur,Dark Brown,95,50,45,7.0,500,15,Wheat,19:19:19 NPK
+1083,Kolhapur,Dark Brown,100,50,45,7.0,500,15,Wheat,19:19:19 NPK
+1084,Kolhapur,Dark Brown,60,55,50,7.5,600,20,Wheat,19:19:19 NPK
+1087,Kolhapur,Dark Brown,75,55,50,7.5,600,20,Wheat,19:19:19 NPK
+1090,Kolhapur,Dark Brown,90,55,50,7.5,600,20,Wheat,Urea
+1093,Kolhapur,Dark Brown,60,60,55,6.0,700,25,Wheat,Urea
+1094,Kolhapur,Dark Brown,65,60,55,6.0,700,25,Wheat,Urea
+1096,Kolhapur,Dark Brown,75,60,55,6.0,700,25,Wheat,Urea
+1100,Kolhapur,Dark Brown,95,60,55,6.0,700,25,Wheat,Urea
+1101,Kolhapur,Dark Brown,100,60,55,6.0,700,25,Wheat,Urea
+1103,Kolhapur,Black,25,30,20,6.0,500,25,Groundnut,Chilated Micronutrient
+1105,Kolhapur,Black,20,35,25,6.5,600,30,Groundnut,Chilated Micronutrient
+1107,Kolhapur,Black,30,35,25,6.5,600,30,Groundnut,Chilated Micronutrient
+1108,Kolhapur,Black,20,40,20,7.0,500,25,Groundnut,Chilated Micronutrient
+1111,Kolhapur,Black,20,30,25,7.5,600,30,Groundnut,SSP
+1114,Kolhapur,Black,20,35,20,6.0,500,25,Groundnut,SSP
+1116,Kolhapur,Black,30,35,20,6.0,500,25,Groundnut,SSP
+1118,Kolhapur,Black,25,40,25,6.5,600,30,Groundnut,SSP
+1121,Kolhapur,Black,55,25,30,6.0,500,25,Groundnut,Chilated Micronutrient
+1123,Kolhapur,Black,50,30,35,6.5,600,30,Groundnut,Chilated Micronutrient
+1126,Kolhapur,Black,50,25,40,7.0,500,25,Groundnut,Chilated Micronutrient
+1128,Kolhapur,Black,60,25,40,7.0,500,25,Groundnut,Chilated Micronutrient
+1129,Kolhapur,Black,50,30,30,7.5,600,30,Groundnut,SSP
+1130,Kolhapur,Black,55,30,30,7.5,600,30,Groundnut,SSP
+1132,Kolhapur,Black,50,25,35,6.0,500,25,Groundnut,SSP
+1133,Kolhapur,Black,55,25,35,6.0,500,25,Groundnut,SSP
+1136,Kolhapur,Black,55,30,40,6.5,600,30,Groundnut,SSP
+1139,Kolhapur,Black,45,20,20,5.5,500,25,Groundnut,Chilated Micronutrient
+1141,Kolhapur,Black,40,30,30,6.0,600,30,Groundnut,Chilated Micronutrient
+1144,Kolhapur,Black,40,20,30,6.5,500,25,Groundnut,Chilated Micronutrient
+1145,Kolhapur,Black,45,20,30,6.5,500,25,Groundnut,Chilated Micronutrient
+1146,Kolhapur,Black,50,20,30,6.5,500,25,Groundnut,Chilated Micronutrient
+1149,Kolhapur,Black,50,30,20,7.0,600,30,Groundnut,SSP
+1150,Kolhapur,Dark Brown,120,60,40,6.0,500,20,Maize,Urea
+1151,Kolhapur,Dark Brown,125,60,40,6.0,500,20,Maize,Urea
+1152,Kolhapur,Dark Brown,130,60,40,6.0,500,20,Maize,Urea
+1153,Kolhapur,Dark Brown,135,60,40,6.0,500,20,Maize,Urea
+1155,Kolhapur,Dark Brown,145,60,40,6.0,500,20,Maize,Urea
+1157,Kolhapur,Dark Brown,120,65,45,6.5,600,25,Maize,Urea
+1159,Kolhapur,Dark Brown,130,65,45,6.5,600,25,Maize,Urea
+1161,Kolhapur,Dark Brown,140,65,45,6.5,600,25,Maize,Urea
+1162,Kolhapur,Dark Brown,145,65,45,6.5,600,25,Maize,Urea
+1164,Kolhapur,Dark Brown,120,70,50,7.0,700,30,Maize,Urea
+1166,Kolhapur,Dark Brown,130,70,50,7.0,700,30,Maize,Urea
+1168,Kolhapur,Dark Brown,140,70,50,7.0,700,30,Maize,Urea
+1171,Kolhapur,Dark Brown,120,75,55,7.5,500,20,Maize,Urea
+1172,Kolhapur,Dark Brown,125,75,55,7.5,500,20,Maize,Urea
+1175,Kolhapur,Dark Brown,140,75,55,7.5,500,20,Maize,Urea
+1176,Kolhapur,Dark Brown,145,75,55,7.5,500,20,Maize,Urea
+1178,Kolhapur,Dark Brown,120,80,60,6.0,600,25,Maize,Urea
+1181,Kolhapur,Dark Brown,135,80,60,6.0,600,25,Maize,Urea
+1182,Kolhapur,Dark Brown,140,80,60,6.0,600,25,Maize,Urea
+1183,Kolhapur,Dark Brown,145,80,60,6.0,600,25,Maize,Urea
+1184,Kolhapur,Dark Brown,150,80,60,6.0,600,25,Maize,Urea
+1185,Kolhapur,Dark Brown,120,60,45,6.5,700,30,Maize,SSP
+1186,Kolhapur,Dark Brown,125,60,45,6.5,700,30,Maize,SSP
+1188,Kolhapur,Dark Brown,135,60,45,6.5,700,30,Maize,SSP
+1189,Kolhapur,Dark Brown,140,60,45,6.5,700,30,Maize,SSP
+1190,Kolhapur,Dark Brown,145,60,45,6.5,700,30,Maize,SSP
+1191,Kolhapur,Dark Brown,150,60,45,6.5,700,30,Maize,SSP
+1192,Kolhapur,Dark Brown,120,65,50,7.0,500,20,Maize,SSP
+1194,Kolhapur,Dark Brown,130,65,50,7.0,500,20,Maize,SSP
+1195,Kolhapur,Dark Brown,135,65,50,7.0,500,20,Maize,SSP
+1197,Kolhapur,Dark Brown,145,65,50,7.0,500,20,Maize,SSP
+1198,Kolhapur,Dark Brown,150,65,50,7.0,500,20,Maize,SSP
+1203,Kolhapur,Dark Brown,140,70,55,7.5,600,25,Maize,SSP
+1204,Kolhapur,Dark Brown,145,70,55,7.5,600,25,Maize,SSP
+1207,Kolhapur,Dark Brown,125,75,60,6.0,700,30,Maize,SSP
+1208,Kolhapur,Dark Brown,130,75,60,6.0,700,30,Maize,SSP
+1209,Kolhapur,Dark Brown,135,75,60,6.0,700,30,Maize,SSP
+1210,Kolhapur,Dark Brown,140,75,60,6.0,700,30,Maize,SSP
+1211,Kolhapur,Dark Brown,145,75,60,6.0,700,30,Maize,SSP
+1213,Kolhapur,Dark Brown,120,80,40,6.5,500,20,Maize,SSP
+1214,Kolhapur,Dark Brown,125,80,40,6.5,500,20,Maize,SSP
+1217,Kolhapur,Dark Brown,140,80,40,6.5,500,20,Maize,SSP
+1218,Kolhapur,Dark Brown,145,80,40,6.5,500,20,Maize,SSP
+1219,Kolhapur,Dark Brown,150,80,40,6.5,500,20,Maize,SSP
+1220,Kolhapur,Dark Brown,120,60,50,7.0,600,25,Maize,MOP
+1222,Kolhapur,Dark Brown,130,60,50,7.0,600,25,Maize,MOP
+1223,Kolhapur,Dark Brown,135,60,50,7.0,600,25,Maize,MOP
+1225,Kolhapur,Dark Brown,145,60,50,7.0,600,25,Maize,MOP
+1226,Kolhapur,Dark Brown,150,60,50,7.0,600,25,Maize,MOP
+1230,Kolhapur,Dark Brown,135,65,55,7.5,700,30,Maize,MOP
+1231,Kolhapur,Dark Brown,140,65,55,7.5,700,30,Maize,MOP
+1232,Kolhapur,Dark Brown,145,65,55,7.5,700,30,Maize,MOP
+1240,Kolhapur,Dark Brown,150,70,60,6.0,500,20,Maize,MOP
+1242,Kolhapur,Dark Brown,125,75,40,6.5,600,25,Maize,MOP
+1244,Kolhapur,Dark Brown,135,75,40,6.5,600,25,Maize,MOP
+1246,Kolhapur,Dark Brown,145,75,40,6.5,600,25,Maize,MOP
+1248,Kolhapur,Dark Brown,120,80,45,7.0,700,30,Maize,MOP
+1252,Kolhapur,Dark Brown,140,80,45,7.0,700,30,Maize,MOP
+1253,Kolhapur,Dark Brown,145,80,45,7.0,700,30,Maize,MOP
+1258,Kolhapur,Dark Brown,135,60,55,7.5,500,20,Maize,Urea
+1259,Kolhapur,Dark Brown,140,60,55,7.5,500,20,Maize,Urea
+1260,Kolhapur,Dark Brown,145,60,55,7.5,500,20,Maize,Urea
+1261,Kolhapur,Dark Brown,150,60,55,7.5,500,20,Maize,Urea
+1263,Kolhapur,Dark Brown,125,65,60,6.0,600,25,Maize,Urea
+1268,Kolhapur,Dark Brown,150,65,60,6.0,600,25,Maize,Urea
+1269,Kolhapur,Dark Brown,120,70,40,6.5,700,30,Maize,Urea
+1270,Kolhapur,Dark Brown,125,70,40,6.5,700,30,Maize,Urea
+1273,Kolhapur,Dark Brown,140,70,40,6.5,700,30,Maize,Urea
+1274,Kolhapur,Dark Brown,145,70,40,6.5,700,30,Maize,Urea
+1275,Kolhapur,Dark Brown,150,70,40,6.5,700,30,Maize,Urea
+1276,Kolhapur,Dark Brown,120,75,45,7.0,500,20,Maize,Urea
+1277,Kolhapur,Dark Brown,125,75,45,7.0,500,20,Maize,Urea
+1278,Kolhapur,Dark Brown,130,75,45,7.0,500,20,Maize,Urea
+1280,Kolhapur,Dark Brown,140,75,45,7.0,500,20,Maize,Urea
+1284,Kolhapur,Dark Brown,125,80,50,7.5,600,25,Maize,Urea
+1285,Kolhapur,Dark Brown,130,80,50,7.5,600,25,Maize,Urea
+1286,Kolhapur,Dark Brown,135,80,50,7.5,600,25,Maize,Urea
+1288,Kolhapur,Dark Brown,145,80,50,7.5,600,25,Maize,Urea
+1289,Kolhapur,Dark Brown,150,80,50,7.5,600,25,Maize,Urea
+1292,Kolhapur,Dark Brown,130,60,60,6.0,700,30,Maize,SSP
+1293,Kolhapur,Dark Brown,135,60,60,6.0,700,30,Maize,SSP
+1298,Kolhapur,Dark Brown,125,65,40,6.5,500,20,Maize,SSP
+1302,Kolhapur,Dark Brown,145,65,40,6.5,500,20,Maize,SSP
+1303,Kolhapur,Dark Brown,150,65,40,6.5,500,20,Maize,SSP
+1308,Kolhapur,Dark Brown,140,70,45,7.0,600,25,Maize,SSP
+1310,Kolhapur,Dark Brown,150,70,45,7.0,600,25,Maize,SSP
+1311,Kolhapur,Dark Brown,120,75,50,7.5,700,30,Maize,SSP
+1314,Kolhapur,Dark Brown,135,75,50,7.5,700,30,Maize,SSP
+1318,Kolhapur,Dark Brown,120,80,55,6.0,500,20,Maize,SSP
+1322,Kolhapur,Dark Brown,140,80,55,6.0,500,20,Maize,SSP
+1324,Kolhapur,Dark Brown,150,80,55,6.0,500,20,Maize,SSP
+1325,Kolhapur,Red,40,20,20,5.5,300,20,Tur,Urea
+1326,Kolhapur,Red,45,20,20,5.5,300,20,Tur,Urea
+1327,Kolhapur,Red,50,20,20,5.5,300,20,Tur,Urea
+1331,Kolhapur,Red,40,30,30,6.5,300,30,Tur,Urea
+1333,Kolhapur,Red,50,30,30,6.5,300,30,Tur,Urea
+1334,Kolhapur,Red,40,20,25,5.5,400,20,Tur,MOP
+1336,Kolhapur,Red,50,20,25,5.5,400,20,Tur,MOP
+1337,Kolhapur,Red,40,25,30,6.0,300,25,Tur,MOP
+1339,Kolhapur,Red,50,25,30,6.0,300,25,Tur,MOP
+1341,Kolhapur,Red,45,30,20,6.5,400,30,Tur,MOP
+1342,Kolhapur,Red,50,30,20,6.5,400,30,Tur,MOP
+1344,Kolhapur,Red,45,20,30,5.5,300,20,Tur,SSP
+1349,Kolhapur,Red,40,30,25,6.5,300,30,Tur,SSP
+1351,Kolhapur,Red,50,30,25,6.5,300,30,Tur,SSP
+1352,Kolhapur,Dark Brown,20,30,20,6.0,800,20,Urad,Urea
+1353,Kolhapur,Dark Brown,25,30,20,6.0,800,20,Urad,Urea
+1355,Kolhapur,Dark Brown,20,35,25,6.5,900,25,Urad,Urea
+1358,Kolhapur,Dark Brown,20,40,30,7.0,1000,20,Urad,Urea
+1359,Kolhapur,Dark Brown,25,40,30,7.0,1000,20,Urad,Urea
+1362,Kolhapur,Dark Brown,25,30,25,6.0,800,25,Urad,SSP
+1371,Kolhapur,Dark Brown,25,30,30,6.0,800,20,Urad,DAP
+1372,Kolhapur,Dark Brown,30,30,30,6.0,800,20,Urad,DAP
+1373,Kolhapur,Dark Brown,20,35,20,6.5,900,25,Urad,DAP
+1374,Kolhapur,Dark Brown,25,35,20,6.5,900,25,Urad,DAP
+1375,Kolhapur,Dark Brown,30,35,20,6.5,900,25,Urad,DAP
+1376,Kolhapur,Dark Brown,20,40,25,7.0,1000,20,Urad,DAP
+1377,Kolhapur,Dark Brown,25,40,25,7.0,1000,20,Urad,DAP
+1378,Kolhapur,Dark Brown,30,40,25,7.0,1000,20,Urad,DAP
+1379,Kolhapur,Light Brown,20,10,5,6.0,600,25,Moong,MOP
+1381,Kolhapur,Light Brown,30,10,5,6.0,600,25,Moong,MOP
+1383,Kolhapur,Light Brown,25,15,10,6.5,700,30,Moong,MOP
+1386,Kolhapur,Light Brown,25,20,15,7.0,800,35,Moong,MOP
+1389,Kolhapur,Light Brown,25,10,10,6.0,600,25,Moong,Urea
+1390,Kolhapur,Light Brown,30,10,10,6.0,600,25,Moong,Urea
+1393,Kolhapur,Light Brown,30,15,15,6.5,700,30,Moong,Urea
+1395,Kolhapur,Light Brown,25,20,5,7.0,800,35,Moong,Urea
+1396,Kolhapur,Light Brown,30,20,5,7.0,800,35,Moong,Urea
+1401,Kolhapur,Light Brown,25,15,5,6.5,700,30,Moong,SSP
+1402,Kolhapur,Light Brown,30,15,5,6.5,700,30,Moong,SSP
+1405,Kolhapur,Light Brown,30,20,10,7.0,800,35,Moong,SSP
+1406,Kolhapur,Black,40,25,10,6.0,600,20,Gram,18:46:00 NPK
+1408,Kolhapur,Black,50,25,10,6.0,600,20,Gram,18:46:00 NPK
+1409,Kolhapur,Black,40,30,15,6.5,700,25,Gram,18:46:00 NPK
+1411,Kolhapur,Black,50,30,15,6.5,700,25,Gram,18:46:00 NPK
+1412,Kolhapur,Black,40,25,15,6.0,600,20,Gram,Sulphur
+1413,Kolhapur,Black,45,25,15,6.0,600,20,Gram,Sulphur
+1415,Kolhapur,Black,40,30,10,6.5,700,25,Gram,Sulphur
+1416,Kolhapur,Black,45,30,10,6.5,700,25,Gram,Sulphur
+1417,Kolhapur,Black,50,30,10,6.5,700,25,Gram,Sulphur
+1418,Kolhapur,Medium Brown,40,20,20,6.0,600,20,Masoor,Urea
+1424,Kolhapur,Medium Brown,40,20,25,6.0,600,20,Masoor,DAP
+1425,Kolhapur,Medium Brown,45,20,25,6.0,600,20,Masoor,DAP
+1426,Kolhapur,Medium Brown,50,20,25,6.0,600,20,Masoor,DAP
+1427,Kolhapur,Medium Brown,40,25,20,6.5,700,25,Masoor,DAP
+1428,Kolhapur,Medium Brown,45,25,20,6.5,700,25,Masoor,DAP
+1432,Solapur,Black,110,60,60,7.5,500,10,Cotton,Magnesium Sulphate
+1433,Solapur,Black,115,60,60,7.5,500,10,Cotton,Magnesium Sulphate
+1434,Solapur,Black,120,60,60,7.5,500,10,Cotton,Magnesium Sulphate
+1437,Solapur,Black,110,65,65,8.0,600,15,Cotton,Magnesium Sulphate
+1439,Solapur,Black,120,65,65,8.0,600,15,Cotton,Magnesium Sulphate
+1440,Solapur,Black,100,70,70,8.5,500,20,Cotton,Magnesium Sulphate
+1441,Solapur,Black,105,70,70,8.5,500,20,Cotton,Magnesium Sulphate
+1442,Solapur,Black,110,70,70,8.5,500,20,Cotton,Magnesium Sulphate
+1443,Solapur,Black,115,70,70,8.5,500,20,Cotton,Magnesium Sulphate
+1445,Solapur,Black,100,75,75,7.5,600,25,Cotton,Magnesium Sulphate
+1446,Solapur,Black,105,75,75,7.5,600,25,Cotton,Magnesium Sulphate
+1448,Solapur,Black,115,75,75,7.5,600,25,Cotton,Magnesium Sulphate
+1450,Solapur,Black,100,80,80,8.0,500,30,Cotton,Magnesium Sulphate
+1452,Solapur,Black,110,80,80,8.0,500,30,Cotton,Magnesium Sulphate
+1453,Solapur,Black,115,80,80,8.0,500,30,Cotton,Magnesium Sulphate
+1454,Solapur,Black,120,80,80,8.0,500,30,Cotton,Magnesium Sulphate
+1456,Solapur,Black,105,60,65,8.5,600,10,Cotton,DAP
+1457,Solapur,Black,110,60,65,8.5,600,10,Cotton,DAP
+1458,Solapur,Black,115,60,65,8.5,600,10,Cotton,DAP
+1460,Solapur,Black,100,65,70,7.5,500,15,Cotton,DAP
+1461,Solapur,Black,105,65,70,7.5,500,15,Cotton,DAP
+1463,Solapur,Black,115,65,70,7.5,500,15,Cotton,DAP
+1464,Solapur,Black,120,65,70,7.5,500,15,Cotton,DAP
+1465,Solapur,Black,100,70,75,8.0,600,20,Cotton,DAP
+1468,Solapur,Black,115,70,75,8.0,600,20,Cotton,DAP
+1473,Solapur,Black,115,75,80,8.5,500,25,Cotton,DAP
+1477,Solapur,Black,110,80,60,7.5,600,30,Cotton,DAP
+1479,Solapur,Black,120,80,60,7.5,600,30,Cotton,DAP
+1484,Solapur,Black,120,60,70,8.0,500,10,Cotton,12:32:16 NPK
+1485,Solapur,Black,100,65,75,8.5,600,15,Cotton,12:32:16 NPK
+1487,Solapur,Black,110,65,75,8.5,600,15,Cotton,12:32:16 NPK
+1490,Solapur,Black,100,70,80,7.5,500,20,Cotton,12:32:16 NPK
+1491,Solapur,Black,105,70,80,7.5,500,20,Cotton,12:32:16 NPK
+1492,Solapur,Black,110,70,80,7.5,500,20,Cotton,12:32:16 NPK
+1494,Solapur,Black,120,70,80,7.5,500,20,Cotton,12:32:16 NPK
+1495,Solapur,Black,100,75,60,8.0,600,25,Cotton,12:32:16 NPK
+1497,Solapur,Black,110,75,60,8.0,600,25,Cotton,12:32:16 NPK
+1503,Solapur,Black,115,80,65,8.5,500,30,Cotton,12:32:16 NPK
+1504,Solapur,Black,120,80,65,8.5,500,30,Cotton,12:32:16 NPK
+1505,Solapur,Black,100,60,75,7.5,600,10,Cotton,Magnesium Sulphate
+1506,Solapur,Black,105,60,75,7.5,600,10,Cotton,Magnesium Sulphate
+1507,Solapur,Black,110,60,75,7.5,600,10,Cotton,Magnesium Sulphate
+1508,Solapur,Black,115,60,75,7.5,600,10,Cotton,Magnesium Sulphate
+1512,Solapur,Black,110,65,80,8.0,500,15,Cotton,Magnesium Sulphate
+1513,Solapur,Black,115,65,80,8.0,500,15,Cotton,Magnesium Sulphate
+1514,Solapur,Black,120,65,80,8.0,500,15,Cotton,Magnesium Sulphate
+1515,Solapur,Black,100,70,60,8.5,600,20,Cotton,Magnesium Sulphate
+1517,Solapur,Black,110,70,60,8.5,600,20,Cotton,Magnesium Sulphate
+1519,Solapur,Black,120,70,60,8.5,600,20,Cotton,Magnesium Sulphate
+1520,Solapur,Black,100,75,65,7.5,500,25,Cotton,Magnesium Sulphate
+1521,Solapur,Black,105,75,65,7.5,500,25,Cotton,Magnesium Sulphate
+1522,Solapur,Black,110,75,65,7.5,500,25,Cotton,Magnesium Sulphate
+1523,Solapur,Black,115,75,65,7.5,500,25,Cotton,Magnesium Sulphate
+1524,Solapur,Black,120,75,65,7.5,500,25,Cotton,Magnesium Sulphate
+1525,Solapur,Black,100,80,70,8.0,600,30,Cotton,Magnesium Sulphate
+1526,Solapur,Black,105,80,70,8.0,600,30,Cotton,Magnesium Sulphate
+1528,Solapur,Black,115,80,70,8.0,600,30,Cotton,Magnesium Sulphate
+1532,Solapur,Black,110,60,80,8.5,500,10,Cotton,DAP
+1533,Solapur,Black,115,60,80,8.5,500,10,Cotton,DAP
+1536,Solapur,Black,105,65,60,7.5,600,15,Cotton,DAP
+1537,Solapur,Black,110,65,60,7.5,600,15,Cotton,DAP
+1538,Solapur,Black,115,65,60,7.5,600,15,Cotton,DAP
+1539,Solapur,Black,120,65,60,7.5,600,15,Cotton,DAP
+1545,Solapur,Black,100,75,70,8.5,600,25,Cotton,DAP
+1547,Solapur,Black,110,75,70,8.5,600,25,Cotton,DAP
+1549,Solapur,Black,120,75,70,8.5,600,25,Cotton,DAP
+1551,Solapur,Black,105,80,75,7.5,500,30,Cotton,DAP
+1555,Solapur,Red,50,30,20,6.5,600,20,Jowar,10:26:26 NPK
+1557,Solapur,Red,60,30,20,6.5,600,20,Jowar,10:26:26 NPK
+1560,Solapur,Red,60,35,25,7.0,700,25,Jowar,10:26:26 NPK
+1562,Solapur,Red,55,40,30,7.5,600,30,Jowar,10:26:26 NPK
+1563,Solapur,Red,60,40,30,7.5,600,30,Jowar,10:26:26 NPK
+1565,Solapur,Red,55,30,25,6.5,700,20,Jowar,Urea
+1567,Solapur,Red,50,35,30,7.0,600,25,Jowar,Urea
+1571,Solapur,Red,55,40,20,7.5,700,30,Jowar,Urea
+1572,Solapur,Red,60,40,20,7.5,700,30,Jowar,Urea
+1573,Solapur,Red,50,30,30,6.5,600,20,Jowar,SSP
+1576,Solapur,Red,50,35,20,7.0,700,25,Jowar,SSP
+1577,Solapur,Red,55,35,20,7.0,700,25,Jowar,SSP
+1578,Solapur,Red,60,35,20,7.0,700,25,Jowar,SSP
+1582,Solapur,Red,60,40,40,6.0,500,15,Wheat,19:19:19 NPK
+1583,Solapur,Red,65,40,40,6.0,500,15,Wheat,19:19:19 NPK
+1585,Solapur,Red,75,40,40,6.0,500,15,Wheat,19:19:19 NPK
+1586,Solapur,Red,80,40,40,6.0,500,15,Wheat,19:19:19 NPK
+1587,Solapur,Red,60,45,45,6.5,600,20,Wheat,19:19:19 NPK
+1589,Solapur,Red,70,45,45,6.5,600,20,Wheat,19:19:19 NPK
+1590,Solapur,Red,75,45,45,6.5,600,20,Wheat,19:19:19 NPK
+1592,Solapur,Red,60,50,50,7.0,500,25,Wheat,19:19:19 NPK
+1593,Solapur,Red,65,50,50,7.0,500,25,Wheat,19:19:19 NPK
+1594,Solapur,Red,70,50,50,7.0,500,25,Wheat,19:19:19 NPK
+1597,Solapur,Red,60,55,55,7.5,600,30,Wheat,19:19:19 NPK
+1601,Solapur,Red,80,55,55,7.5,600,30,Wheat,19:19:19 NPK
+1603,Solapur,Red,65,60,60,6.0,500,15,Wheat,19:19:19 NPK
+1604,Solapur,Red,70,60,60,6.0,500,15,Wheat,19:19:19 NPK
+1605,Solapur,Red,75,60,60,6.0,500,15,Wheat,19:19:19 NPK
+1606,Solapur,Red,80,60,60,6.0,500,15,Wheat,19:19:19 NPK
+1607,Solapur,Red,60,40,45,6.5,600,20,Wheat,Urea
+1608,Solapur,Red,65,40,45,6.5,600,20,Wheat,Urea
+1610,Solapur,Red,75,40,45,6.5,600,20,Wheat,Urea
+1611,Solapur,Red,80,40,45,6.5,600,20,Wheat,Urea
+1612,Solapur,Red,60,45,50,7.0,500,25,Wheat,Urea
+1615,Solapur,Red,75,45,50,7.0,500,25,Wheat,Urea
+1618,Solapur,Red,65,50,55,7.5,600,30,Wheat,Urea
+1621,,Red,80,50,55,7.5,600,30,Wheat,Urea
+1625,Solapur,Red,75,55,60,6.0,500,15,Wheat,Urea
+1627,Solapur,Red,60,60,40,6.5,600,20,Wheat,Urea
+1628,Solapur,Red,65,60,40,6.5,600,20,Wheat,Urea
+1629,Solapur,Red,70,60,40,6.5,600,20,Wheat,Urea
+1631,Solapur,Red,80,60,40,6.5,600,20,Wheat,Urea
+1634,Solapur,Red,70,40,50,7.0,500,25,Wheat,19:19:19 NPK
+1635,Solapur,Red,75,40,50,7.0,500,25,Wheat,19:19:19 NPK
+1636,Solapur,Red,80,40,50,7.0,500,25,Wheat,19:19:19 NPK
+1637,Solapur,Red,60,45,55,7.5,600,30,Wheat,19:19:19 NPK
+1639,Solapur,Red,70,45,55,7.5,600,30,Wheat,19:19:19 NPK
+1640,Solapur,Red,75,45,55,7.5,600,30,Wheat,19:19:19 NPK
+1641,Solapur,Red,80,45,55,7.5,600,30,Wheat,19:19:19 NPK
+1645,Solapur,Red,75,50,60,6.0,500,15,Wheat,19:19:19 NPK
+1646,Solapur,Red,80,50,60,6.0,500,15,Wheat,19:19:19 NPK
+1647,Solapur,Red,60,55,40,6.5,600,20,Wheat,19:19:19 NPK
+1651,Solapur,Red,80,55,40,6.5,600,20,Wheat,19:19:19 NPK
+1658,Solapur,Red,65,40,55,7.5,600,30,Wheat,
+1660,Solapur,Red,75,40,55,7.5,600,30,Wheat,Urea
+1662,Solapur,Red,60,45,60,6.0,500,15,Wheat,Urea
+1663,Solapur,Red,65,45,60,6.0,500,15,Wheat,Urea
+1664,Solapur,Red,70,45,60,6.0,500,15,Wheat,Urea
+1665,Solapur,Red,75,45,60,6.0,500,15,Wheat,Urea
+1667,Solapur,Red,60,50,40,6.5,600,20,Wheat,Urea
+1668,Solapur,Red,65,50,40,6.5,600,20,Wheat,Urea
+1672,Solapur,Red,60,55,45,7.0,500,25,Wheat,Urea
+1673,Solapur,Red,65,55,45,7.0,500,25,Wheat,Urea
+1674,Solapur,Red,70,55,45,7.0,500,25,Wheat,Urea
+1675,Solapur,Red,75,55,45,7.0,500,25,Wheat,Urea
+1676,Solapur,Red,80,55,45,7.0,500,25,Wheat,Urea
+1679,Solapur,Red,70,60,50,7.5,600,30,Wheat,Urea
+1681,Solapur,Red,80,60,50,7.5,600,30,Wheat,Urea
+1682,Solapur,Red,60,40,60,6.0,500,15,Wheat,19:19:19 NPK
+1687,Solapur,Red,60,45,40,6.5,600,20,Wheat,19:19:19 NPK
+1688,Solapur,Red,65,45,40,6.5,600,20,Wheat,19:19:19 NPK
+1690,Solapur,Red,75,45,40,6.5,600,20,Wheat,19:19:19 NPK
+1693,Solapur,Red,65,50,45,7.0,500,25,Wheat,19:19:19 NPK
+1694,Solapur,Red,70,50,45,7.0,500,25,Wheat,19:19:19 NPK
+1695,Solapur,Red,75,50,45,7.0,500,25,Wheat,19:19:19 NPK
+1697,Solapur,Red,60,55,50,7.5,600,30,Wheat,19:19:19 NPK
+1698,Solapur,Red,65,55,50,7.5,600,30,Wheat,19:19:19 NPK
+1699,Solapur,Red,70,55,50,7.5,600,30,Wheat,19:19:19 NPK
+1701,Solapur,Red,80,55,50,7.5,600,30,Wheat,19:19:19 NPK
+1703,Solapur,Red,65,60,55,6.0,500,15,Wheat,19:19:19 NPK
+1705,Solapur,Red,75,60,55,6.0,500,15,Wheat,19:19:19 NPK
+1706,Solapur,Red,80,60,55,6.0,500,15,Wheat,19:19:19 NPK
+1708,Solapur,Black,125,60,60,6.5,1000,20,Sugarcane,Urea
+1712,Solapur,Black,145,60,60,6.5,1000,20,Sugarcane,Urea
+1713,Solapur,Black,150,60,60,6.5,1000,20,Sugarcane,Urea
+1717,Solapur,Black,135,65,65,7.0,1100,25,Sugarcane,Urea
+1720,Solapur,Black,150,65,65,7.0,1100,25,Sugarcane,Urea
+1723,Solapur,Black,130,70,70,7.5,1200,30,Sugarcane,Urea
+1725,Solapur,Black,140,70,70,7.5,1200,30,Sugarcane,Urea
+1727,Solapur,Black,150,70,70,7.5,1200,30,Sugarcane,Urea
+1728,Solapur,Black,120,75,75,8.0,1000,35,Sugarcane,Urea
+1731,Solapur,Black,135,75,75,8.0,1000,35,Sugarcane,Urea
+1732,Solapur,Black,140,75,75,8.0,1000,35,Sugarcane,Urea
+1733,Solapur,Black,145,75,75,8.0,1000,35,Sugarcane,Urea
+1734,Solapur,Black,150,75,75,8.0,1000,35,Sugarcane,Urea
+1735,Solapur,Black,120,80,80,8.5,1100,20,Sugarcane,Urea
+1741,Solapur,Black,150,80,80,8.5,1100,20,Sugarcane,DAP
+1743,Solapur,Black,125,60,65,6.5,1200,25,Sugarcane,DAP
+1746,Solapur,Black,140,60,65,6.5,1200,25,Sugarcane,DAP
+1748,Solapur,Black,150,60,65,6.5,1200,25,Sugarcane,DAP
+1750,Solapur,Black,125,65,70,7.0,1000,30,Sugarcane,DAP
+1753,Solapur,Black,140,65,70,7.0,1000,30,Sugarcane,DAP
+1755,Solapur,Black,150,65,70,7.0,1000,30,Sugarcane,DAP
+1759,Solapur,Black,135,70,75,7.5,1100,35,Sugarcane,DAP
+1760,Solapur,Black,140,70,75,7.5,1100,35,Sugarcane,DAP
+1763,Solapur,Black,120,75,80,8.0,1200,20,Sugarcane,DAP
+1765,Solapur,Black,130,75,80,8.0,1200,20,Sugarcane,DAP
+1768,Solapur,Black,145,75,80,8.0,1200,20,Sugarcane,DAP
+1771,Solapur,Black,125,80,60,8.5,1000,25,Sugarcane,DAP
+1774,Solapur,Black,140,80,60,8.5,1000,25,Sugarcane,DAP
+1777,Solapur,Black,120,60,70,6.5,1100,30,Sugarcane,MOP
+1784,Solapur,Black,120,65,75,7.0,1200,35,Sugarcane,MOP
+1786,Solapur,Black,130,65,75,7.0,1200,35,Sugarcane,MOP
+1787,Solapur,Black,135,65,75,7.0,1200,35,Sugarcane,MOP
+1788,Solapur,Black,140,65,75,7.0,1200,35,Sugarcane,MOP
+1792,Solapur,Black,125,70,80,7.5,1000,20,Sugarcane,MOP
+1793,Solapur,Black,130,70,80,7.5,1000,20,Sugarcane,MOP
+1794,Solapur,Black,135,70,80,7.5,1000,20,Sugarcane,MOP
+1795,Solapur,Black,140,70,80,7.5,1000,20,Sugarcane,MOP
+1797,Solapur,Black,150,70,80,7.5,1000,20,Sugarcane,MOP
+1798,Solapur,Black,120,75,60,8.0,1100,25,Sugarcane,MOP
+1799,Solapur,Black,125,75,60,8.0,1100,25,Sugarcane,MOP
+1800,Solapur,Black,130,75,60,8.0,1100,25,Sugarcane,MOP
+1801,Solapur,Black,135,75,60,8.0,1100,25,Sugarcane,MOP
+1802,Solapur,Black,140,75,60,8.0,1100,25,Sugarcane,MOP
+1804,Solapur,Black,150,75,60,8.0,1100,25,Sugarcane,MOP
+1805,Solapur,Black,120,80,65,8.5,1200,30,Sugarcane,MOP
+1810,Solapur,Black,145,80,65,8.5,1200,30,Sugarcane,MOP
+1811,Solapur,Black,150,80,65,8.5,1200,30,Sugarcane,MOP
+1812,Solapur,Black,120,60,75,6.5,1000,35,Sugarcane,MOP
+1813,Solapur,Black,125,60,75,6.5,1000,35,Sugarcane,MOP
+1814,Solapur,Black,130,60,75,6.5,1000,35,Sugarcane,MOP
+1817,Solapur,Black,145,60,75,6.5,1000,35,Sugarcane,MOP
+1818,Solapur,Black,150,60,75,6.5,1000,35,Sugarcane,MOP
+1819,Solapur,Black,120,65,80,7.0,1100,20,Sugarcane,MOP
+1820,Solapur,Black,125,65,80,7.0,1100,20,Sugarcane,MOP
+1821,Solapur,Black,130,65,80,7.0,1100,20,Sugarcane,MOP
+1823,Solapur,Black,140,65,80,7.0,1100,20,Sugarcane,MOP
+1826,Solapur,Black,120,70,60,7.5,1200,25,Sugarcane,MOP
+1827,Solapur,Black,125,70,60,7.5,1200,25,Sugarcane,MOP
+1829,Solapur,Black,135,70,60,7.5,1200,25,Sugarcane,MOP
+1830,Solapur,Black,140,70,60,7.5,1200,25,Sugarcane,MOP
+1831,Solapur,Black,145,70,60,7.5,1200,25,Sugarcane,MOP
+1836,Solapur,Black,135,75,65,8.0,1000,30,Sugarcane,MOP
+1837,Solapur,Black,140,75,65,8.0,1000,30,Sugarcane,MOP
+1838,Solapur,Black,145,75,65,8.0,1000,30,Sugarcane,MOP
+1839,Solapur,Black,150,75,65,8.0,1000,30,Sugarcane,MOP
+1840,Solapur,Black,120,80,70,8.5,1100,35,Sugarcane,MOP
+1841,Solapur,Black,125,80,70,8.5,1100,35,Sugarcane,MOP
+1842,Solapur,Black,130,80,70,8.5,1100,35,Sugarcane,MOP
+1843,Solapur,Black,135,80,70,8.5,1100,35,Sugarcane,MOP
+1844,Solapur,Black,140,80,70,8.5,1100,35,Sugarcane,MOP
+1846,Solapur,Black,150,80,70,8.5,1100,35,Sugarcane,MOP
+1848,Solapur,Black,125,60,80,6.5,1200,20,Sugarcane,MOP
+1850,Solapur,Black,135,60,80,6.5,1200,20,Sugarcane,MOP
+1852,Solapur,Black,145,60,80,6.5,1200,20,Sugarcane,MOP
+1854,Solapur,Black,120,65,60,7.0,1000,25,Sugarcane,MOP
+1858,Solapur,Black,140,65,60,7.0,1000,25,Sugarcane,MOP
+1864,Solapur,Black,135,70,65,7.5,1100,30,Sugarcane,MOP
+1865,Solapur,Black,140,70,65,7.5,1100,30,Sugarcane,MOP
+1866,Solapur,Black,145,70,65,7.5,1100,30,Sugarcane,MOP
+1867,Solapur,Black,150,70,65,7.5,1100,30,Sugarcane,MOP
+1868,Solapur,Black,120,75,70,8.0,1200,35,Sugarcane,MOP
+1869,Solapur,Black,125,75,70,8.0,1200,35,Sugarcane,MOP
+1872,Solapur,Black,140,75,70,8.0,1200,35,Sugarcane,MOP
+1875,Solapur,Black,120,80,75,8.5,1000,20,Sugarcane,MOP
+1876,Solapur,Black,125,80,75,8.5,1000,20,Sugarcane,MOP
+1878,Solapur,Black,135,80,75,8.5,1000,20,Sugarcane,MOP
+1880,Solapur,Black,145,80,75,8.5,1000,20,Sugarcane,MOP
+1883,Solapur,Black,25,40,20,6.0,600,25,Groundnut,Chilated Micronutrient
+1884,Solapur,Black,30,40,20,6.0,600,25,Groundnut,Chilated Micronutrient
+1885,Solapur,Black,20,45,25,6.5,700,30,Groundnut,Chilated Micronutrient
+1887,Solapur,Black,30,45,25,6.5,700,30,Groundnut,Chilated Micronutrient
+1891,Solapur,Black,20,55,35,7.5,600,30,Groundnut,Chilated Micronutrient
+1892,Solapur,Black,25,55,35,7.5,600,30,Groundnut,Chilated Micronutrient
+1894,Solapur,Black,20,60,40,6.0,700,25,Groundnut,Chilated Micronutrient
+1896,Solapur,Black,30,60,40,6.0,700,25,Groundnut,Chilated Micronutrient
+1897,Solapur,Black,20,40,25,6.5,800,30,Groundnut,SSP
+1898,Solapur,Black,25,40,25,6.5,800,30,Groundnut,SSP
+1906,Solapur,Black,20,55,40,6.5,800,25,Groundnut,SSP
+1908,Solapur,Black,30,55,40,6.5,800,25,Groundnut,SSP
+1911,Solapur,Black,30,60,20,7.0,600,30,Groundnut,SSP
+1915,Solapur,Black,20,45,35,6.0,800,30,Groundnut,Chilated Micronutrient
+1916,Solapur,Black,25,45,35,6.0,800,30,Groundnut,Chilated Micronutrient
+1918,Solapur,Black,20,50,40,7.0,600,25,Groundnut,Chilated Micronutrient
+1919,Solapur,Black,25,50,40,7.0,600,25,Groundnut,Chilated Micronutrient
+1921,Solapur,Black,20,55,20,7.5,700,30,Groundnut,Chilated Micronutrient
+1927,Solapur,Black,20,40,35,6.5,600,30,Groundnut,SSP
+1929,Solapur,Black,30,40,35,6.5,600,30,Groundnut,SSP
+1932,Solapur,Black,30,45,40,7.5,700,25,Groundnut,SSP
+1933,Solapur,Black,20,50,20,6.0,800,30,Groundnut,SSP
+1934,Solapur,Black,25,50,20,6.0,800,30,Groundnut,SSP
+1939,Solapur,Black,20,60,30,7.0,700,30,Groundnut,SSP
+1940,Solapur,Black,25,60,30,7.0,700,30,Groundnut,SSP
+1941,Solapur,Black,30,60,30,7.0,700,30,Groundnut,SSP
+1943,Solapur,Black,25,40,40,6.0,800,25,Groundnut,Chilated Micronutrient
+1945,Solapur,Black,20,45,20,6.5,600,30,Groundnut,Chilated Micronutrient
+1946,Solapur,Black,25,45,20,6.5,600,30,Groundnut,Chilated Micronutrient
+1947,Solapur,Black,30,45,20,6.5,600,30,Groundnut,Chilated Micronutrient
+1949,Solapur,Black,25,50,25,7.5,700,25,Groundnut,Chilated Micronutrient
+1953,Solapur,Black,30,55,30,6.0,800,30,Groundnut,Chilated Micronutrient
+1956,Solapur,Black,30,60,35,6.5,600,20,Groundnut,Chilated Micronutrient
+1958,Solapur,Black,45,30,20,6.0,300,20,Soybean,Urea
+1959,Solapur,Black,50,30,20,6.0,300,20,Soybean,Urea
+1960,Solapur,Black,55,30,20,6.0,300,20,Soybean,Urea
+1961,Solapur,Black,60,30,20,6.0,300,20,Soybean,Urea
+1962,Solapur,Black,40,35,25,6.5,400,25,Soybean,Urea
+1964,Solapur,Black,50,35,25,6.5,400,25,Soybean,Urea
+1968,Solapur,Black,45,40,30,7.0,300,30,Soybean,Urea
+1970,Solapur,Black,55,40,30,7.0,300,30,Soybean,Urea
+1974,Solapur,Black,50,30,25,6.0,400,20,Soybean,20:20:20 NPK
+1975,Solapur,Black,55,30,25,6.0,400,20,Soybean,20:20:20 NPK
+1977,Solapur,Black,40,35,30,6.5,300,25,Soybean,20:20:20 NPK
+1979,Solapur,Black,50,35,30,6.5,300,25,Soybean,20:20:20 NPK
+1980,Solapur,Black,55,35,30,6.5,300,25,Soybean,20:20:20 NPK
+1982,Solapur,Black,40,40,20,7.0,400,30,Soybean,20:20:20 NPK
+1985,Solapur,Black,55,40,20,7.0,400,30,Soybean,20:20:20 NPK
+1986,Solapur,Black,60,40,20,7.0,400,30,Soybean,20:20:20 NPK
+1987,Solapur,Black,40,30,30,6.0,300,20,Soybean,SSP
+1990,Solapur,Black,55,30,30,6.0,300,20,Soybean,SSP
+1993,Solapur,Black,45,35,20,6.5,400,25,Soybean,SSP
+1994,Solapur,Black,50,35,20,6.5,400,25,Soybean,SSP
+1995,Solapur,Black,55,35,20,6.5,400,25,Soybean,SSP
+1996,Solapur,Black,60,35,20,6.5,400,25,Soybean,SSP
+1997,Solapur,Black,40,40,25,7.0,300,30,Soybean,SSP
+2000,Solapur,Black,55,40,25,7.0,300,30,Soybean,SSP
+2003,Solapur,Black,25,40,20,6.0,700,25,Gram,DAP
+2004,Solapur,Black,30,40,20,6.0,700,25,Gram,DAP
+2005,Solapur,Black,20,45,25,6.5,800,30,Gram,DAP
+2007,Solapur,Black,30,45,25,6.5,800,30,Gram,DAP
+2009,Solapur,Black,25,50,30,7.0,700,35,Gram,DAP
+2010,Solapur,Black,30,50,30,7.0,700,35,Gram,DAP
+2011,Solapur,Black,20,40,25,6.0,800,25,Gram,MOP
+2015,Solapur,Black,25,45,30,6.5,700,30,Gram,MOP
+2016,Solapur,Black,30,45,30,6.5,700,30,Gram,MOP
+2017,Solapur,Black,20,50,20,7.0,800,35,Gram,MOP
+2018,Solapur,Black,25,50,20,7.0,800,35,Gram,MOP
+2019,Solapur,Black,30,50,20,7.0,800,35,Gram,MOP
+2020,Solapur,Black,20,40,30,6.0,700,25,Gram,DAP
+2026,Solapur,Black,20,50,25,7.0,700,35,Gram,DAP
+2030,Solapur,Red,35,20,20,6.0,500,25,Tur,Urea
+2033,Solapur,Red,35,25,25,6.5,600,30,Tur,Urea
+2036,Solapur,Red,35,30,20,7.0,500,35,Tur,Urea
+2037,Solapur,Red,40,30,20,7.0,500,35,Tur,Urea
+2038,Solapur,Red,30,20,25,6.0,600,25,Tur,MOP
+2039,Solapur,Red,35,20,25,6.0,600,25,Tur,MOP
+2041,Solapur,Red,30,25,20,6.5,500,30,Tur,MOP
+2043,Solapur,Red,40,25,20,6.5,500,30,Tur,MOP
+2044,Solapur,Red,30,30,25,7.0,600,35,Tur,MOP
+2047,Solapur,Black,60,30,20,6.5,400,25,Urad,Urea
+2051,Solapur,Black,80,30,20,6.5,400,25,Urad,Urea
+2054,Solapur,Black,70,35,25,7.0,500,30,Urad,Urea
+2057,Solapur,Black,60,40,30,7.5,600,25,Urad,Urea
+2065,Solapur,Black,75,30,25,6.5,400,30,Urad,SSP
+2066,Solapur,Black,80,30,25,6.5,400,30,Urad,SSP
+2068,Solapur,Black,65,35,30,7.0,500,25,Urad,SSP
+2069,Solapur,Black,70,35,30,7.0,500,25,Urad,SSP
+2071,Solapur,Black,80,35,30,7.0,500,25,Urad,SSP
+2073,Solapur,Black,65,40,20,7.5,600,30,Urad,SSP
+2076,Solapur,Black,80,40,20,7.5,600,30,Urad,SSP
+2079,Solapur,Black,70,30,30,6.5,400,25,Urad,DAP
+2081,Solapur,Black,80,30,30,6.5,400,25,Urad,DAP
+2082,Solapur,Black,60,35,20,7.0,500,30,Urad,DAP
+2083,Solapur,Black,65,35,20,7.0,500,30,Urad,DAP
+2085,Solapur,Black,75,35,20,7.0,500,30,Urad,DAP
+2086,Solapur,Black,80,35,20,7.0,500,30,Urad,DAP
+2088,Solapur,Black,65,40,25,7.5,600,25,Urad,DAP
+2090,Solapur,Black,75,40,25,7.5,600,25,Urad,DAP
+2094,Solapur,Black,70,30,20,6.0,500,25,Moong,MOP
+2096,Solapur,Black,80,30,20,6.0,500,25,Moong,MOP
+2097,Solapur,Black,60,35,25,6.5,600,30,Moong,MOP
+2098,Solapur,Black,65,35,25,6.5,600,30,Moong,MOP
+2100,Solapur,Black,75,35,25,6.5,600,30,Moong,MOP
+2101,Solapur,Black,80,35,25,6.5,600,30,Moong,MOP
+2103,Solapur,Black,65,40,30,7.0,700,35,Moong,MOP
+2104,Solapur,Black,70,40,30,7.0,700,35,Moong,MOP
+2106,Solapur,Black,80,40,30,7.0,700,35,Moong,MOP
+2107,Solapur,Black,60,30,25,6.0,500,25,Moong,Urea
+2109,Solapur,Black,70,30,25,6.0,500,25,Moong,Urea
+2110,Solapur,Black,75,30,25,6.0,500,25,Moong,Urea
+2111,Solapur,Black,80,30,25,6.0,500,25,Moong,Urea
+2114,Solapur,Black,70,35,30,6.5,600,30,Moong,Urea
+2117,Solapur,Black,60,40,20,7.0,700,35,Moong,Urea
+2122,Solapur,Black,60,30,30,6.0,500,25,Moong,SSP
+2123,Solapur,Black,65,30,30,6.0,500,25,Moong,SSP
+2124,Solapur,Black,70,30,30,6.0,500,25,Moong,SSP
+2125,Solapur,Black,75,30,30,6.0,500,25,Moong,SSP
+2127,Solapur,Black,60,35,20,6.5,600,30,Moong,SSP
+2134,Solapur,Black,70,40,25,7.0,700,35,Moong,SSP
+2137,Satara,Red,50,30,20,6.0,600,25,Tur,Urea
+2140,Satara,Red,50,35,25,6.5,700,30,Tur,Urea
+2141,Satara,Red,55,35,25,6.5,700,30,Tur,Urea
+2143,Satara,Red,50,40,20,6.0,600,35,Tur,Urea
+2145,Satara,Red,60,40,20,6.0,600,35,Tur,Urea
+2146,Satara,Red,50,30,25,6.5,700,25,Tur,SSP
+2148,Satara,Red,60,30,25,6.5,700,25,Tur,SSP
+2150,Satara,Red,55,35,20,6.0,600,30,Tur,SSP
+2155,Satara,Black,40,25,10,6.0,500,20,Gram,DAP
+2156,Satara,Black,45,25,10,6.0,500,20,Gram,DAP
+2157,Satara,Black,50,25,10,6.0,500,20,Gram,DAP
+2158,Satara,Black,40,30,15,6.5,600,25,Gram,DAP
+2160,Satara,Black,50,30,15,6.5,600,25,Gram,DAP
+2163,Satara,Black,50,25,15,6.0,500,20,Gram,MOP
+2164,Satara,Black,40,30,10,6.5,600,25,Gram,MOP
+2165,Satara,Black,45,30,10,6.5,600,25,Gram,MOP
+2167,Satara,Red,80,40,40,6.0,1000,25,Rice,Urea
+2168,Satara,Red,85,40,40,6.0,1000,25,Rice,Urea
+2172,Satara,Red,105,40,40,6.0,1000,25,Rice,Urea
+2174,Satara,Red,115,40,40,6.0,1000,25,Rice,Urea
+2176,Satara,Red,80,45,45,6.5,1100,30,Rice,Urea
+2178,Satara,Red,90,45,45,6.5,1100,30,Rice,Urea
+2184,Satara,Red,120,45,45,6.5,1100,30,Rice,Urea
+2187,Satara,Red,90,50,50,7.0,1200,35,Rice,Urea
+2188,Satara,Red,95,50,50,7.0,1200,35,Rice,Urea
+2189,Satara,Red,100,50,50,7.0,1200,35,Rice,Urea
+2190,Satara,Red,105,50,50,7.0,1200,35,Rice,Urea
+2192,Satara,Red,115,50,50,7.0,1200,35,Rice,Urea
+2193,Satara,Red,120,50,50,7.0,1200,35,Rice,Urea
+2194,Satara,Red,80,55,55,7.5,1300,25,Rice,Urea
+2195,Satara,Red,85,55,55,7.5,1300,25,Rice,Urea
+2196,Satara,Red,90,55,55,7.5,1300,25,Rice,Urea
+2197,Satara,Red,95,55,55,7.5,1300,25,Rice,Urea
+2201,Satara,Red,115,55,55,7.5,1300,25,Rice,Urea
+2204,Satara,Red,85,60,60,6.0,1400,30,Rice,Urea
+2207,Satara,Red,100,60,60,6.0,1400,30,Rice,Urea
+2210,Satara,Red,115,60,60,6.0,1400,30,Rice,Urea
+2213,Satara,Red,85,40,45,6.5,1500,35,Rice,50:26:26 NPK
+2214,Satara,Red,90,40,45,6.5,1500,35,Rice,50:26:26 NPK
+2220,Satara,Red,120,40,45,6.5,1500,35,Rice,50:26:26 NPK
+2222,Satara,Red,85,45,50,7.0,1000,25,Rice,50:26:26 NPK
+2224,Satara,Red,95,45,50,7.0,1000,25,Rice,50:26:26 NPK
+2230,Satara,Red,80,50,55,7.5,1100,30,Rice,50:26:26 NPK
+2231,Satara,Red,85,50,55,7.5,1100,30,Rice,50:26:26 NPK
+2232,Satara,Red,90,50,55,7.5,1100,30,Rice,50:26:26 NPK
+2235,Satara,Red,105,50,55,7.5,1100,30,Rice,50:26:26 NPK
+2237,Satara,Red,115,50,55,7.5,1100,30,Rice,50:26:26 NPK
+2239,Satara,Red,80,55,60,6.0,1200,35,Rice,50:26:26 NPK
+2240,Satara,Red,85,55,60,6.0,1200,35,Rice,50:26:26 NPK
+2241,Satara,Red,90,55,60,6.0,1200,35,Rice,50:26:26 NPK
+2242,Satara,Red,95,55,60,6.0,1200,35,Rice,50:26:26 NPK
+2243,Satara,Red,100,55,60,6.0,1200,35,Rice,50:26:26 NPK
+2246,Satara,Red,115,55,60,6.0,1200,35,Rice,50:26:26 NPK
+2250,Satara,Red,90,60,40,6.5,1300,25,Rice,50:26:26 NPK
+2252,Satara,Red,100,60,40,6.5,1300,25,Rice,50:26:26 NPK
+2253,Satara,Red,105,60,40,6.5,1300,25,Rice,50:26:26 NPK
+2255,Satara,Red,115,60,40,6.5,1300,25,Rice,50:26:26 NPK
+2259,Satara,Red,90,40,50,7.0,1400,30,Rice,Urea
+2260,Satara,Red,95,40,50,7.0,1400,30,Rice,Urea
+2263,Satara,Red,110,40,50,7.0,1400,30,Rice,Urea
+2265,Satara,Red,120,40,50,7.0,1400,30,Rice,Urea
+2266,Satara,Red,80,45,55,7.5,1500,35,Rice,Urea
+2267,Satara,Red,85,45,55,7.5,1500,35,Rice,Urea
+2268,Satara,Red,90,45,55,7.5,1500,35,Rice,Urea
+2269,Satara,Red,95,45,55,7.5,1500,35,Rice,Urea
+2270,Satara,Red,100,45,55,7.5,1500,35,Rice,Urea
+2274,Satara,Red,120,45,55,7.5,1500,35,Rice,Urea
+2276,Satara,Red,85,50,60,6.0,1000,25,Rice,Urea
+2277,Satara,Red,90,50,60,6.0,1000,25,Rice,Urea
+2278,Satara,Red,95,50,60,6.0,1000,25,Rice,Urea
+2279,Satara,Red,100,50,60,6.0,1000,25,Rice,Urea
+2281,Satara,Red,110,50,60,6.0,1000,25,Rice,Urea
+2285,Satara,Red,85,55,40,6.5,1100,30,Rice,Urea
+2290,Satara,Red,110,55,40,6.5,1100,30,Rice,Urea
+2292,Satara,Red,120,55,40,6.5,1100,30,Rice,Urea
+2293,Satara,Red,80,60,45,7.0,1200,35,Rice,Urea
+2297,Satara,Red,100,60,45,7.0,1200,35,Rice,Urea
+2307,Satara,Red,105,40,55,7.5,1300,25,Rice,50:26:26 NPK
+2309,Satara,Red,115,40,55,7.5,1300,25,Rice,50:26:26 NPK
+2311,Satara,Red,80,45,60,6.0,1400,30,Rice,50:26:26 NPK
+2312,Satara,Red,85,45,60,6.0,1400,30,Rice,50:26:26 NPK
+2313,Satara,Red,90,45,60,6.0,1400,30,Rice,50:26:26 NPK
+2319,Satara,Red,120,45,60,6.0,1400,30,Rice,50:26:26 NPK
+2321,Satara,Red,85,50,40,6.5,1500,35,Rice,50:26:26 NPK
+2322,Satara,Red,90,50,40,6.5,1500,35,Rice,50:26:26 NPK
+2323,Satara,Red,95,50,40,6.5,1500,35,Rice,50:26:26 NPK
+2324,Satara,Red,100,50,40,6.5,1500,35,Rice,50:26:26 NPK
+2325,Satara,Red,105,50,40,6.5,1500,35,Rice,50:26:26 NPK
+2327,Satara,Red,115,50,40,6.5,1500,35,Rice,50:26:26 NPK
+2328,Satara,Red,120,50,40,6.5,1500,35,Rice,50:26:26 NPK
+2330,Satara,Red,85,55,45,7.0,1000,25,Rice,50:26:26 NPK
+2333,Satara,Red,100,55,45,7.0,1000,25,Rice,50:26:26 NPK
+2334,Satara,Red,105,55,45,7.0,1000,25,Rice,50:26:26 NPK
+2338,Satara,Red,80,60,50,7.5,1100,30,Rice,50:26:26 NPK
+2340,Satara,Red,90,60,50,7.5,1100,30,Rice,50:26:26 NPK
+2341,Satara,Red,95,60,50,7.5,1100,30,Rice,50:26:26 NPK
+2343,Satara,Red,105,60,50,7.5,1100,30,Rice,50:26:26 NPK
+2344,Satara,Red,110,60,50,7.5,1100,30,Rice,50:26:26 NPK
+2345,Satara,Red,115,60,50,7.5,1100,30,Rice,50:26:26 NPK
+2346,Satara,Red,120,60,50,7.5,1100,30,Rice,50:26:26 NPK
+2347,Satara,Red,80,40,60,6.0,1200,35,Rice,Urea
+2348,Satara,Red,85,40,60,6.0,1200,35,Rice,Urea
+2349,Satara,Red,90,40,60,6.0,1200,35,Rice,Urea
+2350,Satara,Red,95,40,60,6.0,1200,35,Rice,Urea
+2351,Satara,Red,100,40,60,6.0,1200,35,Rice,Urea
+2352,Satara,Red,105,40,60,6.0,1200,35,Rice,Urea
+2354,Satara,Red,115,40,60,6.0,1200,35,Rice,Urea
+2355,Satara,Red,120,40,60,6.0,1200,35,Rice,Urea
+2358,Satara,Red,90,45,40,6.5,1300,25,Rice,Urea
+2361,Satara,Red,105,45,40,6.5,1300,25,Rice,Urea
+2362,Satara,Red,110,45,40,6.5,1300,25,Rice,Urea
+2366,Satara,Red,85,50,45,7.0,1400,30,Rice,Urea
+2369,Satara,Red,100,50,45,7.0,1400,30,Rice,Urea
+2370,Satara,Red,105,50,45,7.0,1400,30,Rice,Urea
+2373,Satara,Red,120,50,45,7.0,1400,30,Rice,Urea
+2374,Satara,Red,80,55,50,7.5,1500,35,Rice,Urea
+2378,Satara,Red,100,55,50,7.5,1500,35,Rice,Urea
+2382,Satara,Red,120,55,50,7.5,1500,35,Rice,Urea
+2383,Satara,Red,80,60,55,6.0,1000,20,Rice,Urea
+2384,Satara,Red,85,60,55,6.0,1000,20,Rice,Urea
+2385,Satara,Red,90,60,55,6.0,1000,20,Rice,Urea
+2386,Satara,Red,95,60,55,6.0,1000,20,Rice,Urea
+2387,Satara,Red,100,60,55,6.0,1000,20,Rice,Urea
+2388,Satara,Red,105,60,55,6.0,1000,20,Rice,Urea
+2389,Satara,Red,110,60,55,6.0,1000,20,Rice,Urea
+2391,Satara,Red,120,60,55,6.0,1000,20,Rice,Urea
+2397,Satara,Black,40,25,25,6.5,500,30,Jowar,10:26:26 NPK
+2399,Satara,Black,50,25,25,6.5,500,30,Jowar,10:26:26 NPK
+2406,Satara,Black,60,30,30,7.0,600,35,Jowar,10:26:26 NPK
+2412,Satara,Black,40,40,40,6.0,500,30,Jowar,10:26:26 NPK
+2414,Satara,Black,50,40,40,6.0,500,30,Jowar,10:26:26 NPK
+2416,Satara,Black,60,40,40,6.0,500,30,Jowar,10:26:26 NPK
+2418,Satara,Black,45,20,25,6.5,600,35,Jowar,Urea
+2420,Satara,Black,55,20,25,6.5,600,35,Jowar,Urea
+2423,Satara,Black,45,25,30,7.0,400,25,Jowar,Urea
+2426,Satara,Black,60,25,30,7.0,400,25,Jowar,Urea
+2427,Satara,Black,40,30,35,7.5,500,30,Jowar,Urea
+2430,Satara,Black,55,30,35,7.5,500,30,Jowar,Urea
+2432,Satara,Black,40,35,40,6.0,600,35,Jowar,Urea
+2435,Satara,Black,55,35,40,6.0,600,35,Jowar,Urea
+2436,Satara,Black,60,35,40,6.0,600,35,Jowar,Urea
+2439,Satara,Black,50,40,20,6.5,400,25,Jowar,Urea
+2440,Satara,Black,55,40,20,6.5,400,25,Jowar,Urea
+2441,Satara,Black,60,40,20,6.5,400,25,Jowar,Urea
+2442,Satara,Black,40,20,30,7.0,500,30,Jowar,SSP
+2444,Satara,Black,50,20,30,7.0,500,30,Jowar,SSP
+2446,Satara,Black,60,20,30,7.0,500,30,Jowar,SSP
+2447,Satara,Black,40,25,35,7.5,600,35,Jowar,SSP
+2449,Satara,Black,50,25,35,7.5,600,35,Jowar,SSP
+2450,Satara,Black,55,25,35,7.5,600,35,Jowar,SSP
+2452,Satara,Black,40,30,40,6.0,400,25,Jowar,SSP
+2455,Satara,Black,55,30,40,6.0,400,25,Jowar,SSP
+2458,Satara,Black,45,35,20,6.5,500,30,Jowar,SSP
+2460,Satara,Black,55,35,20,6.5,500,30,Jowar,SSP
+2461,Satara,Black,60,35,20,6.5,500,30,Jowar,SSP
+2462,Satara,Black,40,40,25,7.0,600,35,Jowar,SSP
+2463,Satara,Black,45,40,25,7.0,600,35,Jowar,SSP
+2466,Satara,Black,60,40,25,7.0,600,35,Jowar,SSP
+2467,Satara,Black,40,20,35,7.5,400,25,Jowar,10:26:26 NPK
+2468,Satara,Black,45,20,35,7.5,400,25,Jowar,10:26:26 NPK
+2471,Satara,Black,60,20,35,7.5,400,25,Jowar,10:26:26 NPK
+2473,Satara,Black,45,25,40,6.0,500,30,Jowar,10:26:26 NPK
+2474,Satara,Black,50,25,40,6.0,500,30,Jowar,10:26:26 NPK
+2475,Satara,Black,55,25,40,6.0,500,30,Jowar,10:26:26 NPK
+2476,Satara,Black,60,25,40,6.0,500,30,Jowar,10:26:26 NPK
+2477,Satara,Black,40,30,20,6.5,600,35,Jowar,10:26:26 NPK
+2480,Satara,Black,55,30,20,6.5,600,35,Jowar,10:26:26 NPK
+2481,Satara,Black,60,30,20,6.5,600,35,Jowar,10:26:26 NPK
+2482,Satara,Black,40,35,25,7.0,400,25,Jowar,10:26:26 NPK
+2485,Satara,Black,55,35,25,7.0,400,25,Jowar,10:26:26 NPK
+2486,Satara,Black,60,35,25,7.0,400,25,Jowar,10:26:26 NPK
+2489,Satara,Black,50,40,30,7.5,500,30,Jowar,10:26:26 NPK
+2495,Satara,Black,55,20,40,6.0,600,35,Jowar,Urea
+2496,Satara,Black,60,20,40,6.0,600,35,Jowar,Urea
+2499,Satara,Black,50,25,20,6.5,400,25,Jowar,Urea
+2500,Satara,Black,55,25,20,6.5,400,25,Jowar,Urea
+2502,Satara,Black,40,30,25,7.0,500,30,Jowar,Urea
+2503,Satara,Black,45,30,25,7.0,500,30,Jowar,Urea
+2505,Satara,Black,55,30,25,7.0,500,30,Jowar,Urea
+2507,Satara,Black,40,35,30,7.5,600,35,Jowar,Urea
+2508,Satara,Black,45,35,30,7.5,600,35,Jowar,Urea
+2510,Satara,Black,55,35,30,7.5,600,35,Jowar,Urea
+2514,Satara,Black,50,40,35,6.0,400,25,Jowar,Urea
+2515,Satara,Black,55,40,35,6.0,400,25,Jowar,Urea
+2516,Satara,Black,60,40,35,6.0,400,25,Jowar,Urea
+2519,Satara,Black,130,60,120,6.0,900,20,Sugarcane,Urea
+2520,Satara,Black,135,60,120,6.0,900,20,Sugarcane,Urea
+2522,Satara,Black,145,60,120,6.0,900,20,Sugarcane,Urea
+2525,Satara,Black,125,65,125,6.5,1000,25,Sugarcane,Urea
+2526,Satara,Black,130,65,125,6.5,1000,25,Sugarcane,Urea
+2527,Satara,Black,135,65,125,6.5,1000,25,Sugarcane,Urea
+2528,Satara,Black,140,65,125,6.5,1000,25,Sugarcane,Urea
+2531,Satara,Black,120,70,130,7.0,900,30,Sugarcane,Urea
+2533,Satara,Black,130,70,130,7.0,900,30,Sugarcane,Urea
+2534,Satara,Black,135,70,130,7.0,900,30,Sugarcane,Urea
+2540,Satara,Black,130,75,135,6.0,1000,35,Sugarcane,Urea
+2543,Satara,Black,145,75,135,6.0,1000,35,Sugarcane,Urea
+2545,Satara,Black,120,80,140,6.5,900,20,Sugarcane,Urea
+2546,Satara,Black,125,80,140,6.5,900,20,Sugarcane,Urea
+2549,Satara,Black,140,80,140,6.5,900,20,Sugarcane,Urea
+2554,Satara,Black,130,85,145,7.0,1000,25,Sugarcane,Urea
+2556,Satara,Black,140,85,145,7.0,1000,25,Sugarcane,Urea
+2557,Satara,Black,145,85,145,7.0,1000,25,Sugarcane,Urea
+2562,Satara,Black,135,90,150,6.0,900,30,Sugarcane,Urea
+2566,Satara,Black,120,60,125,6.5,1000,35,Sugarcane,DAP
+2569,Satara,Black,135,60,125,6.5,1000,35,Sugarcane,DAP
+2570,Satara,Black,140,60,125,6.5,1000,35,Sugarcane,DAP
+2571,Satara,Black,145,60,125,6.5,1000,35,Sugarcane,DAP
+2572,Satara,Black,150,60,125,6.5,1000,35,Sugarcane,DAP
+2575,Satara,Black,130,65,130,7.0,900,20,Sugarcane,DAP
+2577,Satara,Black,140,65,130,7.0,900,20,Sugarcane,DAP
+2579,Satara,Black,150,65,130,7.0,900,20,Sugarcane,DAP
+2580,Satara,Black,120,70,135,6.0,1000,25,Sugarcane,DAP
+2585,Satara,Black,145,70,135,6.0,1000,25,Sugarcane,DAP
+2586,Satara,Black,150,70,135,6.0,1000,25,Sugarcane,DAP
+2587,Satara,Black,120,75,140,6.5,900,30,Sugarcane,DAP
+2590,Satara,Black,135,75,140,6.5,900,30,Sugarcane,DAP
+2592,Satara,Black,145,75,140,6.5,900,30,Sugarcane,DAP
+2595,Satara,Black,125,80,145,7.0,1000,35,Sugarcane,DAP
+2596,Satara,Black,130,80,145,7.0,1000,35,Sugarcane,DAP
+2597,Satara,Black,135,80,145,7.0,1000,35,Sugarcane,DAP
+2603,Satara,Black,130,85,150,6.0,900,20,Sugarcane,DAP
+2607,Satara,Black,150,85,150,6.0,900,20,Sugarcane,DAP
+2608,Satara,Black,120,90,120,6.5,1000,25,Sugarcane,DAP
+2613,Satara,Black,145,90,120,6.5,1000,25,Sugarcane,DAP
+2614,Satara,Black,150,90,120,6.5,1000,25,Sugarcane,DAP
+2615,Satara,Black,120,60,130,7.0,900,30,Sugarcane,MOP
+2616,Satara,Black,125,60,130,7.0,900,30,Sugarcane,MOP
+2619,Satara,Black,140,60,130,7.0,900,30,Sugarcane,MOP
+2622,Satara,Black,120,65,135,6.0,1000,35,Sugarcane,MOP
+2626,Satara,Black,140,65,135,6.0,1000,35,Sugarcane,MOP
+2630,Satara,Black,125,70,140,6.5,900,20,Sugarcane,MOP
+2631,Satara,Black,130,70,140,6.5,900,20,Sugarcane,MOP
+2633,Satara,Black,140,70,140,6.5,900,20,Sugarcane,MOP
+2635,Satara,Black,150,70,140,6.5,900,20,Sugarcane,MOP
+2637,Satara,Black,125,75,145,7.0,1000,25,Sugarcane,MOP
+2641,Satara,Black,145,75,145,7.0,1000,25,Sugarcane,MOP
+2642,Satara,Black,150,75,145,7.0,1000,25,Sugarcane,MOP
+2644,Satara,Black,125,80,150,6.0,900,30,Sugarcane,MOP
+2654,Satara,Black,140,85,120,6.5,1000,35,Sugarcane,MOP
+2655,Satara,Black,145,85,120,6.5,1000,35,Sugarcane,MOP
+2657,Satara,Black,120,90,125,7.0,900,20,Sugarcane,MOP
+2659,Satara,Black,130,90,125,7.0,900,20,Sugarcane,MOP
+2660,Satara,Black,135,90,125,7.0,900,20,Sugarcane,MOP
+2661,Satara,Black,140,90,125,7.0,900,20,Sugarcane,MOP
+2662,Satara,Black,145,90,125,7.0,900,20,Sugarcane,MOP
+2666,Satara,Black,130,60,135,6.0,1000,25,Sugarcane,Urea
+2667,Satara,Black,135,60,135,6.0,1000,25,Sugarcane,Urea
+2668,Satara,Black,140,60,135,6.0,1000,25,Sugarcane,Urea
+2670,Satara,Black,150,60,135,6.0,1000,25,Sugarcane,Urea
+2671,Satara,Black,120,65,140,6.5,900,30,Sugarcane,Urea
+2672,Satara,Black,125,65,140,6.5,900,30,Sugarcane,Urea
+2673,Satara,Black,130,65,140,6.5,900,30,Sugarcane,Urea
+2674,Satara,Black,135,65,140,6.5,900,30,Sugarcane,Urea
+2675,Satara,Black,140,65,140,6.5,900,30,Sugarcane,Urea
+2678,Satara,Black,120,70,145,7.0,1000,35,Sugarcane,Urea
+2680,Satara,Black,130,70,145,7.0,1000,35,Sugarcane,Urea
+2681,Satara,Black,135,70,145,7.0,1000,35,Sugarcane,Urea
+2682,Satara,Black,140,70,145,7.0,1000,35,Sugarcane,Urea
+2685,Satara,Black,120,75,150,6.0,900,20,Sugarcane,Urea
+2686,Satara,Black,125,75,150,6.0,900,20,Sugarcane,Urea
+2688,Satara,Black,135,75,150,6.0,900,20,Sugarcane,Urea
+2689,Satara,Black,140,75,150,6.0,900,20,Sugarcane,Urea
+2690,Satara,Black,145,75,150,6.0,900,20,Sugarcane,Urea
+2691,Satara,Black,150,75,150,6.0,900,20,Sugarcane,Urea
+2693,Satara,Black,125,80,120,6.5,1000,25,Sugarcane,Urea
+2694,Satara,Black,130,80,120,6.5,1000,25,Sugarcane,Urea
+2695,Satara,Black,135,80,120,6.5,1000,25,Sugarcane,Urea
+2700,Satara,Black,125,85,125,7.0,900,30,Sugarcane,Urea
+2701,Satara,Black,130,85,125,7.0,900,30,Sugarcane,Urea
+2702,Satara,Black,135,85,125,7.0,900,30,Sugarcane,Urea
+2703,Satara,Black,140,85,125,7.0,900,30,Sugarcane,Urea
+2705,Satara,Black,150,85,125,7.0,900,30,Sugarcane,Urea
+2707,Satara,Black,125,90,130,6.0,1000,35,Sugarcane,Urea
+2709,Satara,Black,135,90,130,6.0,1000,35,Sugarcane,Urea
+2711,Satara,Black,145,90,130,6.0,1000,35,Sugarcane,Urea
+2712,Satara,Black,150,90,130,6.0,1000,35,Sugarcane,Urea
+2715,Satara,Black,130,60,140,6.5,900,20,Sugarcane,DAP
+2716,Satara,Black,135,60,140,6.5,900,20,Sugarcane,DAP
+2718,Satara,Black,145,60,140,6.5,900,20,Sugarcane,DAP
+2719,Satara,Black,150,60,140,6.5,900,20,Sugarcane,DAP
+2721,Satara,Black,125,65,145,7.0,1000,25,Sugarcane,DAP
+2722,Satara,Black,130,65,145,7.0,1000,25,Sugarcane,DAP
+2725,Satara,Black,145,65,145,7.0,1000,25,Sugarcane,DAP
+2727,Satara,Black,120,70,150,6.0,900,30,Sugarcane,DAP
+2728,Satara,Black,125,70,150,6.0,900,30,Sugarcane,DAP
+2729,Satara,Black,130,70,150,6.0,900,30,Sugarcane,DAP
+2731,Satara,Black,140,70,150,6.0,900,30,Sugarcane,DAP
+2732,Satara,Black,145,70,150,6.0,900,30,Sugarcane,DAP
+2734,Satara,Black,120,75,120,6.5,1000,35,Sugarcane,DAP
+2735,Satara,Black,125,75,120,6.5,1000,35,Sugarcane,DAP
+2736,Satara,Black,130,75,120,6.5,1000,35,Sugarcane,DAP
+2739,Satara,Black,145,75,120,6.5,1000,35,Sugarcane,DAP
+2741,Satara,Black,120,80,125,7.0,900,20,Sugarcane,DAP
+2742,Satara,Black,125,80,125,7.0,900,20,Sugarcane,DAP
+2743,Satara,Black,130,80,125,7.0,900,20,Sugarcane,DAP
+2744,Satara,Black,135,80,125,7.0,900,20,Sugarcane,DAP
+2746,Satara,Black,145,80,125,7.0,900,20,Sugarcane,DAP
+2747,Satara,Black,150,80,125,7.0,900,20,Sugarcane,DAP
+2749,Satara,Black,125,85,130,6.0,1000,25,Sugarcane,DAP
+2750,Satara,Black,130,85,130,6.0,1000,25,Sugarcane,DAP
+2751,Satara,Black,135,85,130,6.0,1000,25,Sugarcane,DAP
+2753,Satara,Black,145,85,130,6.0,1000,25,Sugarcane,DAP
+2754,Satara,Black,150,85,130,6.0,1000,25,Sugarcane,DAP
+2755,Satara,Black,120,90,135,6.5,900,30,Sugarcane,DAP
+2757,Satara,Black,130,90,135,6.5,900,30,Sugarcane,DAP
+2759,Satara,Black,140,90,135,6.5,900,30,Sugarcane,DAP
+2761,Satara,Black,150,90,135,6.5,900,30,Sugarcane,DAP
+2764,Satara,Black,130,60,145,7.0,1000,35,Sugarcane,MOP
+2769,Satara,Black,120,65,150,6.0,900,20,Sugarcane,MOP
+2770,Satara,Black,125,65,150,6.0,900,20,Sugarcane,MOP
+2771,Satara,Black,130,65,150,6.0,900,20,Sugarcane,MOP
+2773,Satara,Black,140,65,150,6.0,900,20,Sugarcane,MOP
+2775,Satara,Black,150,65,150,6.0,900,20,Sugarcane,MOP
+2779,Satara,Black,135,70,120,6.5,1000,25,Sugarcane,MOP
+2782,Satara,Black,150,70,120,6.5,1000,25,Sugarcane,MOP
+2783,Satara,Black,120,75,125,7.0,900,30,Sugarcane,MOP
+2784,Satara,Black,125,75,125,7.0,900,30,Sugarcane,MOP
+2785,Satara,Black,130,75,125,7.0,900,30,Sugarcane,MOP
+2790,Satara,Black,120,80,130,6.0,1000,35,Sugarcane,MOP
+2794,Satara,Black,140,80,130,6.0,1000,35,Sugarcane,MOP
+2796,Satara,Black,150,80,130,6.0,1000,35,Sugarcane,MOP
+2797,Satara,Black,120,85,135,6.5,900,20,Sugarcane,MOP
+2798,Satara,Black,125,85,135,6.5,900,20,Sugarcane,MOP
+2799,Satara,Black,130,85,135,6.5,900,20,Sugarcane,MOP
+2800,Satara,Black,135,85,135,6.5,900,20,Sugarcane,MOP
+2804,Satara,Black,120,90,140,7.0,1000,25,Sugarcane,MOP
+2806,Satara,Black,130,90,140,7.0,1000,25,Sugarcane,MOP
+2807,Satara,Black,135,90,140,7.0,1000,25,Sugarcane,MOP
+2808,Satara,Black,140,90,140,7.0,1000,25,Sugarcane,MOP
+2809,Satara,Black,145,90,140,7.0,1000,25,Sugarcane,MOP
+2810,Satara,Black,150,90,140,7.0,1000,25,Sugarcane,MOP
+2812,Satara,Black,125,60,150,6.0,900,30,Sugarcane,Urea
+2814,Satara,Black,135,60,150,6.0,900,30,Sugarcane,Urea
+2816,Satara,Black,145,60,150,6.0,900,30,Sugarcane,Urea
+2817,Satara,Black,150,60,150,6.0,900,30,Sugarcane,Urea
+2818,Satara,Black,120,65,120,6.5,1000,35,Sugarcane,Urea
+2820,Satara,Black,130,65,120,6.5,1000,35,Sugarcane,Urea
+2821,Satara,Black,135,65,120,6.5,1000,35,Sugarcane,Urea
+2822,Satara,Black,140,65,120,6.5,1000,35,Sugarcane,Urea
+2823,Satara,Black,145,65,120,6.5,1000,35,Sugarcane,Urea
+2824,Satara,Black,150,65,120,6.5,1000,35,Sugarcane,Urea
+2825,Satara,Black,120,70,125,7.0,900,20,Sugarcane,Urea
+2826,Satara,Black,125,70,125,7.0,900,20,Sugarcane,Urea
+2828,Satara,Black,135,70,125,7.0,900,20,Sugarcane,Urea
+2830,Satara,Black,145,70,125,7.0,900,20,Sugarcane,Urea
+2831,Satara,Black,150,70,125,7.0,900,20,Sugarcane,Urea
+2839,Satara,Black,120,80,135,6.5,900,30,Sugarcane,Urea
+2845,Satara,Black,150,80,135,6.5,900,30,Sugarcane,Urea
+2849,Satara,Black,135,85,140,7.0,1000,35,Sugarcane,Urea
+2850,Satara,Black,140,85,140,7.0,1000,35,Sugarcane,Urea
+2852,Satara,Black,150,85,140,7.0,1000,35,Sugarcane,Urea
+2856,Satara,Black,135,90,145,6.0,900,20,Sugarcane,Urea
+2857,Satara,Black,140,90,145,6.0,900,20,Sugarcane,Urea
+2863,Satara,Black,55,40,60,5.5,900,20,Ginger,Urea
+2864,Satara,Black,60,40,60,5.5,900,20,Ginger,Urea
+2868,Satara,Black,55,45,65,6.0,1000,25,Ginger,Urea
+2869,Satara,Black,60,45,65,6.0,1000,25,Ginger,Urea
+2872,Satara,Black,50,50,70,6.5,900,30,Ginger,Urea
+2875,Satara,Black,40,55,75,5.5,1000,35,Ginger,Urea
+2877,Satara,Black,50,55,75,5.5,1000,35,Ginger,Urea
+2881,Satara,Black,45,60,80,6.0,900,20,Ginger,Urea
+2882,Satara,Black,50,60,80,6.0,900,20,Ginger,Urea
+2884,Satara,Black,60,60,80,6.0,900,20,Ginger,Urea
+2885,Satara,Black,40,40,65,6.5,1000,25,Ginger,Ammonium Sulphate
+2886,Satara,Black,45,40,65,6.5,1000,25,Ginger,Ammonium Sulphate
+2888,Satara,Black,55,40,65,6.5,1000,25,Ginger,Ammonium Sulphate
+2889,Satara,Black,60,40,65,6.5,1000,25,Ginger,Ammonium Sulphate
+2890,Satara,Black,40,45,70,5.5,900,30,Ginger,Ammonium Sulphate
+2892,Satara,Black,50,45,70,5.5,900,30,Ginger,Ammonium Sulphate
+2894,Satara,Black,60,45,70,5.5,900,30,Ginger,Ammonium Sulphate
+2898,Satara,Black,55,50,75,6.0,1000,35,Ginger,Ammonium Sulphate
+2901,Satara,Black,45,55,80,6.5,900,20,Ginger,Ammonium Sulphate
+2903,Satara,Black,55,55,80,6.5,900,20,Ginger,Ammonium Sulphate
+2904,Satara,Black,60,55,80,6.5,900,20,Ginger,Ammonium Sulphate
+2905,Satara,Black,40,60,60,5.5,1000,25,Ginger,Ammonium Sulphate
+2907,Satara,Black,50,60,60,5.5,1000,25,Ginger,Ammonium Sulphate
+2908,Satara,Black,55,60,60,5.5,1000,25,Ginger,Ammonium Sulphate
+2913,Satara,Black,55,40,70,6.0,900,30,Ginger,DAP
+2914,Satara,Black,60,40,70,6.0,900,30,Ginger,DAP
+2917,Satara,Black,50,45,75,6.5,1000,35,Ginger,DAP
+2918,Satara,Black,55,45,75,6.5,1000,35,Ginger,DAP
+2919,Satara,Black,60,45,75,6.5,1000,35,Ginger,DAP
+2920,Satara,Black,40,50,80,5.5,900,20,Ginger,DAP
+2924,Satara,Black,60,50,80,5.5,900,20,Ginger,DAP
+2925,Satara,Black,40,55,60,6.0,1000,25,Ginger,DAP
+2931,Satara,Black,45,60,65,6.5,900,30,Ginger,DAP
+2932,Satara,Black,50,60,65,6.5,900,30,Ginger,DAP
+2934,Satara,Black,60,60,65,6.5,900,30,Ginger,DAP
+2935,Satara,Black,40,40,75,5.5,1000,35,Ginger,Urea
+2936,Satara,Black,45,40,75,5.5,1000,35,Ginger,Urea
+2939,Satara,Black,60,40,75,5.5,1000,35,Ginger,Urea
+2940,Satara,Black,40,45,80,6.0,900,20,Ginger,Urea
+2944,Satara,Black,60,45,80,6.0,900,20,Ginger,Urea
+2948,Satara,Black,55,50,60,6.5,1000,25,Ginger,Urea
+2949,Satara,Black,60,50,60,6.5,1000,25,Ginger,Urea
+2952,Satara,Black,50,55,65,5.5,900,30,Ginger,Urea
+2953,Satara,Black,55,55,65,5.5,900,30,Ginger,Urea
+2955,Satara,Black,40,60,70,6.0,1000,35,Ginger,Urea
+2956,Satara,Black,45,60,70,6.0,1000,35,Ginger,Urea
+2957,Satara,Black,50,60,70,6.0,1000,35,Ginger,Urea
+2960,Satara,Black,40,40,80,6.5,900,20,Ginger,Ammonium Sulphate
+2961,Satara,Black,45,40,80,6.5,900,20,Ginger,Ammonium Sulphate
+2962,Satara,Black,50,40,80,6.5,900,20,Ginger,Ammonium Sulphate
+2964,Satara,Black,60,40,80,6.5,900,20,Ginger,Ammonium Sulphate
+2969,Satara,Black,60,45,60,5.5,1000,25,Ginger,Ammonium Sulphate
+2971,Satara,Black,45,50,65,6.0,900,30,Ginger,Ammonium Sulphate
+2972,Satara,Black,50,50,65,6.0,900,30,Ginger,Ammonium Sulphate
+2978,Satara,Black,55,55,70,6.5,1000,35,Ginger,Ammonium Sulphate
+2979,Satara,Black,60,55,70,6.5,1000,35,Ginger,Ammonium Sulphate
+2980,Satara,Black,40,60,75,5.5,900,20,Ginger,Ammonium Sulphate
+2983,Satara,Black,55,60,75,5.5,900,20,Ginger,Ammonium Sulphate
+2985,Satara,Red,50,50,40,5.5,900,20,Turmeric,Urea
+2988,Satara,Red,50,55,45,6.0,1000,25,Turmeric,Urea
+2989,Satara,Red,55,55,45,6.0,1000,25,Turmeric,Urea
+2993,Satara,Red,60,60,50,6.5,900,30,Turmeric,Urea
+2994,Satara,Red,50,50,45,7.0,1000,20,Turmeric,Ferrous Sulphate
+2995,Satara,Red,55,50,45,7.0,1000,20,Turmeric,Ferrous Sulphate
+2996,Satara,Red,60,50,45,7.0,1000,20,Turmeric,Ferrous Sulphate
+2997,Satara,Red,50,55,50,7.5,900,25,Turmeric,Ferrous Sulphate
+2998,Satara,Red,55,55,50,7.5,900,25,Turmeric,Ferrous Sulphate
+2999,Satara,Red,60,55,50,7.5,900,25,Turmeric,Ferrous Sulphate
+3001,Satara,Red,55,60,40,5.5,1000,30,Turmeric,Ferrous Sulphate
+3004,Satara,Red,55,50,50,6.0,900,20,Turmeric,White Potash
+3006,Satara,Red,50,55,40,6.5,1000,25,Turmeric,White Potash
+3007,Satara,Red,55,55,40,6.5,1000,25,Turmeric,White Potash
+3008,Satara,Red,60,55,40,6.5,1000,25,Turmeric,White Potash
+3009,Satara,Red,50,60,45,7.0,900,30,Turmeric,White Potash
+3010,Satara,Red,55,60,45,7.0,900,30,Turmeric,White Potash
+3012,Satara,Black,60,40,40,6.0,500,15,Wheat,19:19:19 NPK
+3013,Satara,Black,65,40,40,6.0,500,15,Wheat,19:19:19 NPK
+3014,Satara,Black,70,40,40,6.0,500,15,Wheat,19:19:19 NPK
+3015,Satara,Black,75,40,40,6.0,500,15,Wheat,19:19:19 NPK
+3016,Satara,Black,80,40,40,6.0,500,15,Wheat,19:19:19 NPK
+3019,Satara,Black,70,45,45,6.5,600,20,Wheat,19:19:19 NPK
+3020,Satara,Black,75,45,45,6.5,600,20,Wheat,19:19:19 NPK
+3024,Satara,Black,70,50,50,7.0,700,25,Wheat,19:19:19 NPK
+3027,Satara,Black,60,55,55,7.5,500,15,Wheat,19:19:19 NPK
+3029,Satara,Black,70,55,55,7.5,500,15,Wheat,19:19:19 NPK
+3030,Satara,Black,75,55,55,7.5,500,15,Wheat,19:19:19 NPK
+3031,Satara,Black,80,55,55,7.5,500,15,Wheat,19:19:19 NPK
+3032,Satara,Black,60,60,60,6.0,600,20,Wheat,19:19:19 NPK
+3034,Satara,Black,70,60,60,6.0,600,20,Wheat,19:19:19 NPK
+3035,Satara,Black,75,60,60,6.0,600,20,Wheat,19:19:19 NPK
+3036,Satara,Black,80,60,60,6.0,600,20,Wheat,19:19:19 NPK
+3037,Satara,Black,60,40,45,6.5,700,25,Wheat,Urea
+3038,Satara,Black,65,40,45,6.5,700,25,Wheat,Urea
+3040,Satara,Black,75,40,45,6.5,700,25,Wheat,Urea
+3044,Satara,Black,70,45,50,7.0,500,15,Wheat,Urea
+3045,Satara,Black,75,45,50,7.0,500,15,Wheat,Urea
+3048,Satara,Black,65,50,55,7.5,600,20,Wheat,Urea
+3049,Satara,Black,70,50,55,7.5,600,20,Wheat,Urea
+3050,Satara,Black,75,50,55,7.5,600,20,Wheat,Urea
+3052,Satara,Black,60,55,60,6.0,700,25,Wheat,Urea
+3053,Satara,Black,65,55,60,6.0,700,25,Wheat,Urea
+3056,Satara,Black,80,55,60,6.0,700,25,Wheat,Urea
+3057,Satara,Black,60,60,40,6.5,500,15,Wheat,Urea
+3058,Satara,Black,65,60,40,6.5,500,15,Wheat,Urea
+3059,Satara,Black,70,60,40,6.5,500,15,Wheat,Urea
+3060,Satara,Black,75,60,40,6.5,500,15,Wheat,Urea
+3062,Satara,Black,60,40,50,7.0,600,20,Wheat,19:19:19 NPK
+3065,Satara,Black,75,40,50,7.0,600,20,Wheat,19:19:19 NPK
+3067,Satara,Black,60,45,55,7.5,700,25,Wheat,19:19:19 NPK
+3070,Satara,Black,75,45,55,7.5,700,25,Wheat,19:19:19 NPK
+3071,Satara,Black,80,45,55,7.5,700,25,Wheat,19:19:19 NPK
+3072,Satara,Black,60,50,60,6.0,500,15,Wheat,19:19:19 NPK
+3074,Satara,Black,70,50,60,6.0,500,15,Wheat,19:19:19 NPK
+3075,Satara,Black,75,50,60,6.0,500,15,Wheat,19:19:19 NPK
+3076,Satara,Black,80,50,60,6.0,500,15,Wheat,19:19:19 NPK
+3077,Satara,Black,60,55,40,6.5,600,20,Wheat,19:19:19 NPK
+3081,Satara,Black,80,55,40,6.5,600,20,Wheat,19:19:19 NPK
+3083,Satara,Black,65,60,45,7.0,700,25,Wheat,19:19:19 NPK
+3086,Satara,Black,80,60,45,7.0,700,25,Wheat,19:19:19 NPK
+3088,Satara,Black,65,40,55,7.5,500,15,Wheat,Urea
+3093,Satara,Black,65,45,60,6.0,600,20,Wheat,Urea
+3094,Satara,Black,70,45,60,6.0,600,20,Wheat,Urea
+3095,Satara,Black,75,45,60,6.0,600,20,Wheat,Urea
+3098,Satara,Black,65,50,40,6.5,700,25,Wheat,Urea
+3105,Satara,Black,75,55,45,7.0,500,15,Wheat,Urea
+3106,Satara,Black,80,55,45,7.0,500,15,Wheat,Urea
+3109,Satara,Black,70,60,50,7.5,600,20,Wheat,Urea
+3111,Satara,Black,80,60,50,7.5,600,20,Wheat,Urea
+3115,Satara,Black,75,40,60,6.0,700,25,Wheat,19:19:19 NPK
+3117,Satara,Black,60,45,40,6.5,500,15,Wheat,19:19:19 NPK
+3122,Satara,Black,60,50,45,7.0,600,20,Wheat,19:19:19 NPK
+3124,Satara,Black,70,50,45,7.0,600,20,Wheat,19:19:19 NPK
+3125,Satara,Black,75,50,45,7.0,600,20,Wheat,19:19:19 NPK
+3126,Satara,Black,80,50,45,7.0,600,20,Wheat,19:19:19 NPK
+3127,Satara,Black,60,55,50,7.5,700,25,Wheat,19:19:19 NPK
+3130,Satara,Black,75,55,50,7.5,700,25,Wheat,19:19:19 NPK
+3131,Satara,Black,80,55,50,7.5,700,25,Wheat,19:19:19 NPK
+3132,Satara,Black,60,60,55,6.0,500,15,Wheat,19:19:19 NPK
+3134,Satara,Black,70,60,55,6.0,500,15,Wheat,19:19:19 NPK
+3135,Satara,Black,75,60,55,6.0,500,15,Wheat,19:19:19 NPK
+3136,Satara,Black,80,60,55,6.0,500,15,Wheat,19:19:19 NPK
+3137,Sangli,Reddish Brown,120,60,80,6.5,700,20,Sugarcane,DAP
+3138,Sangli,Reddish Brown,125,60,80,6.5,700,20,Sugarcane,DAP
+3140,Sangli,Reddish Brown,135,60,80,6.5,700,20,Sugarcane,DAP
+3143,Sangli,Reddish Brown,150,60,80,6.5,700,20,Sugarcane,DAP
+3145,Sangli,Reddish Brown,125,65,85,7.0,800,25,Sugarcane,DAP
+3148,Sangli,Reddish Brown,140,65,85,7.0,800,25,Sugarcane,DAP
+3149,Sangli,Reddish Brown,145,65,85,7.0,800,25,Sugarcane,DAP
+3153,Sangli,Reddish Brown,130,70,90,6.5,700,30,Sugarcane,DAP
+3158,Sangli,Reddish Brown,120,75,95,7.0,800,20,Sugarcane,DAP
+3159,Sangli,Reddish Brown,125,75,95,7.0,800,20,Sugarcane,DAP
+3162,Sangli,Reddish Brown,140,75,95,7.0,800,20,Sugarcane,DAP
+3170,Sangli,Reddish Brown,145,80,100,6.5,700,25,Sugarcane,DAP
+3172,Sangli,Reddish Brown,120,60,85,7.0,800,30,Sugarcane,Urea
+3175,Sangli,Reddish Brown,135,60,85,7.0,800,30,Sugarcane,Urea
+3177,Sangli,Reddish Brown,145,60,85,7.0,800,30,Sugarcane,Urea
+3178,Sangli,Reddish Brown,150,60,85,7.0,800,30,Sugarcane,Urea
+3179,Sangli,Reddish Brown,120,65,90,6.5,700,20,Sugarcane,Urea
+3182,Sangli,Reddish Brown,135,65,90,6.5,700,20,Sugarcane,Urea
+3183,Sangli,Reddish Brown,140,65,90,6.5,700,20,Sugarcane,Urea
+3184,Sangli,Reddish Brown,145,65,90,6.5,700,20,Sugarcane,Urea
+3185,Sangli,Reddish Brown,150,65,90,6.5,700,20,Sugarcane,Urea
+3186,Sangli,Reddish Brown,120,70,95,7.0,800,25,Sugarcane,Urea
+3189,Sangli,Reddish Brown,135,70,95,7.0,800,25,Sugarcane,Urea
+3194,Sangli,Reddish Brown,125,75,100,6.5,700,30,Sugarcane,Urea
+3195,Sangli,Reddish Brown,130,75,100,6.5,700,30,Sugarcane,Urea
+3197,Sangli,Reddish Brown,140,75,100,6.5,700,30,Sugarcane,Urea
+3198,Sangli,Reddish Brown,145,75,100,6.5,700,30,Sugarcane,Urea
+3200,Sangli,Reddish Brown,120,80,80,7.0,800,20,Sugarcane,Urea
+3204,Sangli,Reddish Brown,140,80,80,7.0,800,20,Sugarcane,Urea
+3205,Sangli,Reddish Brown,145,80,80,7.0,800,20,Sugarcane,Urea
+3206,Sangli,Reddish Brown,150,80,80,7.0,800,20,Sugarcane,Urea
+3207,Sangli,Reddish Brown,120,60,90,6.5,700,25,Sugarcane,MOP
+3208,Sangli,Reddish Brown,125,60,90,6.5,700,25,Sugarcane,MOP
+3210,Sangli,Reddish Brown,135,60,90,6.5,700,25,Sugarcane,MOP
+3211,Sangli,Reddish Brown,140,60,90,6.5,700,25,Sugarcane,MOP
+3215,Sangli,Reddish Brown,125,65,95,7.0,800,30,Sugarcane,MOP
+3216,Sangli,Reddish Brown,130,65,95,7.0,800,30,Sugarcane,MOP
+3218,Sangli,Reddish Brown,140,65,95,7.0,800,30,Sugarcane,MOP
+3219,Sangli,Reddish Brown,145,65,95,7.0,800,30,Sugarcane,MOP
+3223,Sangli,Reddish Brown,130,70,100,6.5,700,20,Sugarcane,MOP
+3226,Sangli,Reddish Brown,145,70,100,6.5,700,20,Sugarcane,MOP
+3233,Sangli,Reddish Brown,145,75,80,7.0,800,25,Sugarcane,MOP
+3237,Sangli,Reddish Brown,130,80,85,6.5,700,30,Sugarcane,MOP
+3239,Sangli,Reddish Brown,140,80,85,6.5,700,30,Sugarcane,MOP
+3241,Sangli,Reddish Brown,150,80,85,6.5,700,30,Sugarcane,MOP
+3243,Sangli,Reddish Brown,125,60,95,7.0,800,20,Sugarcane,DAP
+3246,Sangli,Reddish Brown,140,60,95,7.0,800,20,Sugarcane,DAP
+3249,Sangli,Reddish Brown,120,65,100,6.5,700,25,Sugarcane,DAP
+3250,Sangli,Reddish Brown,125,65,100,6.5,700,25,Sugarcane,DAP
+3251,Sangli,Reddish Brown,130,65,100,6.5,700,25,Sugarcane,DAP
+3254,Sangli,Reddish Brown,145,65,100,6.5,700,25,Sugarcane,DAP
+3255,Sangli,Reddish Brown,150,65,100,6.5,700,25,Sugarcane,DAP
+3256,Sangli,Reddish Brown,120,70,80,7.0,800,30,Sugarcane,DAP
+3257,Sangli,Reddish Brown,125,70,80,7.0,800,30,Sugarcane,DAP
+3259,Sangli,Reddish Brown,135,70,80,7.0,800,30,Sugarcane,DAP
+3260,Sangli,Reddish Brown,140,70,80,7.0,800,30,Sugarcane,DAP
+3261,Sangli,Reddish Brown,145,70,80,7.0,800,30,Sugarcane,DAP
+3262,Sangli,Reddish Brown,150,70,80,7.0,800,30,Sugarcane,DAP
+3266,Sangli,Reddish Brown,135,75,85,6.5,700,20,Sugarcane,DAP
+3268,Sangli,Reddish Brown,145,75,85,6.5,700,20,Sugarcane,DAP
+3269,Sangli,Reddish Brown,150,75,85,6.5,700,20,Sugarcane,DAP
+3270,Sangli,Reddish Brown,120,80,90,7.0,800,25,Sugarcane,DAP
+3271,Sangli,Reddish Brown,125,80,90,7.0,800,25,Sugarcane,DAP
+3272,Sangli,Reddish Brown,130,80,90,7.0,800,25,Sugarcane,DAP
+3274,Sangli,Reddish Brown,140,80,90,7.0,800,25,Sugarcane,DAP
+3276,Sangli,Reddish Brown,150,80,90,7.0,800,25,Sugarcane,DAP
+3277,Sangli,Reddish Brown,120,60,100,6.5,700,30,Sugarcane,Urea
+3281,Sangli,Reddish Brown,140,60,100,6.5,700,30,Sugarcane,Urea
+3283,Sangli,Reddish Brown,150,60,100,6.5,700,30,Sugarcane,Urea
+3289,Sangli,Reddish Brown,145,65,80,7.0,800,20,Sugarcane,Urea
+3292,Sangli,Reddish Brown,125,70,85,6.5,700,25,Sugarcane,Urea
+3293,Sangli,Reddish Brown,130,70,85,6.5,700,25,Sugarcane,Urea
+3295,Sangli,Reddish Brown,140,70,85,6.5,700,25,Sugarcane,Urea
+3296,Sangli,Reddish Brown,145,70,85,6.5,700,25,Sugarcane,Urea
+3298,Sangli,Reddish Brown,120,75,90,7.0,800,30,Sugarcane,Urea
+3299,Sangli,Reddish Brown,125,75,90,7.0,800,30,Sugarcane,Urea
+3300,Sangli,Reddish Brown,130,75,90,7.0,800,30,Sugarcane,Urea
+3301,Sangli,Reddish Brown,135,75,90,7.0,800,30,Sugarcane,Urea
+3302,Sangli,Reddish Brown,140,75,90,7.0,800,30,Sugarcane,Urea
+3303,Sangli,Reddish Brown,145,75,90,7.0,800,30,Sugarcane,Urea
+3305,Sangli,Reddish Brown,120,80,95,6.5,700,20,Sugarcane,Urea
+3309,Sangli,Reddish Brown,140,80,95,6.5,700,20,Sugarcane,Urea
+3310,Sangli,Reddish Brown,145,80,95,6.5,700,20,Sugarcane,Urea
+3311,Sangli,Reddish Brown,150,80,95,6.5,700,20,Sugarcane,Urea
+3313,Sangli,Red,85,40,120,6.0,700,20,Grapes,Ferrous Sulphate
+3317,Sangli,Red,80,45,125,6.5,800,25,Grapes,Ferrous Sulphate
+3318,Sangli,Red,85,45,125,6.5,800,25,Grapes,Ferrous Sulphate
+3320,Sangli,Red,95,45,125,6.5,800,25,Grapes,Ferrous Sulphate
+3324,Sangli,Red,90,50,130,7.0,700,30,Grapes,Ferrous Sulphate
+3325,Sangli,Red,95,50,130,7.0,700,30,Grapes,Ferrous Sulphate
+3328,Sangli,Red,85,55,135,7.5,800,20,Grapes,Ferrous Sulphate
+3330,Sangli,Red,95,55,135,7.5,800,20,Grapes,Ferrous Sulphate
+3332,Sangli,Red,80,60,140,6.0,700,25,Grapes,Ferrous Sulphate
+3336,Sangli,Red,100,60,140,6.0,700,25,Grapes,Ferrous Sulphate
+3339,Sangli,Red,90,40,125,6.5,800,30,Grapes,10:10:10 NPK
+3342,Sangli,Red,80,45,130,7.0,700,20,Grapes,10:10:10 NPK
+3344,Sangli,Red,90,45,130,7.0,700,20,Grapes,10:10:10 NPK
+3346,Sangli,Red,100,45,130,7.0,700,20,Grapes,10:10:10 NPK
+3347,Sangli,Red,80,50,135,7.5,800,25,Grapes,10:10:10 NPK
+3349,Sangli,Red,90,50,135,7.5,800,25,Grapes,10:10:10 NPK
+3350,Sangli,Red,95,50,135,7.5,800,25,Grapes,10:10:10 NPK
+3351,Sangli,Red,100,50,135,7.5,800,25,Grapes,10:10:10 NPK
+3354,Sangli,Red,90,55,140,6.0,700,30,Grapes,10:10:10 NPK
+3355,Sangli,Red,95,55,140,6.0,700,30,Grapes,10:10:10 NPK
+3356,Sangli,Red,100,55,140,6.0,700,30,Grapes,10:10:10 NPK
+3357,Sangli,Red,80,60,120,6.5,800,20,Grapes,10:10:10 NPK
+3359,Sangli,Red,90,60,120,6.5,800,20,Grapes,10:10:10 NPK
+3361,Sangli,Red,100,60,120,6.5,800,20,Grapes,10:10:10 NPK
+3369,Sangli,Red,90,45,135,7.5,800,30,Grapes,Hydrated Lime
+3372,Sangli,Red,80,50,140,6.0,700,20,Grapes,Hydrated Lime
+3374,Sangli,Red,90,50,140,6.0,700,20,Grapes,Hydrated Lime
+3376,Sangli,Red,100,50,140,6.0,700,20,Grapes,Hydrated Lime
+3379,Sangli,Red,90,55,120,6.5,800,25,Grapes,Hydrated Lime
+3381,Sangli,Red,100,55,120,6.5,800,25,Grapes,Hydrated Lime
+3382,Sangli,Red,80,60,125,7.0,700,30,Grapes,Hydrated Lime
+3383,Sangli,Red,85,60,125,7.0,700,30,Grapes,Hydrated Lime
+3385,Sangli,Red,95,60,125,7.0,700,30,Grapes,Hydrated Lime
+3386,Sangli,Red,100,60,125,7.0,700,30,Grapes,Hydrated Lime
+3387,Sangli,Red,80,40,135,7.5,800,20,Grapes,Ferrous Sulphate
+3388,Sangli,Red,85,40,135,7.5,800,20,Grapes,Ferrous Sulphate
+3389,Sangli,Red,90,40,135,7.5,800,20,Grapes,Ferrous Sulphate
+3396,Sangli,Red,100,45,140,6.0,700,25,Grapes,Ferrous Sulphate
+3397,Sangli,Red,80,50,120,6.5,800,30,Grapes,Ferrous Sulphate
+3399,Sangli,Red,90,50,120,6.5,800,30,Grapes,Ferrous Sulphate
+3401,Sangli,Red,100,50,120,6.5,800,30,Grapes,Ferrous Sulphate
+3406,Sangli,Red,100,55,125,7.0,700,20,Grapes,Ferrous Sulphate
+3411,Sangli,Red,100,60,130,7.5,800,25,Grapes,Ferrous Sulphate
+3412,Sangli,Red,80,40,140,6.0,700,30,Grapes,10:10:10 NPK
+3413,Sangli,Red,85,40,140,6.0,700,30,Grapes,10:10:10 NPK
+3415,Sangli,Red,95,40,140,6.0,700,30,Grapes,10:10:10 NPK
+3417,Sangli,Red,80,45,120,6.5,800,20,Grapes,10:10:10 NPK
+3420,Sangli,Red,95,45,120,6.5,800,20,Grapes,10:10:10 NPK
+3421,Sangli,Red,100,45,120,6.5,800,20,Grapes,10:10:10 NPK
+3423,Sangli,Red,85,50,125,7.0,700,25,Grapes,10:10:10 NPK
+3424,Sangli,Red,90,50,125,7.0,700,25,Grapes,10:10:10 NPK
+3426,Sangli,Red,100,50,125,7.0,700,25,Grapes,10:10:10 NPK
+3428,Sangli,Red,85,55,130,7.5,800,30,Grapes,10:10:10 NPK
+3431,Sangli,Red,100,55,130,7.5,800,30,Grapes,10:10:10 NPK
+3432,Sangli,Red,80,60,135,6.0,700,20,Grapes,10:10:10 NPK
+3437,Sangli,Black,120,60,40,5.5,500,20,Maize,MOP
+3439,Sangli,Black,130,60,40,5.5,500,20,Maize,MOP
+3442,Sangli,Black,145,60,40,5.5,500,20,Maize,MOP
+3445,Sangli,Black,125,65,45,6.0,600,25,Maize,MOP
+3446,Sangli,Black,130,65,45,6.0,600,25,Maize,MOP
+3452,Sangli,Black,125,70,50,6.5,500,30,Maize,MOP
+3454,Sangli,Black,135,70,50,6.5,500,30,Maize,MOP
+3456,Sangli,Black,145,70,50,6.5,500,30,Maize,MOP
+3457,Sangli,Black,150,70,50,6.5,500,30,Maize,MOP
+3458,Sangli,Black,120,75,55,7.0,600,20,Maize,MOP
+3459,Sangli,Black,125,75,55,7.0,600,20,Maize,MOP
+3460,Sangli,Black,130,75,55,7.0,600,20,Maize,MOP
+3461,Sangli,Black,135,75,55,7.0,600,20,Maize,MOP
+3462,Sangli,Black,140,75,55,7.0,600,20,Maize,MOP
+3466,Sangli,Black,125,80,60,7.5,500,25,Maize,MOP
+3467,Sangli,Black,130,80,60,7.5,500,25,Maize,MOP
+3469,Sangli,Black,140,80,60,7.5,500,25,Maize,MOP
+3470,Sangli,Black,145,80,60,7.5,500,25,Maize,MOP
+3473,Sangli,Black,125,60,45,5.5,600,30,Maize,SSP
+3478,Sangli,Black,150,60,45,5.5,600,30,Maize,SSP
+3482,Sangli,Black,135,65,50,6.0,500,20,Maize,SSP
+3483,Sangli,Black,140,65,50,6.0,500,20,Maize,SSP
+3484,Sangli,Black,145,65,50,6.0,500,20,Maize,SSP
+3488,Sangli,Black,130,70,55,6.5,600,25,Maize,SSP
+3489,Sangli,Black,135,70,55,6.5,600,25,Maize,SSP
+3490,Sangli,Black,140,70,55,6.5,600,25,Maize,SSP
+3491,Sangli,Black,145,70,55,6.5,600,25,Maize,SSP
+3492,Sangli,Black,150,70,55,6.5,600,25,Maize,SSP
+3493,Sangli,Black,120,75,60,7.0,500,30,Maize,SSP
+3496,Sangli,Black,135,75,60,7.0,500,30,Maize,SSP
+3498,Sangli,Black,145,75,60,7.0,500,30,Maize,SSP
+3499,Sangli,Black,150,75,60,7.0,500,30,Maize,SSP
+3501,Sangli,Black,125,80,40,7.5,600,20,Maize,SSP
+3502,Sangli,Black,130,80,40,7.5,600,20,Maize,SSP
+3503,Sangli,Black,135,80,40,7.5,600,20,Maize,SSP
+3504,Sangli,Black,140,80,40,7.5,600,20,Maize,SSP
+3505,Sangli,Black,145,80,40,7.5,600,20,Maize,SSP
+3506,Sangli,Black,150,80,40,7.5,600,20,Maize,SSP
+3509,Sangli,Black,130,60,50,5.5,500,25,Maize,Urea
+3513,Sangli,Black,150,60,50,5.5,500,25,Maize,Urea
+3516,Sangli,Black,130,65,55,6.0,600,30,Maize,Urea
+3519,Sangli,Black,145,65,55,6.0,600,30,Maize,Urea
+3521,Sangli,Black,120,70,60,6.5,500,20,Maize,Urea
+3523,Sangli,Black,130,70,60,6.5,500,20,Maize,Urea
+3524,Sangli,Black,135,70,60,6.5,500,20,Maize,Urea
+3526,Sangli,Black,145,70,60,6.5,500,20,Maize,Urea
+3527,Sangli,Black,150,70,60,6.5,500,20,Maize,Urea
+3528,Sangli,Black,120,75,40,7.0,600,25,Maize,Urea
+3529,Sangli,Black,125,75,40,7.0,600,25,Maize,Urea
+3530,Sangli,Black,130,75,40,7.0,600,25,Maize,Urea
+3532,Sangli,Black,140,75,40,7.0,600,25,Maize,Urea
+3533,Sangli,Black,145,75,40,7.0,600,25,Maize,Urea
+3534,Sangli,Black,150,75,40,7.0,600,25,Maize,Urea
+3535,Sangli,Black,120,80,45,7.5,500,30,Maize,Urea
+3536,Sangli,Black,125,80,45,7.5,500,30,Maize,Urea
+3537,Sangli,Black,130,80,45,7.5,500,30,Maize,Urea
+3538,Sangli,Black,135,80,45,7.5,500,30,Maize,Urea
+3539,Sangli,Black,140,80,45,7.5,500,30,Maize,Urea
+3542,Sangli,Black,120,60,55,5.5,600,20,Maize,MOP
+3546,Sangli,Black,140,60,55,5.5,600,20,Maize,MOP
+3547,Sangli,Black,145,60,55,5.5,600,20,Maize,MOP
+3548,Sangli,Black,150,60,55,5.5,600,20,Maize,MOP
+3551,Sangli,Black,130,65,60,6.0,500,25,Maize,MOP
+3555,Sangli,Black,150,65,60,6.0,500,25,Maize,MOP
+3564,Sangli,Black,125,75,45,7.0,500,20,Maize,MOP
+3566,Sangli,Black,135,75,45,7.0,500,20,Maize,MOP
+3567,Sangli,Black,140,75,45,7.0,500,20,Maize,MOP
+3569,Sangli,Black,150,75,45,7.0,500,20,Maize,MOP
+3570,Sangli,Black,120,80,50,7.5,600,25,Maize,MOP
+3572,Sangli,Black,130,80,50,7.5,600,25,Maize,MOP
+3573,Sangli,Black,135,80,50,7.5,600,25,Maize,MOP
+3581,Sangli,Black,140,60,60,5.5,500,30,Maize,SSP
+3584,Sangli,Black,120,65,40,6.0,600,20,Maize,SSP
+3585,Sangli,Black,125,65,40,6.0,600,20,Maize,SSP
+3586,Sangli,Black,130,65,40,6.0,600,20,Maize,SSP
+3587,Sangli,Black,135,65,40,6.0,600,20,Maize,SSP
+3594,Sangli,Black,135,70,45,6.5,500,25,Maize,SSP
+3598,Sangli,Black,120,75,50,7.0,600,30,Maize,SSP
+3600,Sangli,Black,130,75,50,7.0,600,30,Maize,SSP
+3602,Sangli,Black,140,75,50,7.0,600,30,Maize,SSP
+3603,Sangli,Black,145,75,50,7.0,600,30,Maize,SSP
+3605,Sangli,Black,120,80,55,7.5,500,20,Maize,SSP
+3606,Sangli,Black,125,80,30,7.5,500,20,Maize,SSP
+3608,Sangli,Black,135,80,30,7.5,500,20,Maize,SSP
+3611,Sangli,Black,150,80,40,7.5,500,20,Maize,SSP
+3612,Sangli,Black,100,40,40,6.0,800,15,Wheat,19:19:19 NPK
+3615,Sangli,Black,115,40,40,6.0,800,15,Wheat,19:19:19 NPK
+3616,Sangli,Black,120,40,40,6.0,800,15,Wheat,19:19:19 NPK
+3617,Sangli,Black,100,45,45,6.5,900,20,Wheat,19:19:19 NPK
+3621,Sangli,Black,120,45,45,6.5,900,20,Wheat,19:19:19 NPK
+3623,Sangli,Black,105,50,50,7.0,800,25,Wheat,19:19:19 NPK
+3624,Sangli,Black,110,50,50,7.0,800,25,Wheat,19:19:19 NPK
+3626,Sangli,Black,120,50,50,7.0,800,25,Wheat,19:19:19 NPK
+3627,Sangli,Black,100,55,55,7.5,900,15,Wheat,19:19:19 NPK
+3629,Sangli,Black,110,55,55,7.5,900,15,Wheat,19:19:19 NPK
+3630,Sangli,Black,115,55,55,7.5,900,15,Wheat,19:19:19 NPK
+3631,Sangli,Black,120,55,55,7.5,900,15,Wheat,19:19:19 NPK
+3632,Sangli,Black,100,60,60,6.0,800,20,Wheat,19:19:19 NPK
+3634,Sangli,Black,110,60,60,6.0,800,20,Wheat,19:19:19 NPK
+3635,Sangli,Black,115,60,60,6.0,800,20,Wheat,19:19:19 NPK
+3643,Sangli,Black,105,45,50,7.0,800,15,Wheat,Urea
+3644,Sangli,Black,110,45,50,7.0,800,15,Wheat,Urea
+3645,Sangli,Black,115,45,50,7.0,800,15,Wheat,Urea
+3646,Sangli,Black,120,45,50,7.0,800,15,Wheat,Urea
+3648,Sangli,Black,105,50,55,7.5,900,20,Wheat,Urea
+3653,Sangli,Black,105,55,60,6.0,800,25,Wheat,Urea
+3655,Sangli,Black,115,55,60,6.0,800,25,Wheat,Urea
+3657,Sangli,Black,100,60,40,6.5,900,15,Wheat,Urea
+3659,Sangli,Black,110,60,40,6.5,900,15,Wheat,Urea
+3660,Sangli,Black,115,60,40,6.5,900,15,Wheat,Urea
+3664,Sangli,Black,110,40,50,7.0,800,15,Wheat,19:19:19 NPK
+3673,Sangli,Black,105,50,60,6.0,800,25,Wheat,19:19:19 NPK
+3678,Sangli,Black,105,55,40,6.5,900,15,Wheat,19:19:19 NPK
+3679,Sangli,Black,110,55,40,6.5,900,15,Wheat,19:19:19 NPK
+3680,Sangli,Black,115,55,40,6.5,900,15,Wheat,19:19:19 NPK
+3683,Sangli,Black,105,60,45,7.0,800,20,Wheat,19:19:19 NPK
+3685,Sangli,Black,115,60,45,7.0,800,20,Wheat,19:19:19 NPK
+3692,Sangli,Black,100,45,60,6.0,800,15,Wheat,Urea
+3694,Sangli,Black,110,45,60,6.0,800,15,Wheat,Urea
+3695,Sangli,Black,115,45,60,6.0,800,15,Wheat,Urea
+3708,Sangli,Black,105,60,50,7.5,900,15,Wheat,Urea
+3710,Sangli,Black,115,60,50,7.5,900,15,Wheat,Urea
+3712,Sangli,Black,100,40,60,6.0,800,15,Wheat,19:19:19 NPK
+3713,Sangli,Black,105,40,60,6.0,800,15,Wheat,19:19:19 NPK
+3714,Sangli,Black,110,40,60,6.0,800,15,Wheat,19:19:19 NPK
+3715,Sangli,Black,115,40,60,6.0,800,15,Wheat,19:19:19 NPK
+3717,Sangli,Black,100,45,40,6.5,900,20,Wheat,19:19:19 NPK
+3720,Sangli,Black,115,45,40,6.5,900,20,Wheat,19:19:19 NPK
+3721,Sangli,Black,120,45,40,6.5,900,20,Wheat,19:19:19 NPK
+3723,Sangli,Black,105,50,45,7.0,800,25,Wheat,19:19:19 NPK
+3725,Sangli,Black,115,50,45,7.0,800,25,Wheat,19:19:19 NPK
+3728,Sangli,Black,105,55,50,7.5,900,15,Wheat,19:19:19 NPK
+3730,Sangli,Black,115,55,50,7.5,900,15,Wheat,19:19:19 NPK
+3731,Sangli,Black,120,55,50,7.5,900,15,Wheat,19:19:19 NPK
+3732,Sangli,Black,100,60,55,6.0,800,20,Wheat,19:19:19 NPK
+3733,Sangli,Black,105,60,55,6.0,800,20,Wheat,19:19:19 NPK
+3734,Sangli,Black,110,60,55,6.0,800,20,Wheat,19:19:19 NPK
+3735,Sangli,Black,115,60,55,6.0,800,20,Wheat,19:19:19 NPK
+3739,Sangli,Red,70,40,40,6.0,800,25,Jowar,10:26:26 NPK
+3745,Sangli,Red,75,45,45,6.5,900,30,Jowar,10:26:26 NPK
+3746,Sangli,Red,80,45,45,6.5,900,30,Jowar,10:26:26 NPK
+3748,Sangli,Red,65,50,50,7.0,800,25,Jowar,10:26:26 NPK
+3754,Sangli,Red,70,55,55,7.5,900,30,Jowar,10:26:26 NPK
+3756,Sangli,Red,80,55,55,7.5,900,30,Jowar,10:26:26 NPK
+3758,Sangli,Red,65,60,60,6.0,800,25,Jowar,10:26:26 NPK
+3759,Sangli,Red,70,60,60,6.0,800,25,Jowar,10:26:26 NPK
+3760,Sangli,Red,75,60,60,6.0,800,25,Jowar,10:26:26 NPK
+3762,Sangli,Red,60,40,45,6.5,900,30,Jowar,Urea
+3764,Sangli,Red,70,40,45,6.5,900,30,Jowar,Urea
+3766,Sangli,Red,80,40,45,6.5,900,30,Jowar,Urea
+3769,Sangli,Red,70,45,50,7.0,800,25,Jowar,Urea
+3771,Sangli,Red,80,45,50,7.0,800,25,Jowar,Urea
+3772,Sangli,Red,60,50,55,7.5,900,30,Jowar,Urea
+3773,Sangli,Red,65,50,55,7.5,900,30,Jowar,Urea
+3774,Sangli,Red,70,50,55,7.5,900,30,Jowar,Urea
+3775,Sangli,Red,75,50,55,7.5,900,30,Jowar,Urea
+3776,Sangli,Red,80,50,55,7.5,900,30,Jowar,Urea
+3777,Sangli,Red,60,55,60,6.0,800,25,Jowar,Urea
+3778,Sangli,Red,65,55,60,6.0,800,25,Jowar,Urea
+3779,Sangli,Red,70,55,60,6.0,800,25,Jowar,Urea
+3780,Sangli,Red,75,55,60,6.0,800,25,Jowar,Urea
+3784,Sangli,Red,70,60,40,6.5,900,30,Jowar,Urea
+3786,Sangli,Red,80,60,40,6.5,900,30,Jowar,Urea
+3787,Sangli,Red,60,40,50,7.0,800,25,Jowar,SSP
+3791,Sangli,Red,80,40,50,7.0,800,25,Jowar,SSP
+3792,Sangli,Red,60,45,55,7.5,900,30,Jowar,SSP
+3793,Sangli,Red,65,45,55,7.5,900,30,Jowar,SSP
+3794,Sangli,Red,70,45,55,7.5,900,30,Jowar,SSP
+3797,Sangli,Red,60,50,60,6.0,800,25,Jowar,SSP
+3801,Sangli,Red,80,50,60,6.0,800,25,Jowar,SSP
+3803,Sangli,Red,65,55,40,6.5,900,30,Jowar,SSP
+3804,Sangli,Red,70,55,40,6.5,900,30,Jowar,SSP
+3806,Sangli,Red,80,55,40,6.5,900,30,Jowar,SSP
+3807,Sangli,Red,60,60,45,7.0,800,25,Jowar,SSP
+3808,Sangli,Red,65,60,45,7.0,800,25,Jowar,SSP
+3810,Sangli,Red,75,60,45,7.0,800,25,Jowar,SSP
+3811,Sangli,Red,80,60,45,7.0,800,25,Jowar,SSP
+3813,Sangli,Red,65,40,55,7.5,900,30,Jowar,10:26:26 NPK
+3814,Sangli,Red,70,40,55,7.5,900,30,Jowar,10:26:26 NPK
+3815,Sangli,Red,75,40,55,7.5,900,30,Jowar,10:26:26 NPK
+3816,Sangli,Red,80,40,55,7.5,900,30,Jowar,10:26:26 NPK
+3818,Sangli,Red,65,45,60,6.0,800,25,Jowar,10:26:26 NPK
+3820,Sangli,Red,75,45,60,6.0,800,25,Jowar,10:26:26 NPK
+3822,Sangli,Red,60,50,40,6.5,900,30,Jowar,10:26:26 NPK
+3823,Sangli,Red,65,50,40,6.5,900,30,Jowar,10:26:26 NPK
+3829,Sangli,Red,70,55,45,7.0,800,25,Jowar,10:26:26 NPK
+3830,Sangli,Red,75,55,45,7.0,800,25,Jowar,10:26:26 NPK
+3831,Sangli,Red,80,55,45,7.0,800,25,Jowar,10:26:26 NPK
+3832,Sangli,Red,60,60,50,7.5,900,30,Jowar,10:26:26 NPK
+3834,Sangli,Red,70,60,50,7.5,900,30,Jowar,10:26:26 NPK
+3837,Sangli,Red,60,40,60,6.0,800,25,Jowar,Urea
+3838,Sangli,Red,65,40,60,6.0,800,25,Jowar,Urea
+3841,Sangli,Red,80,40,60,6.0,800,25,Jowar,Urea
+3843,Sangli,Red,65,45,40,6.5,900,30,Jowar,Urea
+3844,Sangli,Red,70,45,40,6.5,900,30,Jowar,Urea
+3846,Sangli,Red,80,45,40,6.5,900,30,Jowar,Urea
+3847,Sangli,Red,60,50,45,7.0,800,25,Jowar,Urea
+3851,Sangli,Red,80,50,45,7.0,800,25,Jowar,Urea
+3853,Sangli,Red,65,55,50,7.5,900,30,Jowar,Urea
+3854,Sangli,Red,70,55,50,7.5,900,30,Jowar,Urea
+3856,Sangli,Red,80,55,50,7.5,900,30,Jowar,Urea
+3857,Sangli,Red,60,60,45,6.0,800,25,Jowar,Urea
+3861,Sangli,Red,80,60,45,6.0,800,25,Jowar,Urea
+3866,Sangli,Light Brown,25,45,25,6.5,900,30,Groundnut,Chilated Micronutrient
+3867,Sangli,Light Brown,30,45,25,6.5,900,30,Groundnut,Chilated Micronutrient
+3870,Sangli,Light Brown,30,50,30,7.0,800,25,Groundnut,Chilated Micronutrient
+3871,Sangli,Light Brown,20,40,25,6.0,900,30,Groundnut,SSP
+3876,Sangli,Light Brown,30,45,30,6.5,800,25,Groundnut,SSP
+3883,Sangli,Light Brown,20,45,20,6.5,900,30,Groundnut,Chilated Micronutrient
+3884,Sangli,Light Brown,25,45,20,6.5,900,30,Groundnut,Chilated Micronutrient
+3888,Sangli,Light Brown,30,50,25,7.0,800,25,Groundnut,Chilated Micronutrient
+3889,Sangli,Black,25,20,40,5.5,1500,20,Turmeric,Urea
+3890,Sangli,Black,30,20,40,5.5,1500,20,Turmeric,Urea
+3892,Sangli,Black,30,25,45,6.0,1600,25,Turmeric,Urea
+3895,Sangli,Black,20,30,50,6.5,1700,30,Turmeric,Urea
+3896,Sangli,Black,25,30,50,6.5,1700,30,Turmeric,Urea
+3898,Sangli,Black,25,20,45,5.5,1500,20,Turmeric,Ferrous Sulphate
+3901,Sangli,Black,30,25,50,6.0,1600,25,Turmeric,Ferrous Sulphate
+3902,Sangli,Black,20,25,50,6.0,1600,25,Turmeric,Ferrous Sulphate
+3903,Sangli,Black,25,25,50,6.0,1600,25,Turmeric,Ferrous Sulphate
+3910,Sangli,Black,25,20,40,5.5,1500,20,Turmeric,White Potash
+3912,Sangli,Black,20,25,40,6.0,1600,25,Turmeric,White Potash
+3915,Sangli,Black,25,30,45,6.5,1700,30,Turmeric,White Potash
+3916,Sangli,Black,30,30,45,6.5,1700,30,Turmeric,White Potash
+3921,Sangli,Black,120,20,45,6.0,700,25,Cotton,Magnesium Sulphate
+3925,Sangli,Black,115,25,50,6.5,800,30,Cotton,Magnesium Sulphate
+3928,Sangli,Black,105,30,55,7.0,900,35,Cotton,Magnesium Sulphate
+3929,Sangli,Black,110,30,55,7.0,900,35,Cotton,Magnesium Sulphate
+3931,Sangli,Black,120,30,55,7.0,900,35,Cotton,Magnesium Sulphate
+3933,Sangli,Black,105,20,50,7.5,1000,25,Cotton,12:32:16 NPK
+3935,Sangli,Black,115,20,50,7.5,1000,25,Cotton,12:32:16 NPK
+3936,Sangli,Black,120,20,50,7.5,1000,25,Cotton,12:32:16 NPK
+3938,Sangli,Black,105,25,55,6.0,700,30,Cotton,12:32:16 NPK
+3942,Sangli,Black,100,30,45,6.5,800,35,Cotton,12:32:16 NPK
+3945,Sangli,Black,115,30,45,6.5,800,35,Cotton,12:32:16 NPK
+3954,Sangli,Black,110,25,45,7.5,1000,30,Cotton,DAP
+3955,Sangli,Black,115,25,45,7.5,1000,30,Cotton,DAP
+3957,Sangli,Black,100,30,50,6.0,700,35,Cotton,DAP
+3958,Sangli,Black,105,30,50,6.0,700,35,Cotton,DAP
+3960,Sangli,Black,115,30,50,6.0,700,35,Cotton,DAP
+3963,Sangli,Reddish Brown,35,40,20,6.0,600,25,Tur,Urea
+3965,Sangli,Reddish Brown,30,45,25,6.5,700,30,Tur,Urea
+3966,Sangli,Reddish Brown,35,45,25,6.5,700,30,Tur,Urea
+3975,Sangli,Reddish Brown,35,60,25,6.5,700,30,Tur,Urea
+3976,Sangli,Reddish Brown,40,60,25,6.5,700,30,Tur,Urea
+3977,Sangli,Reddish Brown,30,40,30,7.0,800,35,Tur,MOP
+3984,Sangli,Reddish Brown,35,50,25,6.5,700,30,Tur,MOP
+3988,Sangli,Reddish Brown,40,55,30,7.0,800,35,Tur,MOP
+3989,Sangli,Reddish Brown,30,60,20,6.0,600,25,Tur,MOP
+3991,Sangli,Reddish Brown,40,60,20,6.0,600,25,Tur,MOP
+3992,Sangli,Reddish Brown,30,40,25,6.5,700,30,Tur,SSP
+3994,Sangli,Reddish Brown,40,40,25,6.5,700,30,Tur,SSP
+3995,Sangli,Reddish Brown,30,45,30,7.0,800,35,Tur,SSP
+3997,Sangli,Reddish Brown,40,45,30,7.0,800,35,Tur,SSP
+4001,Sangli,Reddish Brown,30,55,25,6.5,700,30,Tur,SSP
+4004,Sangli,Reddish Brown,30,60,30,7.0,800,35,Tur,SSP
+4006,Sangli,Reddish Brown,40,60,30,7.0,800,35,Tur,SSP
+4008,Sangli,Black,45,20,20,6.5,400,25,Moong,MOP
+4010,Sangli,Black,40,25,25,7.0,500,30,Moong,MOP
+4011,Sangli,Black,45,25,25,7.0,500,30,Moong,MOP
+4012,Sangli,Black,50,25,25,7.0,500,30,Moong,MOP
+4016,Sangli,Black,40,20,25,6.5,400,25,Moong,Urea
+4017,Sangli,Black,45,20,25,6.5,400,25,Moong,Urea
+4018,Sangli,Black,50,20,25,6.5,400,25,Moong,Urea
+4019,Sangli,Black,40,25,30,7.0,500,30,Moong,Urea
+4020,Sangli,Black,45,25,30,7.0,500,30,Moong,Urea
+4022,Sangli,Black,40,30,20,7.5,600,35,Moong,Urea
+4028,Sangli,Black,40,25,20,7.0,500,30,Moong,SSP
+4029,Sangli,Black,45,25,20,7.0,500,30,Moong,SSP
+4033,Sangli,Black,50,30,25,7.5,600,35,Moong,SSP
+4034,Pune,Black,100,50,50,5.5,700,35,Rice,Urea
+4035,Pune,Black,105,50,50,5.5,700,35,Rice,Urea
+4037,Pune,Black,115,50,50,5.5,700,35,Rice,Urea
+4039,Pune,Black,100,55,55,6.0,800,40,Rice,Urea
+4040,Pune,Black,105,55,55,6.0,800,40,Rice,Urea
+4041,Pune,Black,110,55,55,6.0,800,40,Rice,Urea
+4042,Pune,Black,115,55,55,6.0,800,40,Rice,Urea
+4045,Pune,Black,105,60,60,6.5,900,35,Rice,Urea
+4046,Pune,Black,110,60,60,6.5,900,35,Rice,Urea
+4049,Pune,Black,100,50,55,5.5,700,40,Rice,50:26:26 NPK
+4051,Pune,Black,110,50,55,5.5,700,40,Rice,50:26:26 NPK
+4052,Pune,Black,115,50,55,5.5,700,40,Rice,50:26:26 NPK
+4053,Pune,Black,120,50,55,5.5,700,40,Rice,50:26:26 NPK
+4058,Pune,Black,120,55,60,6.0,800,35,Rice,50:26:26 NPK
+4060,Pune,Black,105,60,50,6.5,900,40,Rice,50:26:26 NPK
+4061,Pune,Black,110,60,50,6.5,900,40,Rice,50:26:26 NPK
+4063,Pune,Black,120,60,50,6.5,900,40,Rice,50:26:26 NPK
+4064,Pune,Black,100,50,60,5.5,700,35,Rice,Urea
+4070,Pune,Black,105,55,50,6.0,800,40,Rice,Urea
+4071,Pune,Black,110,55,50,6.0,800,40,Rice,Urea
+4073,Pune,Black,120,55,50,6.0,800,40,Rice,Urea
+4076,Pune,Black,110,60,55,6.5,900,35,Rice,Urea
+4081,Pune,Black,60,30,30,6.0,700,25,Jowar,10:26:26 NPK
+4083,Pune,Black,70,30,30,6.0,700,25,Jowar,10:26:26 NPK
+4085,Pune,Black,55,35,35,6.5,800,30,Jowar,10:26:26 NPK
+4086,Pune,Black,60,35,35,6.5,800,30,Jowar,10:26:26 NPK
+4087,Pune,Black,65,35,35,6.5,800,30,Jowar,10:26:26 NPK
+4096,Pune,Black,60,30,35,6.0,700,25,Jowar,Urea
+4097,Pune,Black,65,30,35,6.0,700,25,Jowar,Urea
+4099,Pune,Black,50,35,40,6.5,800,30,Jowar,Urea
+4101,Pune,Black,60,35,40,6.5,800,30,Jowar,Urea
+4102,Pune,Black,65,35,40,6.5,800,30,Jowar,Urea
+4103,Pune,Black,70,35,40,6.5,800,30,Jowar,Urea
+4105,Pune,Black,55,40,30,7.0,900,35,Jowar,Urea
+4107,Pune,Black,65,40,30,7.0,900,35,Jowar,Urea
+4108,Pune,Black,70,40,30,7.0,900,35,Jowar,Urea
+4110,Pune,Black,55,30,40,6.0,700,25,Jowar,SSP
+4111,Pune,Black,60,30,40,6.0,700,25,Jowar,SSP
+4112,Pune,Black,65,30,40,6.0,700,25,Jowar,SSP
+4113,Pune,Black,70,30,40,6.0,700,25,Jowar,SSP
+4115,Pune,Black,55,35,30,6.5,800,30,Jowar,SSP
+4116,Pune,Black,60,35,30,6.5,800,30,Jowar,SSP
+4117,Pune,Black,65,35,30,6.5,800,30,Jowar,SSP
+4119,Pune,Black,50,40,35,7.0,900,35,Jowar,SSP
+4122,Pune,Black,65,40,35,7.0,900,35,Jowar,SSP
+4123,Pune,Black,70,40,35,7.0,900,35,Jowar,SSP
+4124,Pune,Dark Brown,20,30,15,6.0,700,20,Tur,Urea
+4127,Pune,Dark Brown,20,35,20,6.5,800,25,Tur,Urea
+4129,Pune,Dark Brown,30,35,20,6.5,800,25,Tur,Urea
+4130,Pune,Dark Brown,20,40,15,7.0,900,30,Tur,Urea
+4138,Pune,Dark Brown,30,35,15,6.5,800,25,Tur,MOP
+4141,Pune,Dark Brown,30,40,20,7.0,900,30,Tur,MOP
+4143,Pune,Reddish Brown,105,50,40,6.5,700,15,Wheat,19:19:19 NPK
+4144,Pune,Reddish Brown,110,50,40,6.5,700,15,Wheat,19:19:19 NPK
+4147,Pune,Reddish Brown,100,55,45,7.0,800,20,Wheat,19:19:19 NPK
+4148,Pune,Reddish Brown,105,55,45,7.0,800,20,Wheat,19:19:19 NPK
+4149,Pune,Reddish Brown,110,55,45,7.0,800,20,Wheat,19:19:19 NPK
+4150,Pune,Reddish Brown,115,55,45,7.0,800,20,Wheat,19:19:19 NPK
+4151,Pune,Reddish Brown,120,55,45,7.0,800,20,Wheat,19:19:19 NPK
+4152,Pune,Reddish Brown,100,60,50,7.5,900,15,Wheat,19:19:19 NPK
+4153,Pune,Reddish Brown,105,60,50,7.5,900,15,Wheat,19:19:19 NPK
+4154,Pune,Reddish Brown,110,60,50,7.5,900,15,Wheat,19:19:19 NPK
+4155,Pune,Reddish Brown,115,60,50,7.5,900,15,Wheat,19:19:19 NPK
+4156,Pune,Reddish Brown,120,60,50,7.5,900,15,Wheat,19:19:19 NPK
+4157,Pune,Reddish Brown,100,50,45,6.5,700,20,Wheat,Urea
+4158,Pune,Reddish Brown,105,50,45,6.5,700,20,Wheat,Urea
+4160,Pune,Reddish Brown,115,50,45,6.5,700,20,Wheat,Urea
+4161,Pune,Reddish Brown,120,50,45,6.5,700,20,Wheat,Urea
+4163,Pune,Reddish Brown,105,55,50,7.0,800,15,Wheat,Urea
+4170,Pune,Reddish Brown,115,60,40,7.5,900,20,Wheat,Urea
+4171,Pune,Reddish Brown,120,60,40,7.5,900,20,Wheat,Urea
+4173,Pune,Reddish Brown,105,50,50,6.5,700,15,Wheat,19:19:19 NPK
+4174,Pune,Reddish Brown,110,50,50,6.5,700,15,Wheat,19:19:19 NPK
+4176,Pune,Reddish Brown,120,50,50,6.5,700,15,Wheat,19:19:19 NPK
+4178,Pune,Reddish Brown,105,55,40,7.0,800,20,Wheat,19:19:19 NPK
+4185,Pune,Reddish Brown,115,60,45,7.5,900,15,Wheat,19:19:19 NPK
+4189,Pune,Red,30,30,20,5.5,700,25,Groundnut,Chilated Micronutrient
+4190,Pune,Red,20,35,25,6.0,800,30,Groundnut,Chilated Micronutrient
+4191,Pune,Red,25,35,25,6.0,800,30,Groundnut,Chilated Micronutrient
+4195,Pune,Red,30,40,30,6.5,900,35,Groundnut,Chilated Micronutrient
+4196,Pune,Red,20,30,25,5.5,700,25,Groundnut,SSP
+4197,Pune,Red,25,30,25,5.5,700,25,Groundnut,SSP
+4198,Pune,Red,30,30,25,5.5,700,25,Groundnut,SSP
+4200,Pune,Red,25,35,30,6.0,800,30,Groundnut,SSP
+4203,Pune,Red,25,40,20,6.5,900,35,Groundnut,SSP
+4204,Pune,Red,30,40,20,6.5,900,35,Groundnut,SSP
+4208,Pune,Red,20,35,20,6.0,800,30,Groundnut,Chilated Micronutrient
+4209,Pune,Red,25,35,20,6.0,800,30,Groundnut,Chilated Micronutrient
+4210,Pune,Red,30,35,20,6.0,800,30,Groundnut,Chilated Micronutrient
+4211,Pune,Red,20,40,25,6.5,900,35,Groundnut,Chilated Micronutrient
+4212,Pune,Red,25,40,25,6.5,900,35,Groundnut,Chilated Micronutrient
+4214,Pune,Black,30,30,20,6.0,700,25,Urad,Urea
+4215,Pune,Black,35,30,20,6.0,700,25,Urad,Urea
+4216,Pune,Black,40,30,20,6.0,700,25,Urad,Urea
+4220,Pune,Black,30,40,30,7.0,900,35,Urad,Urea
+4228,Pune,Black,40,35,30,6.5,800,30,Urad,SSP
+4229,Pune,Black,30,40,20,7.0,900,35,Urad,SSP
+4233,Pune,Black,35,30,30,6.0,700,25,Urad,DAP
+4234,Pune,Black,40,30,30,6.0,700,25,Urad,DAP
+4237,Pune,Black,40,35,20,6.5,800,30,Urad,DAP
+4239,Pune,Black,35,40,25,7.0,900,35,Urad,DAP
+4240,Pune,Black,40,40,25,7.0,900,35,Urad,DAP
+4241,Pune,Black,30,40,20,6.0,700,15,Gram,DAP
+4242,Pune,Black,35,40,20,6.0,700,15,Gram,DAP
+4243,Pune,Black,40,40,20,6.0,700,15,Gram,DAP
+4245,Pune,Black,35,45,25,6.5,800,20,Gram,DAP
+4248,Pune,Black,35,50,30,7.0,900,15,Gram,DAP
+4251,Pune,Black,35,40,25,7.5,700,20,Gram,MOP
+4252,Pune,Black,40,40,25,7.5,700,20,Gram,MOP
+4253,Pune,Black,30,45,30,6.0,800,15,Gram,MOP
+4255,Pune,Black,40,45,30,6.0,800,15,Gram,MOP
+4258,Pune,Black,40,50,20,6.5,900,20,Gram,MOP
+4259,Pune,Black,30,40,30,7.0,700,15,Gram,DAP
+4260,Pune,Black,35,40,30,7.0,700,15,Gram,DAP
+4262,Pune,Black,30,45,20,7.5,800,20,Gram,DAP
+4268,Pune,Black,120,60,120,6.5,1000,20,Sugarcane,MOP
+4269,Pune,Black,125,60,120,6.5,1000,20,Sugarcane,MOP
+4272,Pune,Black,140,60,120,6.5,1000,20,Sugarcane,MOP
+4273,Pune,Black,145,60,120,6.5,1000,20,Sugarcane,MOP
+4276,Pune,Black,125,65,125,7.0,1100,25,Sugarcane,MOP
+4278,Pune,Black,135,65,125,7.0,1100,25,Sugarcane,MOP
+4279,Pune,Black,140,65,125,7.0,1100,25,Sugarcane,MOP
+4280,Pune,Black,145,65,125,7.0,1100,25,Sugarcane,MOP
+4284,Pune,Black,130,70,130,7.5,1200,30,Sugarcane,MOP
+4288,Pune,Black,150,70,130,7.5,1200,30,Sugarcane,MOP
+4289,Pune,Black,120,75,135,6.5,1300,35,Sugarcane,MOP
+4294,Pune,Black,145,75,135,6.5,1300,35,Sugarcane,MOP
+4295,Pune,Black,150,75,135,6.5,1300,35,Sugarcane,MOP
+4297,Pune,Black,125,80,140,7.0,1400,20,Sugarcane,MOP
+4298,Pune,Black,130,80,140,7.0,1400,20,Sugarcane,MOP
+4303,Pune,Black,120,60,145,7.5,1500,25,Sugarcane,Urea
+4305,Pune,Black,130,60,145,7.5,1500,25,Sugarcane,Urea
+4306,Pune,Black,135,60,145,7.5,1500,25,Sugarcane,Urea
+4308,Pune,Black,145,60,145,7.5,1500,25,Sugarcane,Urea
+4309,Pune,Black,150,60,145,7.5,1500,25,Sugarcane,Urea
+4311,Pune,Black,125,65,150,6.5,1000,30,Sugarcane,Urea
+4312,Pune,Black,130,65,150,6.5,1000,30,Sugarcane,Urea
+4314,Pune,Black,140,65,150,6.5,1000,30,Sugarcane,Urea
+4315,Pune,Black,145,65,150,6.5,1000,30,Sugarcane,Urea
+4316,Pune,Black,150,65,150,6.5,1000,30,Sugarcane,Urea
+4319,Pune,Black,130,70,120,7.0,1100,35,Sugarcane,Urea
+4320,Pune,Black,135,70,120,7.0,1100,35,Sugarcane,Urea
+4321,Pune,Black,140,70,120,7.0,1100,35,Sugarcane,Urea
+4323,Pune,Black,150,70,120,7.0,1100,35,Sugarcane,Urea
+4325,Pune,Black,125,75,125,7.5,1200,20,Sugarcane,Urea
+4327,Pune,Black,135,75,125,7.5,1200,20,Sugarcane,Urea
+4329,Pune,Black,145,75,125,7.5,1200,20,Sugarcane,Urea
+4332,Pune,Black,125,80,130,6.5,1300,25,Sugarcane,Urea
+4333,Pune,Black,130,80,130,6.5,1300,25,Sugarcane,Urea
+4335,Pune,Black,140,80,130,6.5,1300,25,Sugarcane,Urea
+4336,Pune,Black,145,80,130,6.5,1300,25,Sugarcane,Urea
+4337,Pune,Black,150,80,130,6.5,1300,25,Sugarcane,Urea
+4338,Pune,Black,120,60,135,7.0,1400,30,Sugarcane,DAP
+4341,Pune,Black,135,60,135,7.0,1400,30,Sugarcane,DAP
+4342,Pune,Black,140,60,135,7.0,1400,30,Sugarcane,DAP
+4344,Pune,Black,150,60,135,7.0,1400,30,Sugarcane,DAP
+4352,Pune,Black,120,70,145,6.5,1000,20,Sugarcane,DAP
+4356,Pune,Black,140,70,145,6.5,1000,20,Sugarcane,DAP
+4357,Pune,Black,145,70,145,6.5,1000,20,Sugarcane,DAP
+4359,Pune,Black,120,75,150,7.0,1100,25,Sugarcane,DAP
+4360,Pune,Black,125,75,150,7.0,1100,25,Sugarcane,DAP
+4361,Pune,Black,130,75,150,7.0,1100,25,Sugarcane,DAP
+4362,Pune,Black,135,75,150,7.0,1100,25,Sugarcane,DAP
+4363,Pune,Black,140,75,150,7.0,1100,25,Sugarcane,DAP
+4368,Pune,Black,130,80,120,7.5,1200,30,Sugarcane,DAP
+4369,Pune,Black,135,80,120,7.5,1200,30,Sugarcane,DAP
+4370,Pune,Black,140,80,120,7.5,1200,30,Sugarcane,DAP
+4374,Pune,Black,125,60,125,6.5,1300,35,Sugarcane,MOP
+4375,Pune,Black,130,60,125,6.5,1300,35,Sugarcane,MOP
+4376,Pune,Black,135,60,125,6.5,1300,35,Sugarcane,MOP
+4378,Pune,Black,145,60,125,6.5,1300,35,Sugarcane,MOP
+4380,Pune,Black,120,65,130,7.0,1400,20,Sugarcane,MOP
+4382,Pune,Black,130,65,130,7.0,1400,20,Sugarcane,MOP
+4383,Pune,Black,135,65,130,7.0,1400,20,Sugarcane,MOP
+4385,Pune,Black,145,65,130,7.0,1400,20,Sugarcane,MOP
+4386,Pune,Black,150,65,130,7.0,1400,20,Sugarcane,MOP
+4392,Pune,Black,145,70,135,7.5,1500,25,Sugarcane,MOP
+4394,Pune,Black,120,75,140,6.5,1000,30,Sugarcane,MOP
+4395,Pune,Black,125,75,140,6.5,1000,30,Sugarcane,MOP
+4397,Pune,Black,135,75,140,6.5,1000,30,Sugarcane,MOP
+4400,Pune,Black,150,75,140,6.5,1000,30,Sugarcane,MOP
+4402,Pune,Black,125,80,145,7.0,1100,35,Sugarcane,MOP
+4406,Pune,Black,145,80,145,7.0,1100,35,Sugarcane,MOP
+4410,Pune,Black,130,60,150,7.5,1200,20,Sugarcane,Urea
+4412,Pune,Black,140,60,150,7.5,1200,20,Sugarcane,Urea
+4416,Pune,Black,125,65,120,6.5,1300,25,Sugarcane,Urea
+4417,Pune,Black,130,65,120,6.5,1300,25,Sugarcane,Urea
+4419,Pune,Black,140,65,120,6.5,1300,25,Sugarcane,Urea
+4420,Pune,Black,145,65,120,6.5,1300,25,Sugarcane,Urea
+4429,Pune,Black,120,75,130,7.5,1500,35,Sugarcane,Urea
+4430,Pune,Black,125,75,130,7.5,1500,35,Sugarcane,Urea
+4431,Pune,Black,130,75,130,7.5,1500,35,Sugarcane,Urea
+4434,Pune,Black,145,75,130,7.5,1500,35,Sugarcane,Urea
+4439,Pune,Black,135,80,135,6.5,1000,20,Sugarcane,Urea
+4442,Pune,Black,150,80,135,6.5,1000,20,Sugarcane,Urea
+4445,Pune,Black,130,60,140,7.0,1100,25,Sugarcane,DAP
+4447,Pune,Black,140,60,140,7.0,1100,25,Sugarcane,DAP
+4449,Pune,Black,150,60,140,7.0,1100,25,Sugarcane,DAP
+4451,Pune,Black,125,65,145,7.5,1200,30,Sugarcane,DAP
+4452,Pune,Black,130,65,145,7.5,1200,30,Sugarcane,DAP
+4456,Pune,Black,150,65,145,7.5,1200,30,Sugarcane,DAP
+4457,Pune,Black,120,70,150,6.5,1300,35,Sugarcane,DAP
+4459,Pune,Black,130,70,150,6.5,1300,35,Sugarcane,DAP
+4460,Pune,Black,135,70,150,6.5,1300,35,Sugarcane,DAP
+4463,Pune,Black,150,70,150,6.5,1300,35,Sugarcane,DAP
+4471,Pune,Black,120,80,125,7.5,1500,25,Sugarcane,DAP
+4472,Pune,Black,125,80,125,7.5,1500,25,Sugarcane,DAP
+4474,Pune,Black,135,80,125,7.5,1500,25,Sugarcane,DAP
+4475,Pune,Black,140,80,125,7.5,1500,25,Sugarcane,DAP
+4476,Pune,Black,145,80,125,7.5,1500,25,Sugarcane,DAP
+4477,Pune,Black,150,80,125,7.5,1500,25,Sugarcane,DAP
+4478,Pune,Black,120,60,130,6.5,1000,30,Sugarcane,MOP
+4482,Pune,Black,140,60,130,6.5,1000,30,Sugarcane,MOP
+4484,Pune,Black,150,60,130,6.5,1000,30,Sugarcane,MOP
+4486,Pune,Black,125,65,135,7.0,1100,35,Sugarcane,MOP
+4487,Pune,Black,130,65,135,7.0,1100,35,Sugarcane,MOP
+4488,Pune,Black,135,65,135,7.0,1100,35,Sugarcane,MOP
+4490,Pune,Black,145,65,135,7.0,1100,35,Sugarcane,MOP
+4492,Pune,Black,120,70,140,7.5,1200,20,Sugarcane,MOP
+4493,Pune,Black,125,70,140,7.5,1200,20,Sugarcane,MOP
+4498,Pune,Black,150,70,140,7.5,1200,20,Sugarcane,MOP
+4499,Pune,Black,120,75,145,6.5,1300,25,Sugarcane,MOP
+4500,Pune,Black,125,75,145,6.5,1300,25,Sugarcane,MOP
+4503,Pune,Black,140,75,145,6.5,1300,25,Sugarcane,MOP
+4504,Pune,Black,145,75,145,6.5,1300,25,Sugarcane,MOP
+4506,Pune,Black,120,80,150,7.0,1400,30,Sugarcane,MOP
+4507,Pune,Black,125,80,150,7.0,1400,30,Sugarcane,MOP
+4508,Pune,Black,130,80,150,7.0,1400,30,Sugarcane,MOP
+4511,Pune,Black,145,80,150,7.0,1400,30,Sugarcane,MOP
